@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T18:00:46.868Z",
+  "gegenereerdOp": "2026-11-14T19:00:47.708Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -33,14 +33,14 @@
       "opeenvolgendLeeg": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-14T18:00:46.868Z",
+      "laatsteScrape": "2026-11-14T19:00:47.708Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-14T18:00:46.868Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-14T19:00:47.708Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
@@ -100,25 +100,30 @@
       "opeenvolgendLeeg": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-14T18:00:46.868Z",
+      "laatsteScrape": "2026-11-14T19:00:47.708Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-14T18:00:46.868Z",
+      "laatsteScrape": "2026-11-14T19:00:47.708Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 11,
+      "opeenvolgendLeeg": 12,
       "opeenvolgendFout": 0
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-14T18:00:46.868Z",
+      "laatsteScrape": "2026-11-14T19:00:47.708Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 56,
-      "opeenvolgendFout": 0
+      "opeenvolgendLeeg": 57,
+      "opeenvolgendFout": 1,
+      "laatsteFout": {
+        "tijd": "2026-11-14T19:00:47.708Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 504",
+        "duurSec": null
+      }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-14T18:00:46.868Z",
+      "laatsteScrape": "2026-11-14T19:00:47.708Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -405,8 +410,8 @@
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 97,
       "stukken": 567,
-      "kandidaten": 93,
-      "metAnker": 93,
+      "kandidaten": 81,
+      "metAnker": 81,
       "zonderAnker": 0,
       "afgelast": 2,
       "dubbel": 1,

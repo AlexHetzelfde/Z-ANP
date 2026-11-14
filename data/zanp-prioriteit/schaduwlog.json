@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T18:00:46.868Z",
+  "gegenereerdOp": "2026-11-14T19:00:47.708Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 97,
     "stukken": 567,
-    "kandidaten": 93,
-    "metAnker": 93,
+    "kandidaten": 81,
+    "metAnker": 81,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 1,
@@ -101,37 +101,6 @@
           "c": 0.63,
           "plek": "intro",
           "titel": "In memoriam: Rita Melk (1957–2026), onvermoeibaar voor de Zaanse natuur"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.deorkaan.nl/verblijfsontzegging-voor-overlast-gevende-jongeren-bij-de-tref-en-gibraltar/",
-      "soort": "nieuws",
-      "kop": "Verblijfsontzegging voor overlast gevende jongeren bij De Tref en Gibraltar",
-      "S": 0.27,
-      "Sa": 0.27,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.86,
-      "Kp": 0.6,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "gibraltar",
-        "gevend",
-        "overlast",
-        "verblijfsontzegging",
-        "hardnekkig",
-        "peldersveld"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-11T23:00:00.000Z",
-          "c": 0.9,
-          "plek": "kop",
-          "titel": "Aanwijzingsbesluit verblijfsontzegging omgeving Gibraltar te Zaandam"
         }
       ]
     },
@@ -232,8 +201,8 @@
       "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/e785389b-1c3f-49f9-b2f3-2fc0edf3b5a3",
       "soort": "nieuws",
       "kop": "Nieuwsbrief | 12 november 2026",
-      "S": 0.18,
-      "Sa": 0.18,
+      "S": 0.17,
+      "Sa": 0.17,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0,
@@ -375,42 +344,6 @@
           "c": 0.61,
           "plek": "intro",
           "titel": "Fel verzet omwonenden tegen tennispark Spekhuisstraat: ‘gewoon een heel slecht plan’"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/07ddd8a4-7fac-47e6-8bf6-1d297be26b62",
-      "soort": "nieuws",
-      "kop": "Motie aangenomen: A8-A9 Te groot voor de provincie, te belangrijk om te laten liggen",
-      "S": 0.12,
-      "Sa": 0.12,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.16,
-      "Kp": 0,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "laten",
-        "casper",
-        "davelar",
-        "26m77",
-        "discussi",
-        "tiental",
-        "elano",
-        "uitert",
-        "peter",
-        "verbinding",
-        "bomsma"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaanstad-moties",
-          "datum": "2026-11-10T23:08:49.684Z",
-          "c": 0.72,
-          "plek": "intro",
-          "titel": "Motie aangenomen: Wie niets geeft, kan niet terugverwachten"
         }
       ]
     },
@@ -608,32 +541,6 @@
           "c": 0.92,
           "plek": "kop",
           "titel": "Russische Buurt voert actie: ‘Laat de poller omhoog’"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/375b0f79-f1f1-473b-b40a-758240043015",
-      "soort": "nieuws",
-      "kop": "Motie aangenomen: Nachttrein",
-      "S": 0.05,
-      "Sa": 0.05,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.19,
-      "Kp": 0.05,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "nachttrein"
-      ],
-      "bewijs": [
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-10-28T23:00:00.000Z",
-          "c": 0.6,
-          "plek": "intro",
-          "titel": "Zaanse begroting ronde twee: van AI tot gemeentehuis"
         }
       ]
     },
@@ -1158,6 +1065,65 @@
         "noise",
         "coverband",
         "back"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:e05ce9e961",
+      "soort": "agenda",
+      "kop": "De Fabriek: Laatbloeier met High Tea",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.1,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "latbloeier",
+        "high"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:69587e1f80",
+      "soort": "agenda",
+      "kop": "Groot Dictee der Nederlandse Taal",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "dicte"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:a24756ce32",
+      "soort": "agenda",
+      "kop": "Dag voor de Raad 2026!",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "antropia",
+        "drieberg",
+        "dagprogramma",
+        "zeist",
+        "vereniging"
       ],
       "bewijs": []
     }
