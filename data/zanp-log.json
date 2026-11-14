@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T22:00:49.140Z",
+  "gegenereerdOp": "2026-11-14T23:00:49.160Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
     {
@@ -315,24 +315,7 @@
                 "gemTekens": 1586
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "DeOrkaan",
-              "methode": "run",
-              "kop": "Bewoner onwel door vreemde lucht bij woningen Sumatrakade (Wormerveer)",
-              "tekensVoor": 1598,
-              "tekensNa": 1601,
-              "alineas": 4,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "De brandweer kreeg dinsdagavond – 10 november – een melding over een vreemde lucht aan de Sumatrakade in Wormerveer. Een bewoner werd onwel nadat hij op onderzoek was uitgegaan. Hij is ter controle naar het ziekenhuis ge",
-              "eind": " vreemde lucht te verwijderen. Onder een slideshow met acht foto’s (klik op de pijltjes of swipe): Door Michel Schermer."
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 281/300 berichten (94%). Laagst: vervoerregio-overzichten 3/6 (50%); ibabs-collegeberichten 8/15 (53%); ibabs-ingekomen-stukken 34/43 (79%)."
-          ]
+          }
         },
         "run": {
           "tellers": {},
@@ -342,9 +325,7 @@
             "aiVerzoeken": 2,
             "geminiDagGebruikt": "11/80",
             "duurSeconden": 83
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -4693,6 +4674,196 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-14T23:00:49.160Z",
+      "duurMs": 40123,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 0,
+            "leegZonderFout": 3
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "zaanstad-moties",
+              "zaanstad-camera",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 1,
+            "bytesVerwijderd": 38859
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-01",
+            "dekkingPct": 97,
+            "berichtenZonderTekst": 9,
+            "dekkingPerBron": {
+              "DeOrkaan": {
+                "berichten": 154,
+                "metTekst": 154,
+                "pct": 100,
+                "gemTekens": 2651
+              },
+              "nh-actueel": {
+                "berichten": 20,
+                "metTekst": 20,
+                "pct": 100,
+                "gemTekens": 3052
+              },
+              "bekendmakingen": {
+                "berichten": 31,
+                "metTekst": 31,
+                "pct": 100,
+                "gemTekens": 1199
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 43,
+                "metTekst": 38,
+                "pct": 88,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 1354
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 1,
+            "aiJa": 0,
+            "aiNee": 1,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [
+              "schan (5)"
+            ],
+            "stubsTotaal": 319,
+            "verhalen": 296,
+            "kandidaten": 1,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [
+            {
+              "besluit": "geen dossier",
+              "woord": "schan",
+              "aantal": 5,
+              "reden": "te-weinig-bij-elkaar",
+              "koppen": [
+                "De Duinkaart is terug! Vanaf maart 2027 ‘vrijwillige bijdrage’ voor Zaanse Schans",
+                "Laurentine Pels Rijcken wordt per 1 januari 2027 interim-directeur-bestuurder Stichting de Zaanse Schans",
+                "Laurentine Pels Rijcken nieuwe interim-directeur Zaanse Schans",
+                "Bewonersvereniging Zaanse Schans vraagt aandacht voor groeiende toeristenoverlast"
+              ]
+            }
+          ],
+          "regels": [
+            "Kandidaat \"schan\" (5 verhalen): geen dossier (te-weinig-bij-elkaar)."
+          ]
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 347,
+            "agendaItems": 242,
+            "aiVerzoeken": 1,
+            "geminiDagGebruikt": "5/80",
+            "duurSeconden": 40
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -4822,7 +4993,7 @@
       }
     },
     "2026-11-14": {
-      "runs": 11,
+      "runs": 12,
       "tellers": {
         "spelling": {
           "gecontroleerd": 2,
@@ -4838,22 +5009,22 @@
           "titelHerhalingWeg": 0,
           "methode-artikel": 2,
           "oudeBestandenOvergezet": 0,
-          "dagbestandenVerwijderd": 1,
-          "bytesVerwijderd": 215843,
+          "dagbestandenVerwijderd": 2,
+          "bytesVerwijderd": 254702,
           "methode-run": 13
         },
         "jubileum": {
           "nieuwsRood": 0,
           "agendaRood": 1,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 10
+          "alRoodDoorPrioriteit": 11
         },
         "dossiers": {
           "stubsNieuw": 8,
           "stubsVerlopen": 0,
-          "aiControles": 1,
+          "aiControles": 2,
           "aiJa": 0,
-          "aiNee": 1,
+          "aiNee": 2,
           "aiFout": 0,
           "nieuweDossiers": 0,
           "itemsToegevoegd": 0,
@@ -4862,9 +5033,9 @@
         "run": {},
         "bronnen": {
           "statusOpgeruimd": 6,
-          "gescrapet": 42,
+          "gescrapet": 48,
           "fout": 3,
-          "leegZonderFout": 11
+          "leegZonderFout": 14
         }
       }
     }
