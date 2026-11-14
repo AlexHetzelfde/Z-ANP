@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T20:00:46.678Z",
+  "gegenereerdOp": "2026-11-14T21:00:57.121Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -33,13 +33,13 @@
       "opeenvolgendLeeg": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-14T20:00:46.678Z",
+      "laatsteScrape": "2026-11-14T21:00:57.121Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-14T20:00:46.678Z",
+      "laatsteScrape": "2026-11-14T21:00:57.121Z",
       "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -100,30 +100,35 @@
       "opeenvolgendLeeg": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-14T20:00:46.678Z",
+      "laatsteScrape": "2026-11-14T21:00:57.121Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-14T20:00:46.678Z",
+      "laatsteScrape": "2026-11-14T21:00:57.121Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 13,
-      "opeenvolgendFout": 0
+      "opeenvolgendLeeg": 14,
+      "opeenvolgendFout": 1,
+      "laatsteFout": {
+        "tijd": "2026-11-14T21:00:57.121Z",
+        "bericht": "Lijst ophalen mislukt: Unexpected end of JSON input",
+        "duurSec": null
+      }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-14T20:00:46.678Z",
+      "laatsteScrape": "2026-11-14T21:00:57.121Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 58,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 59,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-14T19:00:47.708Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 504",
+        "tijd": "2026-11-14T21:00:57.121Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 500",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-14T20:00:46.678Z",
+      "laatsteScrape": "2026-11-14T21:00:57.121Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
