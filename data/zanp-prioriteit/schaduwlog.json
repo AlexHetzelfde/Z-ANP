@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T10:00:55.157Z",
+  "gegenereerdOp": "2026-11-15T11:00:55.146Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -326,8 +326,8 @@
       "key": "a:d1eae07b85",
       "soort": "agenda",
       "kop": "Brandweer Oostzaan viert 100-jarig jubileum",
-      "S": 0.04,
-      "Sa": 0.04,
+      "S": 0.03,
+      "Sa": 0.03,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.35,

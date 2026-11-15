@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T10:00:55.157Z",
+  "gegenereerdOp": "2026-11-15T11:00:55.146Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,14 +39,14 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-15T10:00:55.157Z",
+      "laatsteScrape": "2026-11-15T11:00:55.146Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-15T10:00:55.157Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-15T11:00:55.146Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
@@ -122,15 +122,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-15T10:00:55.157Z",
+      "laatsteScrape": "2026-11-15T11:00:55.146Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 11,
+      "opeenvolgendLeeg": 12,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-15T10:00:55.157Z",
+      "laatsteScrape": "2026-11-15T11:00:55.146Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 27,
+      "opeenvolgendLeeg": 28,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -139,10 +139,10 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-15T10:00:55.157Z",
+      "laatsteScrape": "2026-11-15T11:00:55.146Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 72,
-      "opeenvolgendFout": 4,
+      "opeenvolgendLeeg": 73,
+      "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-15T10:00:55.157Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 403",
@@ -150,9 +150,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-15T10:00:55.157Z",
+      "laatsteScrape": "2026-11-15T11:00:55.146Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 12,
+      "opeenvolgendLeeg": 13,
       "opeenvolgendFout": 0
     }
   },
@@ -399,7 +399,7 @@
       "seed": 0
     },
     "cluster": {
-      "vergeleken": 1128,
+      "vergeleken": 435,
       "automatisch": 0,
       "aiGevraagd": 0,
       "aiJa": 0,

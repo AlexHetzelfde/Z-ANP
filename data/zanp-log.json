@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T10:00:55.157Z",
+  "gegenereerdOp": "2026-11-15T11:00:55.146Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
     {
@@ -2126,11 +2126,7 @@
             "gecontroleerd": 2,
             "ok": 2
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "tekst": {
           "tellers": {
@@ -2231,60 +2227,7 @@
                 "gemTekens": 3328
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "DeOrkaan",
-              "methode": "run",
-              "kop": "Handboogschieten: ‘Een goed schot voel je al in je voorbereiding’ 🎙",
-              "tekensVoor": 1861,
-              "tekensNa": 1864,
-              "alineas": 4,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "Cupido boekte er vele successen mee en ook Robin Hood werd er beroemd door, het handboogschieten. Nu staan twee Zaanse talenten op het punt om door te breken in de sport. Demi van Holland en Tjebbe Aalsma boekten onlangs",
-              "eind": "den via de website van de Saense Handboog Skutters. Demi en Tjebbe, altijd scherp gericht op hun doel Door Edwin Kleiss."
-            },
-            {
-              "bron": "bekendmakingen",
-              "methode": "run",
-              "kop": "Melding graven bodem - Nabij Sportlaan 6 Zaandam , 23 meter richting noordwesten",
-              "tekensVoor": 428,
-              "tekensNa": 428,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "De Omgevingsdienst Noordzeekanaalgebied maakt bekend dat zij een melding heeft ontvangen. Onderwerp: Melding graven bodem Aanvrager: QTERRA B.V. Zaaknummer: OD2026-0070893 DSO nummer: 2026110401544 Ontvangstdatum melding",
-              "eind": "t. Heeft u een vraag over deze zaak dan kunt u gebruik maken van dit webformulier. Er wordt dan contact met u opgenomen."
-            },
-            {
-              "bron": "WaarheenAgenda",
-              "methode": "run",
-              "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
-              "tekensVoor": 965,
-              "tekensNa": 966,
-              "alineas": 2,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "Beleef de Zaanse molens in het donker Ter gelegenheid van het 80-jarig bestaan van UNESCO openen drie molens van Vereniging De Zaansche Molen op vanavond speciaal hun deuren voor bezoekers. Het molenaarsambacht is immers",
-              "eind": "ge Schaap en olie geslagen op De Bonte Hen. Op deze laatste molen zijn bovendien verschillende andere ambachten te zien."
-            },
-            {
-              "bron": "zaanstad-kalender",
-              "methode": "artikel",
-              "kop": "Zaanstad Beraad",
-              "tekensVoor": 1089,
-              "tekensNa": 1089,
-              "alineas": 26,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "19 november 2026 - 19:00 - 23:00\n\nTijdens de vergaderingen van het Zaanstad Beraad en de gemeenteraad worden filmopnamen gemaakt die op internet worden uitgezonden.\n\nZaanstad Beraad Raadzaal\n\nRaadzaal\n\n19:00 - 23:15\n\nZaa",
-              "eind": "c Saendenborch Zaandam\n\n22:25 - 6. Gelegenheid tot wisselen zaal\n\n22:30 - 7. Geen Sessie\n\n23:15 - 8. Einde vergaderavond"
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 329/338 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -2293,17 +2236,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 0
           },
-          "waarden": {},
-          "voorbeelden": [
-            {
-              "soort": "agenda",
-              "rood": true,
-              "jaren": 100,
-              "woorden": "100-jarig",
-              "kop": "Brandweer Oostzaan viert 100-jarig jubileum"
-            }
-          ],
-          "regels": []
+          "waarden": {}
         },
         "dossiers": {
           "tellers": {
@@ -2325,9 +2258,7 @@
             "dossiersActief": 0,
             "modus": "log",
             "dossiers": []
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         },
         "run": {
           "tellers": {},
@@ -2337,9 +2268,7 @@
             "aiVerzoeken": 2,
             "geminiDagGebruikt": "2/80",
             "duurSeconden": 151
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -6449,6 +6378,180 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-15T11:00:55.146Z",
+      "duurMs": 21644,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 0,
+            "leegZonderFout": 4
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "vervoerregio-overzichten",
+              "zaanstad-moties",
+              "zaanstad-camera",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-01",
+            "dekkingPct": 97,
+            "berichtenZonderTekst": 9,
+            "dekkingPerBron": {
+              "DeOrkaan": {
+                "berichten": 154,
+                "metTekst": 154,
+                "pct": 100,
+                "gemTekens": 2651
+              },
+              "nh-actueel": {
+                "berichten": 20,
+                "metTekst": 20,
+                "pct": 100,
+                "gemTekens": 3052
+              },
+              "bekendmakingen": {
+                "berichten": 31,
+                "metTekst": 31,
+                "pct": 100,
+                "gemTekens": 1199
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 43,
+                "metTekst": 38,
+                "pct": 88,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 1354
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 0,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [],
+            "stubsTotaal": 319,
+            "verhalen": 296,
+            "kandidaten": 0,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 347,
+            "agendaItems": 264,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "0/80",
+            "duurSeconden": 22
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -6625,13 +6728,13 @@
       }
     },
     "2026-11-15": {
-      "runs": 13,
+      "runs": 14,
       "tellers": {
         "spelling": {},
         "bronnen": {
-          "gescrapet": 83,
+          "gescrapet": 89,
           "fout": 6,
-          "leegZonderFout": 44
+          "leegZonderFout": 48
         },
         "tekst": {
           "oudeBestandenOvergezet": 0,
@@ -6650,7 +6753,7 @@
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 13
+          "alRoodDoorPrioriteit": 14
         },
         "dossiers": {
           "stubsNieuw": 0,
