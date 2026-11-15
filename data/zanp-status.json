@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T18:00:57.993Z",
+  "gegenereerdOp": "2026-11-15T19:00:53.871Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,14 +39,14 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-15T18:00:57.993Z",
+      "laatsteScrape": "2026-11-15T19:00:53.871Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-15T18:00:57.993Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-15T19:00:53.871Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
@@ -122,15 +122,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-15T18:00:57.993Z",
+      "laatsteScrape": "2026-11-15T19:00:53.871Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 19,
+      "opeenvolgendLeeg": 20,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-15T18:00:57.993Z",
+      "laatsteScrape": "2026-11-15T19:00:53.871Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 35,
+      "opeenvolgendLeeg": 36,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -139,9 +139,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-15T18:00:57.993Z",
+      "laatsteScrape": "2026-11-15T19:00:53.871Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 80,
+      "opeenvolgendLeeg": 81,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-15T16:57:06.816Z",
@@ -150,9 +150,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-15T18:00:57.993Z",
+      "laatsteScrape": "2026-11-15T19:00:53.871Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 20,
+      "opeenvolgendLeeg": 21,
       "opeenvolgendFout": 0
     }
   },
@@ -399,7 +399,7 @@
       "seed": 0
     },
     "cluster": {
-      "vergeleken": 435,
+      "vergeleken": 325,
       "automatisch": 0,
       "aiGevraagd": 0,
       "aiJa": 0,
