@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T12:00:59.724Z",
+  "gegenereerdOp": "2026-11-15T13:00:54.157Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,13 +39,13 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-15T12:00:59.724Z",
+      "laatsteScrape": "2026-11-15T13:00:54.157Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-15T12:00:59.724Z",
+      "laatsteScrape": "2026-11-15T13:00:54.157Z",
       "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -122,15 +122,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-15T12:00:59.724Z",
+      "laatsteScrape": "2026-11-15T13:00:54.157Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 13,
+      "opeenvolgendLeeg": 14,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-15T12:00:59.724Z",
+      "laatsteScrape": "2026-11-15T13:00:54.157Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 29,
+      "opeenvolgendLeeg": 30,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -139,20 +139,20 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-15T12:00:59.724Z",
+      "laatsteScrape": "2026-11-15T13:00:54.157Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 74,
-      "opeenvolgendFout": 1,
+      "opeenvolgendLeeg": 75,
+      "opeenvolgendFout": 2,
       "laatsteFout": {
-        "tijd": "2026-11-15T12:00:59.724Z",
+        "tijd": "2026-11-15T13:00:54.157Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 500",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-15T12:00:59.724Z",
+      "laatsteScrape": "2026-11-15T13:00:54.157Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 14,
+      "opeenvolgendLeeg": 15,
       "opeenvolgendFout": 0
     }
   },
