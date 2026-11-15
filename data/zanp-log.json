@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T03:00:58.471Z",
+  "gegenereerdOp": "2026-11-15T04:00:49.857Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
     {
@@ -976,11 +976,7 @@
             "gecontroleerd": 1,
             "ok": 1
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "tekst": {
           "tellers": {
@@ -1082,60 +1078,7 @@
                 "gemTekens": 1586
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "zaanstad-moties",
-              "methode": "lijst",
-              "kop": "Motie verworpen: Beetje tijd om vrij te stellen",
-              "tekensVoor": 641,
-              "tekensNa": 640,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Motie 26M92 Beetje tijd om vrij te stellen. Ingediend door Davelaar, Casper (VVD). Uitslag: verworpen met 29% voor. Voor: DENK (1), Forum voor Democratie (3), POV (4), VVD (3). Tegen: CDA (1), D66 (3), Democratisch Zaans",
-              "eind": "r 1 januari 2027 Namens de fractie van: VVD, Casper Davelaar Verworpen, zie besluitenlijst in het raadsinformatiesysteem"
-            },
-            {
-              "bron": "DeOrkaan",
-              "methode": "run",
-              "kop": "Zaans Verzet flyert bij middelbare scholen voor ‘schoolstaking’ tegen dienstplicht 🎥",
-              "tekensVoor": 3571,
-              "tekensNa": 3577,
-              "alineas": 7,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "De groep Zaans Verzet, bestaande uit zo’n zeven flyeraars en onderdeel van de landelijke groep Stop de Oorlogskoorts, is de afgelopen weken geregeld te vinden voor Zaanse middelbare scholen. Het doel is het verspreiden v",
-              "eind": " van een gesprek met Mark van der Hout, Michiel van Dijk, woordvoering van Zaanstad en de website stop de oorlogskoorts."
-            },
-            {
-              "bron": "nh-actueel",
-              "methode": "run",
-              "kop": "Provincie betrekt belanghebbenden bij aanpak stikstof en natuurherstel",
-              "tekensVoor": 3191,
-              "tekensNa": 2981,
-              "alineas": 6,
-              "rommelRegelsWeg": 2,
-              "alineasHerleid": true,
-              "begin": "De provincie heeft het participatieplan voor het Programma Natuurherstel en Stikstofvermindering op 10 november vastgesteld. Het plan laat zien hoe we de komende maanden samenwerken met de waterschappen, landbouworganisa",
-              "eind": "k en werken nauw samen met de landbouwsector. Samen met partners werken we aan concrete resultaten in de hele provincie."
-            },
-            {
-              "bron": "zaanstad-kalender",
-              "methode": "artikel",
-              "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
-              "tekensVoor": 132,
-              "tekensNa": 132,
-              "alineas": 6,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "donderdag 26 november 2026\n\n09:00 - 12:30\n\nLocatie\n\nZwolle\n\nAgenda documenten\n\n• Maling Academie Najaar 2026 - Schrijf u in!! 143 KB",
-              "eind": " november 2026\n\n09:00 - 12:30\n\nLocatie\n\nZwolle\n\nAgenda documenten\n\n• Maling Academie Najaar 2026 - Schrijf u in!! 143 KB"
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 331/350 berichten (95%). Laagst: vervoerregio-overzichten 3/6 (50%); ibabs-collegeberichten 9/16 (56%); ibabs-ingekomen-stukken 34/43 (79%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -1144,9 +1087,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 3
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": []
+          "waarden": {}
         },
         "run": {
           "tellers": {},
@@ -1156,9 +1097,7 @@
             "aiVerzoeken": 2,
             "geminiDagGebruikt": "2/80",
             "duurSeconden": 90
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -5466,6 +5405,180 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-15T04:00:49.857Z",
+      "duurMs": 9320,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 0,
+            "leegZonderFout": 4
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "vervoerregio-overzichten",
+              "zaanstad-moties",
+              "zaanstad-camera",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-01",
+            "dekkingPct": 97,
+            "berichtenZonderTekst": 9,
+            "dekkingPerBron": {
+              "DeOrkaan": {
+                "berichten": 154,
+                "metTekst": 154,
+                "pct": 100,
+                "gemTekens": 2651
+              },
+              "nh-actueel": {
+                "berichten": 20,
+                "metTekst": 20,
+                "pct": 100,
+                "gemTekens": 3052
+              },
+              "bekendmakingen": {
+                "berichten": 31,
+                "metTekst": 31,
+                "pct": 100,
+                "gemTekens": 1199
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 43,
+                "metTekst": 38,
+                "pct": 88,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 1354
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 0,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [],
+            "stubsTotaal": 319,
+            "verhalen": 296,
+            "kandidaten": 0,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 347,
+            "agendaItems": 242,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "5/80",
+            "duurSeconden": 9
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -5642,13 +5755,13 @@
       }
     },
     "2026-11-15": {
-      "runs": 5,
+      "runs": 6,
       "tellers": {
         "spelling": {},
         "bronnen": {
-          "gescrapet": 24,
+          "gescrapet": 30,
           "fout": 0,
-          "leegZonderFout": 16
+          "leegZonderFout": 20
         },
         "tekst": {
           "oudeBestandenOvergezet": 0,
@@ -5659,7 +5772,7 @@
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 5
+          "alRoodDoorPrioriteit": 6
         },
         "dossiers": {
           "stubsNieuw": 0,
