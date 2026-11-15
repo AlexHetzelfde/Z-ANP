@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T23:00:49.160Z",
+  "gegenereerdOp": "2026-11-15T00:00:50.737Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
     {
@@ -338,11 +338,7 @@
             "gecontroleerd": 11,
             "ok": 11
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "tekst": {
           "tellers": {
@@ -436,36 +432,7 @@
                 "gemTekens": 1586
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "DeOrkaan",
-              "methode": "run",
-              "kop": "Waar woont u? Op nummer ‘0’",
-              "tekensVoor": 801,
-              "tekensNa": 801,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Straten beginnen doorgaans bij nummertje 1 (of bij 2 aan de andere kant van de straat). Voor de ‘1’ komt rekenkundig de ‘0’. Maar dat treffen we zelden aan bij huisnummers. Eigenlijk dachten we dat we dat ‘nooit’ aantrof",
-              "eind": "rsplateaus en fietssuggestiestroken aan Engewormer 0 te Wormer’ (Gemeenteblad Wormerland Nr. 520718), foto: Google maps."
-            },
-            {
-              "bron": "WaarheenAgenda",
-              "methode": "run",
-              "kop": "De Fabriek: Laatbloeier met High Tea",
-              "tekensVoor": 452,
-              "tekensNa": 452,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Laatbloeier laat zien dat opnieuw beginnen altijd kan Voorafgaand aan de film Laatbloeier kunnen bezoekers genieten van een high tea. De Nederlandse tragikomedie volgt Joke, een vrouw van 65 jaar die onverwacht wordt ver",
-              "eind": ". Daar ontdekt ze een heel nieuwe wereld en krijgt ze steeds meer zelfvertrouwen. De high tea vindt plaats voor de film."
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 283/302 berichten (94%). Laagst: vervoerregio-overzichten 3/6 (50%); ibabs-collegeberichten 8/15 (53%); ibabs-ingekomen-stukken 34/43 (79%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -474,31 +441,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 0
           },
-          "waarden": {},
-          "voorbeelden": [
-            {
-              "soort": "nieuws",
-              "rood": true,
-              "jaren": 50,
-              "woorden": "50 jaar",
-              "kop": "Terug in de tijd: 50 jaar Koperen Bel"
-            },
-            {
-              "soort": "nieuws",
-              "rood": true,
-              "jaren": 100,
-              "woorden": "100 jaar",
-              "kop": "Vrijwillige brandweer Oostzaan bestaat 100 jaar 🎧"
-            },
-            {
-              "soort": "agenda",
-              "rood": true,
-              "jaren": 100,
-              "woorden": "100-jarig",
-              "kop": "Brandweer Oostzaan viert 100-jarig jubileum"
-            }
-          ],
-          "regels": []
+          "waarden": {}
         },
         "run": {
           "tellers": {},
@@ -508,9 +451,7 @@
             "aiVerzoeken": 3,
             "geminiDagGebruikt": "14/80",
             "duurSeconden": 91
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -4864,6 +4805,180 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-15T00:00:50.737Z",
+      "duurMs": 23066,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 0,
+            "leegZonderFout": 4
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "vervoerregio-overzichten",
+              "zaanstad-moties",
+              "zaanstad-camera",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-01",
+            "dekkingPct": 97,
+            "berichtenZonderTekst": 9,
+            "dekkingPerBron": {
+              "DeOrkaan": {
+                "berichten": 154,
+                "metTekst": 154,
+                "pct": 100,
+                "gemTekens": 2651
+              },
+              "nh-actueel": {
+                "berichten": 20,
+                "metTekst": 20,
+                "pct": 100,
+                "gemTekens": 3052
+              },
+              "bekendmakingen": {
+                "berichten": 31,
+                "metTekst": 31,
+                "pct": 100,
+                "gemTekens": 1199
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 43,
+                "metTekst": 38,
+                "pct": 88,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 1354
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 0,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [],
+            "stubsTotaal": 319,
+            "verhalen": 296,
+            "kandidaten": 0,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 347,
+            "agendaItems": 242,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "5/80",
+            "duurSeconden": 23
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -5037,6 +5152,40 @@
           "fout": 3,
           "leegZonderFout": 14
         }
+      }
+    },
+    "2026-11-15": {
+      "runs": 1,
+      "tellers": {
+        "spelling": {},
+        "bronnen": {
+          "gescrapet": 6,
+          "fout": 0,
+          "leegZonderFout": 4
+        },
+        "tekst": {
+          "oudeBestandenOvergezet": 0,
+          "dagbestandenVerwijderd": 0,
+          "bytesVerwijderd": 0
+        },
+        "jubileum": {
+          "nieuwsRood": 0,
+          "agendaRood": 0,
+          "uitgesloten": 0,
+          "alRoodDoorPrioriteit": 1
+        },
+        "dossiers": {
+          "stubsNieuw": 0,
+          "stubsVerlopen": 0,
+          "aiControles": 0,
+          "aiJa": 0,
+          "aiNee": 0,
+          "aiFout": 0,
+          "nieuweDossiers": 0,
+          "itemsToegevoegd": 0,
+          "dossiersVerlopen": 0
+        },
+        "run": {}
       }
     }
   }

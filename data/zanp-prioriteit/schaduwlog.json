@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T23:00:49.160Z",
+  "gegenereerdOp": "2026-11-15T00:00:50.737Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -15,7 +15,7 @@
       "uitgesteld": 0
     },
     "vergeten": 0,
-    "tekstenOpgeruimd": 1,
+    "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 97,
     "stukken": 567,
     "kandidaten": 80,
@@ -73,7 +73,7 @@
       "Sa": 0.3,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.66,
+      "K": 0.65,
       "Kp": 0.43,
       "n": 2,
       "dagen": 2,

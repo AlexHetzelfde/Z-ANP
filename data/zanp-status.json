@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-14T23:00:49.160Z",
+  "gegenereerdOp": "2026-11-15T00:00:50.737Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -33,13 +33,13 @@
       "opeenvolgendLeeg": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-14T23:00:49.160Z",
+      "laatsteScrape": "2026-11-15T00:00:50.737Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-14T23:00:49.160Z",
+      "laatsteScrape": "2026-11-15T00:00:50.737Z",
       "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -100,15 +100,15 @@
       "opeenvolgendLeeg": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-14T23:00:49.160Z",
-      "gevonden": 1,
-      "opeenvolgendLeeg": 0,
+      "laatsteScrape": "2026-11-15T00:00:50.737Z",
+      "gevonden": 0,
+      "opeenvolgendLeeg": 1,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-14T23:00:49.160Z",
+      "laatsteScrape": "2026-11-15T00:00:50.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 16,
+      "opeenvolgendLeeg": 17,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -117,9 +117,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-14T23:00:49.160Z",
+      "laatsteScrape": "2026-11-15T00:00:50.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 61,
+      "opeenvolgendLeeg": 62,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -128,9 +128,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-14T23:00:49.160Z",
+      "laatsteScrape": "2026-11-15T00:00:50.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 1,
+      "opeenvolgendLeeg": 2,
       "opeenvolgendFout": 0
     }
   },
@@ -141,7 +141,7 @@
     "wachtTot": null,
     "dagcap": 80,
     "runcap": 25,
-    "verzoekenDezeRun": 1
+    "verzoekenDezeRun": 0
   },
   "clusterBeslissingen": {},
   "kwaliteit": {
@@ -362,7 +362,7 @@
       "bijgewerkt": 0,
       "behouden": 220,
       "verdwenen": 0,
-      "verlopen": 30,
+      "verlopen": 0,
       "uitBerichten": 24,
       "uitCamera": 4,
       "zichtbaar": 79,
@@ -403,7 +403,7 @@
         "uitgesteld": 0
       },
       "vergeten": 0,
-      "tekstenOpgeruimd": 1,
+      "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 97,
       "stukken": 567,
       "kandidaten": 80,
@@ -434,10 +434,10 @@
       "stubsVerlopen": 0,
       "stubsTotaal": 319,
       "verhalen": 296,
-      "kandidaten": 1,
-      "aiControles": 1,
+      "kandidaten": 0,
+      "aiControles": 0,
       "aiJa": 0,
-      "aiNee": 1,
+      "aiNee": 0,
       "aiFout": 0,
       "nieuweDossiers": 0,
       "itemsToegevoegd": 0,
