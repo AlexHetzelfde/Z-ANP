@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T07:00:52.869Z",
+  "gegenereerdOp": "2026-11-15T08:00:46.890Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
     {
@@ -1500,11 +1500,7 @@
       "onderdelen": {
         "spelling": {
           "tellers": {},
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "tekst": {
           "tellers": {
@@ -1605,36 +1601,7 @@
                 "gemTekens": 6952
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "DeOrkaan",
-              "methode": "run",
-              "kop": "Dit weekend Den Uylbrug afgesloten",
-              "tekensVoor": 1052,
-              "tekensNa": 1054,
-              "alineas": 3,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "De Den Uylbrug in Zaandam in de N516 is van vrijdag 13 november 20.00 uur tot maandag 16 november 05.00 uur in beide richtingen afgesloten voor autoverkeer. Fietsers, bromfietsers en voetgangers kunnen wel over de brug. ",
-              "eind": "Bakker op basis langsrijden en -fietsen, website Thorbeckeweg en video Boskalis (screenshot kaartje). Foto’s: De Orkaan."
-            },
-            {
-              "bron": "vervoerregio-persberichten",
-              "methode": "lijst",
-              "kop": "BO MIRT: nieuwe afspraken over bereikbaarheid en infrastructuur",
-              "tekensVoor": 600,
-              "tekensNa": 600,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Tijdens het Bestuurlijk Overleg MIRT op 4 november hebben het Rijk en de regio nieuwe afspraken gemaakt over infrastructuur en bereikbaarheid. Voor de Metropoolregio Amsterdam (MRA) - waar de Vervoerregio onderdeel van i",
-              "eind": "en gemaakt over de bereikbaarheid van nieuwe woningbouwlocaties. Hoewel een aantal belangrijke ov- en bereikbaarheidspro"
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 324/333 berichten (97%). Laagst: vervoerregio-overzichten 3/6 (50%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -1643,17 +1610,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 1
           },
-          "waarden": {},
-          "voorbeelden": [
-            {
-              "soort": "agenda",
-              "rood": true,
-              "jaren": 100,
-              "woorden": "100-jarig",
-              "kop": "Brandweer Oostzaan viert 100-jarig jubileum"
-            }
-          ],
-          "regels": []
+          "waarden": {}
         },
         "dossiers": {
           "tellers": {
@@ -1682,50 +1639,7 @@
             "dossiersActief": 0,
             "modus": "log",
             "dossiers": []
-          },
-          "voorbeelden": [
-            {
-              "besluit": "geen dossier",
-              "woord": "verworp",
-              "aantal": 13,
-              "reden": "ai-nee",
-              "koppen": [
-                "Motie verworpen: Beetje tijd om vrij te stellen",
-                "Motie verworpen: Eerst kaders, dan extra camera’s",
-                "Motie verworpen: Duurzame Schoolgebouwen",
-                "Motie verworpen: Focus op Fluxus bij bezuinigingen Kunst en Cultuur"
-              ]
-            },
-            {
-              "besluit": "geen dossier",
-              "woord": "aangenom",
-              "aantal": 10,
-              "reden": "ai-nee",
-              "koppen": [
-                "Motie aangenomen: Nachttrein",
-                "Motie aangenomen: (gewijzigd) Motie parkeerenquête betaald parkeren in de Burgemeestersbuurt, Rosmolenbuurt en Zaan-eiland",
-                "Motie aangenomen: Tijdelijk gas om door te bouwen",
-                "Motie aangenomen: A8-A9 Te groot voor de provincie, te belangrijk om te laten liggen"
-              ]
-            },
-            {
-              "besluit": "geen dossier",
-              "woord": "stichting",
-              "aantal": 6,
-              "reden": "ai-nee",
-              "koppen": [
-                "Beheer buurthuizen Poelenburcht, Kleurrijk en Zuidhoek naar Stichting Jeugdteam Zaanstad",
-                "College van Zaanstad verleent goedkeuring aan fusie Stichting Jeugdteam en SMD",
-                "Laurentine Pels Rijcken wordt per 1 januari 2027 interim-directeur-bestuurder Stichting de Zaanse Schans",
-                "Stichting Nysa vraagt aandacht voor flinke stijging legestarieven kinderopvang 2027"
-              ]
-            }
-          ],
-          "regels": [
-            "Kandidaat \"verworp\" (13 verhalen): geen dossier (ai-nee).",
-            "Kandidaat \"aangenom\" (10 verhalen): geen dossier (ai-nee).",
-            "Kandidaat \"stichting\" (6 verhalen): geen dossier (ai-nee)."
-          ]
+          }
         },
         "run": {
           "tellers": {},
@@ -1735,9 +1649,7 @@
             "aiVerzoeken": 4,
             "geminiDagGebruikt": "14/80",
             "duurSeconden": 64
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -5995,6 +5907,188 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-15T08:00:46.890Z",
+      "duurMs": 16006,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 1,
+            "leegZonderFout": 3
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "vervoerregio-overzichten",
+              "zaanstad-moties",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [
+            {
+              "bron": "zaanstad-camera",
+              "bericht": "RSS-feed ophalen mislukt: HTTP 500",
+              "duurSec": null,
+              "opeenvolgendFout": 2
+            }
+          ],
+          "regels": [
+            "[zaanstad-camera] scrapen mislukt (2x achter elkaar): RSS-feed ophalen mislukt: HTTP 500"
+          ]
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-01",
+            "dekkingPct": 97,
+            "berichtenZonderTekst": 9,
+            "dekkingPerBron": {
+              "DeOrkaan": {
+                "berichten": 154,
+                "metTekst": 154,
+                "pct": 100,
+                "gemTekens": 2651
+              },
+              "nh-actueel": {
+                "berichten": 20,
+                "metTekst": 20,
+                "pct": 100,
+                "gemTekens": 3052
+              },
+              "bekendmakingen": {
+                "berichten": 31,
+                "metTekst": 31,
+                "pct": 100,
+                "gemTekens": 1199
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 43,
+                "metTekst": 38,
+                "pct": 88,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 1354
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 0,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [],
+            "stubsTotaal": 319,
+            "verhalen": 296,
+            "kandidaten": 0,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 347,
+            "agendaItems": 264,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "0/80",
+            "duurSeconden": 16
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -6171,13 +6265,13 @@
       }
     },
     "2026-11-15": {
-      "runs": 9,
+      "runs": 10,
       "tellers": {
         "spelling": {},
         "bronnen": {
-          "gescrapet": 65,
-          "fout": 3,
-          "leegZonderFout": 35
+          "gescrapet": 71,
+          "fout": 4,
+          "leegZonderFout": 38
         },
         "tekst": {
           "oudeBestandenOvergezet": 0,
@@ -6196,7 +6290,7 @@
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 9
+          "alRoodDoorPrioriteit": 10
         },
         "dossiers": {
           "stubsNieuw": 0,

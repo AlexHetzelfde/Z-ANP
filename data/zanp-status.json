@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T07:00:52.869Z",
+  "gegenereerdOp": "2026-11-15T08:00:46.890Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,14 +39,14 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-15T07:00:52.869Z",
+      "laatsteScrape": "2026-11-15T08:00:46.890Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-15T07:00:52.869Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-15T08:00:46.890Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
@@ -122,15 +122,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-15T07:00:52.869Z",
+      "laatsteScrape": "2026-11-15T08:00:46.890Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 8,
+      "opeenvolgendLeeg": 9,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-15T07:00:52.869Z",
+      "laatsteScrape": "2026-11-15T08:00:46.890Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 24,
+      "opeenvolgendLeeg": 25,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -139,27 +139,27 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-15T07:00:52.869Z",
+      "laatsteScrape": "2026-11-15T08:00:46.890Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 69,
-      "opeenvolgendFout": 1,
+      "opeenvolgendLeeg": 70,
+      "opeenvolgendFout": 2,
       "laatsteFout": {
-        "tijd": "2026-11-15T07:00:52.869Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 403",
+        "tijd": "2026-11-15T08:00:46.890Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 500",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-15T07:00:52.869Z",
+      "laatsteScrape": "2026-11-15T08:00:46.890Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 9,
+      "opeenvolgendLeeg": 10,
       "opeenvolgendFout": 0
     }
   },
   "bronnenZonderRubriek": [],
   "gemini": {
-    "dag": "2026-11-14",
-    "gebruikt": 5,
+    "dag": "2026-11-15",
+    "gebruikt": 0,
     "wachtTot": null,
     "dagcap": 80,
     "runcap": 25,
@@ -380,9 +380,9 @@
   },
   "laatsteRun": {
     "agenda": {
-      "nieuw": 22,
-      "bijgewerkt": 141,
-      "behouden": 79,
+      "nieuw": 0,
+      "bijgewerkt": 0,
+      "behouden": 242,
       "verdwenen": 0,
       "verlopen": 0,
       "uitBerichten": 24,
@@ -418,8 +418,8 @@
       "ai": true,
       "formule": "v4-22806000",
       "tekst": {
-        "werklijst": 3,
-        "lokaal": 3,
+        "werklijst": 0,
+        "lokaal": 0,
         "opgehaald": 0,
         "mislukt": 0,
         "uitgesteld": 0
@@ -428,8 +428,8 @@
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 97,
       "stukken": 570,
-      "kandidaten": 67,
-      "metAnker": 67,
+      "kandidaten": 66,
+      "metAnker": 66,
       "zonderAnker": 0,
       "afgelast": 2,
       "dubbel": 1,

@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T07:00:52.869Z",
+  "gegenereerdOp": "2026-11-15T08:00:46.890Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 3,
-      "lokaal": 3,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 97,
     "stukken": 570,
-    "kandidaten": 67,
-    "metAnker": 67,
+    "kandidaten": 66,
+    "metAnker": 66,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 1,
@@ -130,33 +130,6 @@
           "c": 0.61,
           "plek": "intro",
           "titel": "Fel verzet omwonenden tegen tennispark Spekhuisstraat: ‘gewoon een heel slecht plan’"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.deorkaan.nl/dit-weekend-den-uylbrug-afgesloten/",
-      "soort": "nieuws",
-      "kop": "Dit weekend Den Uylbrug afgesloten",
-      "S": 0.11,
-      "Sa": 0.11,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.56,
-      "Kp": 0.36,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "uylbrug",
-        "afgeslot"
-      ],
-      "bewijs": [
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-06T23:00:00.000Z",
-          "c": 0.72,
-          "plek": "intro",
-          "titel": "Thorbeckeweg: bouwput wordt eindelijk echte tunnel"
         }
       ]
     },
@@ -1035,6 +1008,25 @@
         "stomhal",
         "pakhuisplein",
         "preventi"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:f14947adc5",
+      "soort": "agenda",
+      "kop": "Opening Virtueel TIJDmuseum",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "virtuel",
+        "tijdmuseum"
       ],
       "bewijs": []
     }
