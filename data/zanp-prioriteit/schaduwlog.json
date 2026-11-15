@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T06:00:48.483Z",
+  "gegenereerdOp": "2026-11-15T07:00:52.869Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 3,
+      "lokaal": 3,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 97,
-    "stukken": 567,
-    "kandidaten": 79,
-    "metAnker": 79,
+    "stukken": 570,
+    "kandidaten": 67,
+    "metAnker": 67,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 1,
@@ -35,36 +35,6 @@
     "rood": 1
   },
   "top": [
-    {
-      "key": "n:https://www.vervoerregio.nl/artikel/20261111-bo-mirt-nieuwe-afspraken-over-bereikbaarheid-en-infr",
-      "soort": "nieuws",
-      "kop": "BO MIRT: nieuwe afspraken over bereikbaarheid en infrastructuur",
-      "S": 0.3,
-      "Sa": 0.3,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.76,
-      "Kp": 0.46,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "metropolregio",
-        "bereikbarheid",
-        "mirt",
-        "infrastructur",
-        "afsprak"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-11T23:00:00.000Z",
-          "c": 0.98,
-          "plek": "kop",
-          "titel": "Terugkoppeling bestuurlijk overleg Meerjarenprogramma, Infrastructuur, Ruimte en Transport"
-        }
-      ]
-    },
     {
       "key": "n:https://www.deorkaan.nl/begroting-verzet-krommeniedijk-en-sprookje-in-de-week-van-de-orkaan-%f0%9f%8e%99/",
       "soort": "nieuws",
@@ -85,7 +55,8 @@
         "winni",
         "gebak",
         "schiphol",
-        "zankanter"
+        "zankanter",
+        "lucht"
       ],
       "bewijs": [
         {
@@ -101,156 +72,6 @@
           "c": 0.63,
           "plek": "intro",
           "titel": "In memoriam: Rita Melk (1957–2026), onvermoeibaar voor de Zaanse natuur"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/228a3913-d309-408b-a7fe-9d8b57bf31fc",
-      "soort": "nieuws",
-      "kop": "Aanwijzingsbesluit verblijfsontzegging omgeving Gibraltar te Zaandam",
-      "S": 0.22,
-      "Sa": 0.22,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.85,
-      "Kp": 0.61,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "gibraltar",
-        "anwijzingsbesluit",
-        "verblijfsontzegging"
-      ],
-      "bewijs": [
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-11T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Verblijfsontzegging voor overlast gevende jongeren bij De Tref en Gibraltar"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/4e477f70-8b77-4c90-8da1-5468f0f0c3db",
-      "soort": "nieuws",
-      "kop": "Persbericht benoeming interim-directeur-bestuurder Stichting de Zaanse Schans",
-      "S": 0.19,
-      "Sa": 0.19,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.18,
-      "Kp": 0.18,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "interim",
-        "persbericht",
-        "benoeming",
-        "stichting",
-        "schan",
-        "laurentin",
-        "rijck"
-      ],
-      "bewijs": [
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-11T23:00:00.000Z",
-          "c": 1,
-          "plek": "kop",
-          "titel": "Laurentine Pels Rijcken nieuwe interim-directeur Zaanse Schans"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/214aa177-a500-4e39-9bfb-bbea135f69c3",
-      "soort": "nieuws",
-      "kop": "Terugkoppeling bestuurlijk overleg Meerjarenprogramma, Infrastructuur, Ruimte en Transport",
-      "S": 0.18,
-      "Sa": 0.18,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.93,
-      "Kp": 0.58,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "terugkoppeling",
-        "transport",
-        "merjarenprogramma",
-        "infrastructur",
-        "termini",
-        "nl46bngh0285168274",
-        "bnghnl2g",
-        "mobiliteitsfond"
-      ],
-      "bewijs": [
-        {
-          "bron": "nh-actueel",
-          "datum": "2026-11-10T14:55:22.000Z",
-          "c": 0.66,
-          "plek": "intro",
-          "titel": "€ 1,9 miljoen subsidie Rijk voor doorfietsroutes Hilversum - Utrecht en Heerhugowaard - Zuid-Scharwoude"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/e785389b-1c3f-49f9-b2f3-2fc0edf3b5a3",
-      "soort": "nieuws",
-      "kop": "Nieuwsbrief | 12 november 2026",
-      "S": 0.17,
-      "Sa": 0.17,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0,
-      "Kp": 0,
-      "n": 6,
-      "dagen": 2,
-      "bronnen": 1,
-      "ankers": [
-        "nieuwsbrief",
-        "platform31",
-        "0d1f26c701",
-        "mailchi"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.98,
-          "plek": "kop",
-          "titel": "Nieuwsbrief Regioteam Energietransitie: webinar warmtetransitie; bijmengplicht groen gas; netcongestie-plannen"
-        },
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-09T23:00:00.000Z",
-          "c": 0.98,
-          "plek": "kop",
-          "titel": "Nieuwsbrief 14 - Het najaar voor elkaar?"
-        },
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.88,
-          "plek": "kop",
-          "titel": "Nieuwsbrief Dorpscontact Westzaan - Oktober 2026"
-        },
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.88,
-          "plek": "kop",
-          "titel": "HVC inZicht nieuwsbrief | terugblik 35 jaar HVC en vooruitblik naar 2035"
-        },
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.88,
-          "plek": "kop",
-          "titel": "Nieuwsbrief: Bestuurswissel |Infrabesluiten in onze regio| Zero emissiezones | Najaarsforum"
         }
       ]
     },
@@ -278,41 +99,6 @@
           "c": 1,
           "plek": "kop",
           "titel": "Molens openen ’s avonds hun deuren ter ere van 80 jaar UNESCO"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/504ce4de-b401-486a-9066-852a2f49786b",
-      "soort": "nieuws",
-      "kop": "Aanwijzingsbesluit verblijfsontzegging omgeving De Tref te Zaandam",
-      "S": 0.14,
-      "Sa": 0.14,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.72,
-      "Kp": 0.56,
-      "n": 2,
-      "dagen": 2,
-      "bronnen": 2,
-      "ankers": [
-        "anwijzingsbesluit",
-        "verblijfsontzegging",
-        "tref"
-      ],
-      "bewijs": [
-        {
-          "bron": "bekendmakingen",
-          "datum": "2026-11-02T23:00:00.000Z",
-          "c": 0.85,
-          "plek": "kop",
-          "titel": "Aanwijzingsbesluit verlenging tijdelijk cameratoezicht Elzenstraat in Wormerveer"
-        },
-        {
-          "bron": "wetenregelgeving",
-          "datum": "2026-10-17T22:00:00.000Z",
-          "c": 0.85,
-          "plek": "kop",
-          "titel": "Aanwijzingsbesluit verlenging tijdelijk cameratoezicht Rode Zee Zaandam"
         }
       ]
     },
@@ -400,43 +186,6 @@
           "c": 0.46,
           "plek": "tekst",
           "titel": "Waarheen: Sinterklaas, Zaan-Gezichten, Zwanenkoor"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/d6b6d2ba-ca26-4bbc-aee3-e2686dd71b6e",
-      "soort": "nieuws",
-      "kop": "Nieuwsbrief november 2026",
-      "S": 0.1,
-      "Sa": 0.1,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0,
-      "Kp": 0,
-      "n": 2,
-      "dagen": 2,
-      "bronnen": 1,
-      "ankers": [
-        "corner",
-        "nieuwsbrief",
-        "229526a14944",
-        "f2f9cb9628",
-        "mailchi"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.87,
-          "plek": "kop",
-          "titel": "Nieuwsbrief Regioteam Energietransitie: webinar warmtetransitie; bijmengplicht groen gas; netcongestie-plannen"
-        },
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-09T23:00:00.000Z",
-          "c": 0.87,
-          "plek": "kop",
-          "titel": "Nieuwsbrief 14 - Het najaar voor elkaar?"
         }
       ]
     },
@@ -1107,6 +856,59 @@
       "bewijs": []
     },
     {
+      "key": "a:a3f1113fee",
+      "soort": "agenda",
+      "kop": "De Fabriek: Royal Opera House 26/27",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "opera",
+        "royal",
+        "house",
+        "walkur",
+        "ringcyclus",
+        "wagner",
+        "barri",
+        "kosky"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:3034dc268e",
+      "soort": "agenda",
+      "kop": "Gij die mij draagt - een Nederlands requiem (Zaandam)",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "requiem",
+        "oecumenisch",
+        "projectkor",
+        "dragt",
+        "stilt",
+        "muziekstuk",
+        "volkszang",
+        "gemis",
+        "anreik",
+        "gedenk",
+        "ontstek"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "a:504e7d4e30",
       "soort": "agenda",
       "kop": "Jay Jay’s Border Jazzmen",
@@ -1125,6 +927,114 @@
         "achterhoek",
         "twent",
         "dinxperlo"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:022a912b1c",
+      "soort": "agenda",
+      "kop": "Margriet Eshuijs Popkoor",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "margriet",
+        "eshuij",
+        "popkor",
+        "autumn",
+        "jerney"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:6f9821ca1a",
+      "soort": "agenda",
+      "kop": "The Upmates",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "upmate",
+        "orlean"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:8154ec62c3",
+      "soort": "agenda",
+      "kop": "Panelgesprek: Het thema van OTW 2026 is : Allemaal in actie – Met mannen en jongens tegen geweld.",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "panelgesprek",
+        "allemal",
+        "thema",
+        "postjesweg",
+        "geweld",
+        "jongen",
+        "actie"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:59c7d5db97",
+      "soort": "agenda",
+      "kop": "Bijeenkomst 'Samenleven met ratten' Dierenbescherming",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "samenlev",
+        "dierenbescherming",
+        "atelier300c",
+        "soesterweg"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:876bc64aab",
+      "soort": "agenda",
+      "kop": "Inspiratiesessie Zaans Preventiemodel (ZPM)",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "inspiratiesessi",
+        "preventiemodel",
+        "stomhal",
+        "pakhuisplein",
+        "preventi"
       ],
       "bewijs": []
     }

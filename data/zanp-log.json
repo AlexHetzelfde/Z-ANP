@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-15T06:00:48.483Z",
+  "gegenereerdOp": "2026-11-15T07:00:52.869Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
     {
@@ -1369,11 +1369,7 @@
             "gecontroleerd": 13,
             "ok": 13
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "tekst": {
           "tellers": {
@@ -1475,84 +1471,7 @@
                 "gemTekens": 6952
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "DeOrkaan",
-              "methode": "run",
-              "kop": "Drie auto’s verwoest door felle brand in Zaandam",
-              "tekensVoor": 1000,
-              "tekensNa": 1001,
-              "alineas": 2,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "De brandweer is donderdagavond – 12 november – rond 22.40 uur uitgerukt voor een felle autobrand aan de Gerrit Kiststraat in de Zaandamse buurt Zuiderhout. Bij aankomst van de brandweer stonden drie auto’s in brand. Een ",
-              "eind": "ar de oorzaak van de brand. Onder een slideshow met dertien foto’s (klik op de pijltjes of swipe): Door Michel Schermer."
-            },
-            {
-              "bron": "ibabs-collegeberichten",
-              "methode": "lijst",
-              "kop": "Overdracht buurthuizen Zaandam oost",
-              "tekensVoor": 7485,
-              "tekensNa": 7495,
-              "alineas": 18,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "Raadsinformatiebrief\n\nKarst, R.\n\nActieve informatievoorziening\n\nMOZARD ZAAKNUMMER PAGINA gemeente Zaanstad 10726707 1/3 Raadsinformatiebrief 1 Onderwerp Overdracht buurthuizen Zaandam Oost Portefeuillehouder R. Karst Por",
-              "eind": "an Zaanstad, drs J. Hamming, burgemeester mr. L. Graaff, gemeentesecretaris Transactiebewijs iBabs digitale handtekening"
-            },
-            {
-              "bron": "ibabs-ingekomen-stukken",
-              "methode": "run",
-              "kop": "Nieuwsbrief november 2026",
-              "tekensVoor": 194,
-              "tekensNa": 188,
-              "alineas": 6,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "De Corner\n\nTer kennisname\n\nOnderwerp: Nieuwsbrief november 2026\n\nToelichting: https://mailchi.mp/229526a14944/27-februari-13921754?e=f2f9cb9628\n\nAfzender: De Corner\n\nAdvies: Ter kennisname",
-              "eind": "lichting: https://mailchi.mp/229526a14944/27-februari-13921754?e=f2f9cb9628\n\nAfzender: De Corner\n\nAdvies: Ter kennisname"
-            },
-            {
-              "bron": "bekendmakingen",
-              "methode": "run",
-              "kop": "Machtiging VNG voor het ontwerpen en actualiseren van het ‘Selectiebesluit gemeenten 2027’",
-              "tekensVoor": 989,
-              "tekensNa": 989,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Besluit: 1. Akkoord te gaan om de Vereniging van Nederlandse Gemeenten (hierna VNG) te machtigen om namens het college van burgemeester en wethouders van de gemeente Zaanstad deel te nemen aan de procedure voor het ontwe",
-              "eind": " college voor te leggen en vervolgens ter vaststelling aan de algemene rijksarchivaris aan te bieden namens de minister."
-            },
-            {
-              "bron": "vervoerregio-persberichten",
-              "methode": "lijst",
-              "kop": "BO MIRT: nieuwe afspraken over bereikbaarheid en infrastructuur",
-              "tekensVoor": 600,
-              "tekensNa": 600,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Tijdens het Bestuurlijk Overleg MIRT op 4 november hebben het Rijk en de regio nieuwe afspraken gemaakt over infrastructuur en bereikbaarheid. Voor de Metropoolregio Amsterdam (MRA) - waar de Vervoerregio onderdeel van i",
-              "eind": "en gemaakt over de bereikbaarheid van nieuwe woningbouwlocaties. Hoewel een aantal belangrijke ov- en bereikbaarheidspro"
-            },
-            {
-              "bron": "zaanstad-kalender",
-              "methode": "artikel",
-              "kop": "Groot Dictee der Nederlandse Taal",
-              "tekensVoor": 242,
-              "tekensNa": 242,
-              "alineas": 8,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "zaterdag 21 november 2026\n\n10:00\n\nLocatie\n\n't Reghthuys Westzaan\n\nToelichting\n\n21 november: Samen aan het Groot Dictee der Nederlandse Taal – 't Reghthuys Westzaan\n\nAgenda documenten\n\n• Tekst publicatie Groot Dictee der ",
-              "eind": " Nederlandse Taal – 't Reghthuys Westzaan\n\nAgenda documenten\n\n• Tekst publicatie Groot Dictee der Nederlandse Taal 39 KB"
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 341/352 berichten (97%). Laagst: vervoerregio-overzichten 3/6 (50%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -1561,17 +1480,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 2
           },
-          "waarden": {},
-          "voorbeelden": [
-            {
-              "soort": "agenda",
-              "rood": true,
-              "jaren": 100,
-              "woorden": "100-jarig",
-              "kop": "Brandweer Oostzaan viert 100-jarig jubileum"
-            }
-          ],
-          "regels": []
+          "waarden": {}
         },
         "run": {
           "tellers": {},
@@ -1581,9 +1490,7 @@
             "aiVerzoeken": 4,
             "geminiDagGebruikt": "10/80",
             "duurSeconden": 139
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -5873,6 +5780,221 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-15T07:00:52.869Z",
+      "duurMs": 83185,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 23,
+            "fout": 2,
+            "leegZonderFout": 8
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "ibabs-collegeberichten",
+              "ibabs-ingekomen-stukken",
+              "zaanse-schans",
+              "zaandijk-leeft",
+              "vervoerregio-aanbesteding",
+              "vervoerregio-overzichten",
+              "zaanstad-moties",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [
+            {
+              "bron": "bekendmakingen",
+              "bericht": "HTTP 403 voor https://zoek.officielebekendmakingen.nl/rss?q=(c.product-area==%22officielepublicaties%22)and(dt.creator==%22Zaanstad%22)and((dt.type==%22algemeen%20verbindend%20voorschrift%20(ministeri%C3%ABle%20regeling)%22)or(dt.type==%22algemeen%2…",
+              "duurSec": 3.8,
+              "opeenvolgendFout": 1
+            },
+            {
+              "bron": "zaanstad-camera",
+              "bericht": "RSS-feed ophalen mislukt: HTTP 403",
+              "duurSec": null,
+              "opeenvolgendFout": 1
+            }
+          ],
+          "regels": [
+            "[bekendmakingen] scrapen mislukt na 3.8s (1x achter elkaar): HTTP 403 voor https://zoek.officielebekendmakingen.nl/rss?q=(c.product-area==%22officielepublicaties%22)and(dt.creator==%22Zaanstad%22)and((dt.type==%22algemeen%20verbindend%20voorschrift%20(ministeri%C3%ABle%20regeling)%22)or(dt.type==%2…",
+            "[zaanstad-camera] scrapen mislukt (1x achter elkaar): RSS-feed ophalen mislukt: HTTP 403"
+          ]
+        },
+        "tekst": {
+          "tellers": {
+            "aangeboden": 3,
+            "geschreven": 3,
+            "teOudOvergeslagen": 0,
+            "leegOvergeslagen": 0,
+            "rommelRegelsWeg": 0,
+            "alineasHerleid": 1,
+            "titelHerhalingWeg": 0,
+            "methode-run": 3,
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-01",
+            "dekkingPct": 97,
+            "berichtenZonderTekst": 9,
+            "dekkingPerBron": {
+              "DeOrkaan": {
+                "berichten": 154,
+                "metTekst": 154,
+                "pct": 100,
+                "gemTekens": 2651
+              },
+              "nh-actueel": {
+                "berichten": 20,
+                "metTekst": 20,
+                "pct": 100,
+                "gemTekens": 3052
+              },
+              "bekendmakingen": {
+                "berichten": 31,
+                "metTekst": 31,
+                "pct": 100,
+                "gemTekens": 1199
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 43,
+                "metTekst": 38,
+                "pct": 88,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 1354
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [
+            {
+              "bron": "WaarheenAgenda",
+              "methode": "run",
+              "kop": "De Fabriek: Royal Opera House 26/27",
+              "tekensVoor": 956,
+              "tekensNa": 957,
+              "alineas": 2,
+              "rommelRegelsWeg": 0,
+              "alineasHerleid": true,
+              "begin": "Manon Een jongeman die is grootgebracht door een sluwe dwerg en zich niet bewust is van zijn echte afkomst, begint aan een epische reis. Al snel brengt het lot hem oog in oog met een gebroken zwaard, een gevaarlijke draa",
+              "eind": "nt, die de onuitgesproken spanningen en het etherische mysticisme van de dynamische partituur van Wagner gestalte geeft."
+            }
+          ],
+          "regels": [
+            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 0,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [],
+            "stubsTotaal": 319,
+            "verhalen": 296,
+            "kandidaten": 0,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 347,
+            "agendaItems": 264,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "5/80",
+            "duurSeconden": 83
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -6049,24 +6171,32 @@
       }
     },
     "2026-11-15": {
-      "runs": 8,
+      "runs": 9,
       "tellers": {
         "spelling": {},
         "bronnen": {
-          "gescrapet": 42,
-          "fout": 1,
-          "leegZonderFout": 27
+          "gescrapet": 65,
+          "fout": 3,
+          "leegZonderFout": 35
         },
         "tekst": {
           "oudeBestandenOvergezet": 0,
           "dagbestandenVerwijderd": 0,
-          "bytesVerwijderd": 0
+          "bytesVerwijderd": 0,
+          "aangeboden": 3,
+          "geschreven": 3,
+          "teOudOvergeslagen": 0,
+          "leegOvergeslagen": 0,
+          "rommelRegelsWeg": 0,
+          "alineasHerleid": 1,
+          "titelHerhalingWeg": 0,
+          "methode-run": 3
         },
         "jubileum": {
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 8
+          "alRoodDoorPrioriteit": 9
         },
         "dossiers": {
           "stubsNieuw": 0,
