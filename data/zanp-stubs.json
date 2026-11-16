@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-16T14:01:01.737Z",
+  "bijgewerkt": "2026-11-16T15:00:51.113Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3519,6 +3519,17 @@
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
       "t": "2026-11-16T10:43:36.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "34b0653d6a": {
+      "g": "34b0653d6a",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_legt_spelregels_voor_meedenken_vast",
+      "k": "Provinciale Staten van Noord-Holland stellen nieuwe participatieverordening vast",
+      "bt": "Noord-Holland legt spelregels voor meedenken vast",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-16T14:19:43.000Z",
       "c": null,
       "r": "PRV"
     }

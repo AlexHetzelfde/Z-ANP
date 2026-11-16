@@ -1,114 +1,7 @@
 {
-  "gegenereerdOp": "2026-11-16T14:01:01.737Z",
+  "gegenereerdOp": "2026-11-16T15:00:51.113Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
-    {
-      "tijd": "2026-11-10T18:52:39.868Z",
-      "duurMs": 78859,
-      "onderdelen": {
-        "tekst": {
-          "tellers": {
-            "aangeboden": 417,
-            "geschreven": 327,
-            "teOudOvergeslagen": 90,
-            "leegOvergeslagen": 0,
-            "rommelRegelsWeg": 83,
-            "alineasHerleid": 204,
-            "titelHerhalingWeg": 38,
-            "methode-run": 137,
-            "methode-artikel": 178,
-            "methode-lijst": 9,
-            "methode-pagina": 3,
-            "oudeBestandenOvergezet": 6,
-            "dagbestandenVerwijderd": 0,
-            "bytesVerwijderd": 0
-          },
-          "waarden": {
-            "oudsteDagbestand": "2026-10-29",
-            "dekkingPct": 93,
-            "berichtenZonderTekst": 19,
-            "dekkingPerBron": {
-              "DeOrkaan": {
-                "berichten": 150,
-                "metTekst": 150,
-                "pct": 100,
-                "gemTekens": 2525
-              },
-              "rechtspraak-noord-holland": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 6002
-              },
-              "omgevingsdienstnoordzeekanaal": {
-                "berichten": 2,
-                "metTekst": 2,
-                "pct": 100,
-                "gemTekens": 3328
-              },
-              "ibabs-collegeberichten": {
-                "berichten": 15,
-                "metTekst": 8,
-                "pct": 53,
-                "gemTekens": 4519
-              },
-              "ibabs-ingekomen-stukken": {
-                "berichten": 43,
-                "metTekst": 34,
-                "pct": 79,
-                "gemTekens": 1901
-              },
-              "vervoerregio-overzichten": {
-                "berichten": 6,
-                "metTekst": 3,
-                "pct": 50,
-                "gemTekens": 6952
-              },
-              "bekendmakingen": {
-                "berichten": 26,
-                "metTekst": 26,
-                "pct": 100,
-                "gemTekens": 2345
-              },
-              "nh-actueel": {
-                "berichten": 21,
-                "metTekst": 21,
-                "pct": 100,
-                "gemTekens": 2936
-              },
-              "zaanstad-ted": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 87
-              },
-              "wetenregelgeving": {
-                "berichten": 7,
-                "metTekst": 7,
-                "pct": 100,
-                "gemTekens": 25177
-              },
-              "vervoerregio-persberichten": {
-                "berichten": 5,
-                "metTekst": 5,
-                "pct": 100,
-                "gemTekens": 1586
-              }
-            }
-          }
-        },
-        "run": {
-          "tellers": {},
-          "waarden": {
-            "berichten": 387,
-            "agendaItems": 276,
-            "aiVerzoeken": 0,
-            "geminiDagGebruikt": "8/80",
-            "duurSeconden": 79
-          }
-        }
-      }
-    },
     {
       "tijd": "2026-11-10T23:08:49.251Z",
       "duurMs": 57826,
@@ -7139,11 +7032,7 @@
       "onderdelen": {
         "spelling": {
           "tellers": {},
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "bronnen": {
           "tellers": {
@@ -7158,9 +7047,7 @@
               "zaanstad-camera",
               "zaanstad-ted"
             ]
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         },
         "tekst": {
           "tellers": {
@@ -7252,11 +7139,7 @@
                 "gemTekens": 3328
               }
             }
-          },
-          "voorbeelden": [],
-          "regels": [
-            "Dekking volledige tekst: 323/332 berichten (97%). Laagst: vervoerregio-overzichten 4/7 (57%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -7265,9 +7148,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 1
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": []
+          "waarden": {}
         },
         "dossiers": {
           "tellers": {
@@ -7289,9 +7170,7 @@
             "dossiersActief": 0,
             "modus": "log",
             "dossiers": []
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         },
         "run": {
           "tellers": {},
@@ -7301,9 +7180,7 @@
             "aiVerzoeken": 0,
             "geminiDagGebruikt": "0/80",
             "duurSeconden": 8
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -11568,6 +11445,221 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-16T15:00:51.113Z",
+      "duurMs": 54647,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {
+            "gecontroleerd": 1,
+            "ok": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 0,
+            "leegZonderFout": 4
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "vervoerregio-overzichten",
+              "zaanstad-moties",
+              "zaanstad-camera",
+              "zaanstad-ted"
+            ]
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "tekst": {
+          "tellers": {
+            "aangeboden": 1,
+            "geschreven": 1,
+            "teOudOvergeslagen": 0,
+            "leegOvergeslagen": 0,
+            "rommelRegelsWeg": 2,
+            "alineasHerleid": 1,
+            "titelHerhalingWeg": 0,
+            "methode-run": 1,
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-02",
+            "dekkingPct": 98,
+            "berichtenZonderTekst": 6,
+            "dekkingPerBron": {
+              "nh-actueel": {
+                "berichten": 21,
+                "metTekst": 21,
+                "pct": 100,
+                "gemTekens": 2850
+              },
+              "DeOrkaan": {
+                "berichten": 141,
+                "metTekst": 141,
+                "pct": 100,
+                "gemTekens": 2675
+              },
+              "bekendmakingen": {
+                "berichten": 30,
+                "metTekst": 30,
+                "pct": 100,
+                "gemTekens": 1225
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 7,
+                "metTekst": 4,
+                "pct": 57,
+                "gemTekens": 8599
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 18,
+                "metTekst": 17,
+                "pct": 94,
+                "gemTekens": 5817
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 40,
+                "metTekst": 38,
+                "pct": 95,
+                "gemTekens": 2061
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 766
+              },
+              "wetenregelgeving": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 3696
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 74
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 1620
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 3328
+              }
+            }
+          },
+          "voorbeelden": [
+            {
+              "bron": "nh-actueel",
+              "methode": "run",
+              "kop": "Noord-Holland legt spelregels voor meedenken vast",
+              "tekensVoor": 1790,
+              "tekensNa": 1577,
+              "alineas": 3,
+              "rommelRegelsWeg": 2,
+              "alineasHerleid": true,
+              "begin": "Provinciale Staten van Noord-Holland hebben de Participatieverordening Noord-Holland 2026 vastgesteld. De Participatieverordening Noord-Holland 2026 maakt inzichtelijk hoe inwoners, ondernemers, organisaties en andere be",
+              "eind": " op het beleid en plannen van de provincie. Hier staat ook de participatieverordening met een toegankelijke toelichting."
+            }
+          ],
+          "regels": [
+            "Dekking volledige tekst: 308/314 berichten (98%). Laagst: vervoerregio-overzichten 4/7 (57%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 1,
+            "stubsVerlopen": 0,
+            "aiControles": 1,
+            "aiJa": 0,
+            "aiNee": 1,
+            "aiFout": 0,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [
+              "stellen (5)"
+            ],
+            "stubsTotaal": 321,
+            "verhalen": 298,
+            "kandidaten": 1,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [
+            {
+              "besluit": "geen dossier",
+              "woord": "stellen",
+              "aantal": 5,
+              "reden": "ai-nee",
+              "koppen": [
+                "Provinciale Staten van Noord-Holland stellen nieuwe participatieverordening vast",
+                "Regioraadsleden stellen vragen over proefweekend metronetwerk en onveiligheid Van der Madeweg",
+                "Motie verworpen: Beetje tijd om vrij te stellen",
+                "Gedeputeerde Staten stellen concept-Omgevingsvisie Noord-Holland vast voor keuzes tot 2050"
+              ]
+            }
+          ],
+          "regels": [
+            "Kandidaat \"stellen\" (5 verhalen): geen dossier (ai-nee)."
+          ]
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 327,
+            "agendaItems": 279,
+            "aiVerzoeken": 2,
+            "geminiDagGebruikt": "3/80",
+            "duurSeconden": 55
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -11787,44 +11879,44 @@
       }
     },
     "2026-11-16": {
-      "runs": 17,
+      "runs": 18,
       "tellers": {
         "spelling": {
-          "gecontroleerd": 1,
-          "ok": 1
+          "gecontroleerd": 2,
+          "ok": 2
         },
         "bronnen": {
-          "gescrapet": 113,
+          "gescrapet": 119,
           "fout": 17,
-          "leegZonderFout": 54,
+          "leegZonderFout": 58,
           "timeOut": 1
         },
         "tekst": {
-          "aangeboden": 5,
-          "geschreven": 3,
+          "aangeboden": 6,
+          "geschreven": 4,
           "teOudOvergeslagen": 0,
           "leegOvergeslagen": 0,
-          "rommelRegelsWeg": 2,
-          "alineasHerleid": 1,
+          "rommelRegelsWeg": 4,
+          "alineasHerleid": 2,
           "titelHerhalingWeg": 0,
           "methode-artikel": 2,
           "oudeBestandenOvergezet": 0,
           "dagbestandenVerwijderd": 0,
           "bytesVerwijderd": 0,
-          "methode-run": 3
+          "methode-run": 4
         },
         "jubileum": {
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 17
+          "alRoodDoorPrioriteit": 18
         },
         "dossiers": {
-          "stubsNieuw": 1,
+          "stubsNieuw": 2,
           "stubsVerlopen": 0,
-          "aiControles": 0,
+          "aiControles": 1,
           "aiJa": 0,
-          "aiNee": 0,
+          "aiNee": 1,
           "aiFout": 0,
           "nieuweDossiers": 0,
           "itemsToegevoegd": 0,

@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T14:01:01.737Z",
+  "gegenereerdOp": "2026-11-16T15:00:51.113Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -405,6 +405,43 @@
     }
   ],
   "berichten": [
+    {
+      "id": "34b0653d6a-v1",
+      "groepId": "34b0653d6a",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_legt_spelregels_voor_meedenken_vast",
+      "kop": "Provinciale Staten van Noord-Holland stellen nieuwe participatieverordening vast",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "ai",
+      "herkomst": "officieel",
+      "prio": 4,
+      "tijd": "2026-11-16T14:19:43.000Z",
+      "heeftTijd": true,
+      "woorden": 254,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": true,
+      "controle": "cijfers-ok",
+      "eerstGezienOp": "2026-11-16T15:00:51.113Z",
+      "gecontroleerdOp": "2026-11-16T15:00:51.113Z",
+      "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
+      "bronLengte": 1790,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "ai"
+    },
     {
       "id": "5f2417d1a1-v1",
       "groepId": "5f2417d1a1",
