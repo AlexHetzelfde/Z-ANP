@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T11:01:05.451Z",
+  "gegenereerdOp": "2026-11-16T12:00:47.984Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,14 +39,14 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-16T11:01:05.451Z",
+      "laatsteScrape": "2026-11-16T12:00:47.984Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-16T11:01:05.451Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-16T12:00:47.984Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -127,37 +127,37 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-16T11:01:05.451Z",
+      "laatsteScrape": "2026-11-16T12:00:47.984Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 37,
+      "opeenvolgendLeeg": 38,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-16T11:01:05.451Z",
+      "laatsteScrape": "2026-11-16T12:00:47.984Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 53,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 54,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-14T21:00:57.121Z",
-        "bericht": "Lijst ophalen mislukt: Unexpected end of JSON input",
+        "tijd": "2026-11-16T12:00:47.984Z",
+        "bericht": "Lijst ophalen mislukt: This operation was aborted",
         "duurSec": null
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-16T11:01:05.451Z",
+      "laatsteScrape": "2026-11-16T12:00:47.984Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 98,
-      "opeenvolgendFout": 8,
+      "opeenvolgendLeeg": 99,
+      "opeenvolgendFout": 9,
       "laatsteFout": {
-        "tijd": "2026-11-16T11:01:05.451Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 403",
+        "tijd": "2026-11-16T12:00:47.984Z",
+        "bericht": "RSS-feed ophalen mislukt: fetch failed — oorzaak: Client network socket disconnected before secure TLS connection was established [ECONNRESET]",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-16T11:01:05.451Z",
+      "laatsteScrape": "2026-11-16T12:00:47.984Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 38,
+      "opeenvolgendLeeg": 39,
       "opeenvolgendFout": 0
     }
   },

@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T11:01:05.451Z",
+  "gegenereerdOp": "2026-11-16T12:00:47.984Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -14606,44 +14606,6 @@
       },
       "checklistBron": "ai",
       "analyse": true,
-      "tagVersie": 2
-    },
-    {
-      "id": "70a7bf43bd-v1",
-      "groepId": "70a7bf43bd",
-      "versie": 1,
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Schoon_en_veilig_werken_zonder_motorgeronk",
-      "kop": "Provincie Noord-Holland stapt over op volledig elektrisch wagenpark voor weginspecteurs",
-      "tekst": "De provincie Noord-Holland werkt aan een volledig emissieloos wagenpark en zet in het eerste kwartaal van 2027 de laatste stappen. In totaal krijgen de weginspecteurs 27 nieuwe elektrische dienstvoertuigen van het type Ford E-Transit Custom. De provincie wil in 2030 volledig fossielvrij werken.",
-      "rubriek": "PRV",
-      "tagBron": "ai",
-      "herkomst": "officieel",
-      "prio": 4,
-      "tijd": "2026-11-02T11:54:30.000Z",
-      "heeftTijd": true,
-      "woorden": 717,
-      "afgekapt": false,
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": true,
-      "controle": "cijfers-ok",
-      "eerstGezienOp": "2026-11-02T15:18:32.950Z",
-      "gecontroleerdOp": "2026-11-03T13:01:08.430Z",
-      "bronTitel": "Schoon en veilig werken zonder motorgeronk",
-      "bronLengte": 4720,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": false
-      },
-      "checklistBron": "ai",
       "tagVersie": 2
     }
   ]
