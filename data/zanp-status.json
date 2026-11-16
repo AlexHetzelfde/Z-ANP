@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T17:00:50.859Z",
+  "gegenereerdOp": "2026-11-16T18:01:04.308Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,13 +39,13 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-16T17:00:50.859Z",
+      "laatsteScrape": "2026-11-16T18:01:04.308Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-16T17:00:50.859Z",
+      "laatsteScrape": "2026-11-16T18:01:04.308Z",
       "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -127,15 +127,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-16T17:00:50.859Z",
+      "laatsteScrape": "2026-11-16T18:01:04.308Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 43,
+      "opeenvolgendLeeg": 44,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-16T17:00:50.859Z",
+      "laatsteScrape": "2026-11-16T18:01:04.308Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 59,
+      "opeenvolgendLeeg": 60,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-16T12:00:47.984Z",
@@ -144,9 +144,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-16T17:00:50.859Z",
+      "laatsteScrape": "2026-11-16T18:01:04.308Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 104,
+      "opeenvolgendLeeg": 105,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-16T16:00:58.790Z",
@@ -155,20 +155,20 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-16T17:00:50.859Z",
+      "laatsteScrape": "2026-11-16T18:01:04.308Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 44,
+      "opeenvolgendLeeg": 45,
       "opeenvolgendFout": 0
     }
   },
   "bronnenZonderRubriek": [],
   "gemini": {
     "dag": "2026-11-16",
-    "gebruikt": 3,
+    "gebruikt": 4,
     "wachtTot": null,
     "dagcap": 80,
     "runcap": 25,
-    "verzoekenDezeRun": 0
+    "verzoekenDezeRun": 1
   },
   "clusterBeslissingen": {},
   "kwaliteit": {
@@ -368,19 +368,19 @@
       "runs": 2
     },
     "2026-11-16": {
-      "verzoeken": 2,
-      "berichten": 4,
-      "ok": 2,
+      "verzoeken": 3,
+      "berichten": 5,
+      "ok": 3,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
       "fout": 2,
       "overgeslagen": 0,
-      "tagAi": 2,
+      "tagAi": 3,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 4
+      "runs": 5
     }
   },
   "laatsteRun": {
@@ -400,7 +400,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 1,
-      "ongewijzigd": 0,
+      "ongewijzigd": 2,
       "seed": 0
     },
     "cluster": {
@@ -472,15 +472,15 @@
       "dossiersActief": 0
     },
     "kwaliteit": {
-      "verzoeken": 0,
+      "verzoeken": 1,
       "berichten": 1,
-      "ok": 0,
+      "ok": 1,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 1,
+      "fout": 0,
       "overgeslagen": 0,
-      "tagAi": 0,
+      "tagAi": 1,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0

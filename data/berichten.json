@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T17:00:50.859Z",
+  "gegenereerdOp": "2026-11-16T18:01:04.308Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -410,22 +410,22 @@
       "groepId": "36ba8e8a8a",
       "versie": 1,
       "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nieuwe_archeologische_kroniek_bundelt_kennis_uit_de_bodem",
-      "kop": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
+      "kop": "Provincie Noord-Holland publiceert nieuwe archeologische kroniek over vondsten en onderzoeken uit 2025",
       "tekst": null,
-      "rubriek": "PRV",
-      "tagBron": "bron",
+      "rubriek": "CUL",
+      "tagBron": "ai",
       "herkomst": "officieel",
-      "prio": 3,
+      "prio": 4,
       "tijd": "2026-11-16T16:16:53.000Z",
       "heeftTijd": true,
       "woorden": 222,
       "afgekapt": false,
       "bronId": "nh-actueel",
       "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": false,
-      "controle": "ai-fout",
+      "ai": true,
+      "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T16:00:58.790Z",
-      "gecontroleerdOp": "2026-11-16T17:00:50.859Z",
+      "gecontroleerdOp": "2026-11-16T18:01:04.308Z",
       "bronTitel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
       "bronLengte": 1532,
       "checklist": {
@@ -440,7 +440,7 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon",
+      "checklistBron": "ai",
       "tagVersie": 2
     },
     {
@@ -463,7 +463,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T15:00:51.113Z",
-      "gecontroleerdOp": "2026-11-16T15:00:51.113Z",
+      "gecontroleerdOp": "2026-11-16T18:01:04.308Z",
       "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
       "bronLengte": 1790,
       "checklist": {
@@ -501,7 +501,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T10:00:54.244Z",
-      "gecontroleerdOp": "2026-11-16T16:00:58.790Z",
+      "gecontroleerdOp": "2026-11-16T18:01:04.308Z",
       "bronTitel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
       "bronLengte": 1959,
       "checklist": {
