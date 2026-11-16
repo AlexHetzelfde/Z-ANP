@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T04:01:09.286Z",
+  "gegenereerdOp": "2026-11-16T05:00:59.011Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,13 +39,13 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-16T04:01:09.286Z",
+      "laatsteScrape": "2026-11-16T05:00:59.011Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-16T04:01:09.286Z",
+      "laatsteScrape": "2026-11-16T05:00:59.011Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -127,15 +127,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-16T04:01:09.286Z",
+      "laatsteScrape": "2026-11-16T05:00:59.011Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 29,
+      "opeenvolgendLeeg": 30,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-16T04:01:09.286Z",
+      "laatsteScrape": "2026-11-16T05:00:59.011Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 45,
+      "opeenvolgendLeeg": 46,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-14T21:00:57.121Z",
@@ -144,20 +144,20 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-16T04:01:09.286Z",
+      "laatsteScrape": "2026-11-16T05:00:59.011Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 90,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 91,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-16T03:00:54.483Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 504",
+        "tijd": "2026-11-16T05:00:59.011Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 500",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-16T04:01:09.286Z",
+      "laatsteScrape": "2026-11-16T05:00:59.011Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 30,
+      "opeenvolgendLeeg": 31,
       "opeenvolgendFout": 0
     }
   },
