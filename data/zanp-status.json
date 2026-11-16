@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T13:01:03.555Z",
+  "gegenereerdOp": "2026-11-16T14:01:01.737Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,14 +39,14 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-16T13:01:03.555Z",
+      "laatsteScrape": "2026-11-16T14:01:01.737Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-16T13:01:03.555Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-16T14:01:01.737Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -127,15 +127,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-16T13:01:03.555Z",
+      "laatsteScrape": "2026-11-16T14:01:01.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 39,
+      "opeenvolgendLeeg": 40,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-16T13:01:03.555Z",
+      "laatsteScrape": "2026-11-16T14:01:01.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 55,
+      "opeenvolgendLeeg": 56,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-16T12:00:47.984Z",
@@ -144,10 +144,10 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-16T13:01:03.555Z",
+      "laatsteScrape": "2026-11-16T14:01:01.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 100,
-      "opeenvolgendFout": 10,
+      "opeenvolgendLeeg": 101,
+      "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-16T13:01:03.555Z",
         "bericht": "RSS-feed ophalen mislukt: fetch failed — oorzaak: Client network socket disconnected before secure TLS connection was established [ECONNRESET]",
@@ -155,9 +155,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-16T13:01:03.555Z",
+      "laatsteScrape": "2026-11-16T14:01:01.737Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 40,
+      "opeenvolgendLeeg": 41,
       "opeenvolgendFout": 0
     }
   },
@@ -400,7 +400,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 1,
+      "ongewijzigd": 0,
       "seed": 0
     },
     "cluster": {
