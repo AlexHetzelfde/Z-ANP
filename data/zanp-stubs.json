@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-16T15:00:51.113Z",
+  "bijgewerkt": "2026-11-16T16:00:58.790Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3530,6 +3530,17 @@
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
       "t": "2026-11-16T14:19:43.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "36ba8e8a8a": {
+      "g": "36ba8e8a8a",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nieuwe_archeologische_kroniek_bundelt_kennis_uit_de_bodem",
+      "k": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-16T16:16:53.000Z",
       "c": null,
       "r": "PRV"
     }
