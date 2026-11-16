@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T00:00:58.031Z",
+  "gegenereerdOp": "2026-11-16T01:00:57.976Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -228,8 +228,8 @@
       "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-530067.html",
       "soort": "nieuws",
       "kop": "Melding graven bodem - Nabij Dorpsstraat 742 Assendelft , 34 meter richting noorden",
-      "S": 0.05,
-      "Sa": 0.05,
+      "S": 0.04,
+      "Sa": 0.04,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.17,
