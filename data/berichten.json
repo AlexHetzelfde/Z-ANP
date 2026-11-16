@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T09:26:06.540Z",
+  "gegenereerdOp": "2026-11-16T10:00:54.244Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -405,6 +405,56 @@
     }
   ],
   "berichten": [
+    {
+      "id": "5f2417d1a1-v1",
+      "groepId": "5f2417d1a1",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Bewonersavond_over_N206_tussen_Vogelenzang_en_Aerdenhout",
+      "kop": "Provincie Noord-Holland organiseert bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "ai",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-16T10:43:36.000Z",
+      "heeftTijd": true,
+      "woorden": 284,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": true,
+      "controle": "cijfers-ok",
+      "eerstGezienOp": "2026-11-16T10:00:54.244Z",
+      "gecontroleerdOp": "2026-11-16T10:00:54.244Z",
+      "bronTitel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
+      "bronLengte": 1959,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "ai",
+      "agendapunten": [
+        {
+          "titel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
+          "dag": "2026-11-24",
+          "start": "2026-11-24T18:00:00.000Z",
+          "eind": "2026-11-24T20:00:00.000Z",
+          "plaats": "Stichting Dorpshuis Vogelenzang, Henk Lensenlaan 2A, 2114 ER Vogelenzang",
+          "zekerheid": "afgeleid"
+        }
+      ],
+      "agendaIds": [
+        "27831893f3"
+      ]
+    },
     {
       "id": "1374b2c9b7-v1",
       "groepId": "1374b2c9b7",

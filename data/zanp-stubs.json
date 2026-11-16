@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-16T09:26:06.540Z",
+  "bijgewerkt": "2026-11-16T10:00:54.244Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3508,6 +3508,17 @@
       "b": "DeOrkaan",
       "n": "DeOrkaan",
       "t": "2026-11-13T23:00:00.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "5f2417d1a1": {
+      "g": "5f2417d1a1",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Bewonersavond_over_N206_tussen_Vogelenzang_en_Aerdenhout",
+      "k": "Provincie Noord-Holland organiseert bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
+      "bt": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-16T10:43:36.000Z",
       "c": null,
       "r": "PRV"
     }
