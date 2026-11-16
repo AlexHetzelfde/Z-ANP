@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T21:00:53.553Z",
+  "gegenereerdOp": "2026-11-16T22:00:56.786Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,18 +39,18 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-16T21:00:53.553Z",
+      "laatsteScrape": "2026-11-16T22:00:56.786Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-16T21:00:53.553Z",
-      "gevonden": 3,
-      "opeenvolgendLeeg": 0,
-      "opeenvolgendFout": 0,
+      "laatsteScrape": "2026-11-16T22:00:56.786Z",
+      "gevonden": 0,
+      "opeenvolgendLeeg": 1,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-16T03:00:54.483Z",
+        "tijd": "2026-11-16T22:00:56.786Z",
         "bericht": "time-out na 45.0s bij nh-cultuur",
         "duurSec": 45
       }
@@ -127,15 +127,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-16T21:00:53.553Z",
+      "laatsteScrape": "2026-11-16T22:00:56.786Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 47,
+      "opeenvolgendLeeg": 48,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-16T21:00:53.553Z",
+      "laatsteScrape": "2026-11-16T22:00:56.786Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 63,
+      "opeenvolgendLeeg": 64,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-16T12:00:47.984Z",
@@ -144,20 +144,20 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-16T21:00:53.553Z",
+      "laatsteScrape": "2026-11-16T22:00:56.786Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 108,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 109,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-16T19:00:52.999Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 504",
+        "tijd": "2026-11-16T22:00:56.786Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 403",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-16T21:00:53.553Z",
+      "laatsteScrape": "2026-11-16T22:00:56.786Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 48,
+      "opeenvolgendLeeg": 49,
       "opeenvolgendFout": 0
     }
   },
@@ -400,7 +400,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 3,
+      "ongewijzigd": 0,
       "seed": 0
     },
     "cluster": {
@@ -429,10 +429,10 @@
         "mislukt": 0,
         "uitgesteld": 0
       },
-      "vergeten": 0,
+      "vergeten": 1,
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 98,
-      "stukken": 576,
+      "stukken": 575,
       "kandidaten": 44,
       "metAnker": 44,
       "zonderAnker": 0,
