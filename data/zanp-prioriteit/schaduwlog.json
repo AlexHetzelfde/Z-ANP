@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T10:00:54.244Z",
+  "gegenereerdOp": "2026-11-16T11:01:05.451Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 1,
-      "lokaal": 1,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 98,
     "stukken": 574,
-    "kandidaten": 52,
-    "metAnker": 52,
+    "kandidaten": 46,
+    "metAnker": 46,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 1,
@@ -39,8 +39,8 @@
       "key": "n:https://www.deorkaan.nl/begroting-verzet-krommeniedijk-en-sprookje-in-de-week-van-de-orkaan-%f0%9f%8e%99/",
       "soort": "nieuws",
       "kop": "Begroting, verzet Krommeniedijk en sprookje in De Week van De Orkaan 🎙",
-      "S": 0.27,
-      "Sa": 0.27,
+      "S": 0.26,
+      "Sa": 0.26,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.63,
@@ -221,34 +221,6 @@
           "c": 0.8,
           "plek": "intro",
           "titel": "Raadsvergadering"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-530067.html",
-      "soort": "nieuws",
-      "kop": "Melding graven bodem - Nabij Dorpsstraat 742 Assendelft , 34 meter richting noorden",
-      "S": 0.04,
-      "Sa": 0.04,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.17,
-      "Kp": 0.17,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "dorpsstrat",
-        "bodem",
-        "qterra"
-      ],
-      "bewijs": [
-        {
-          "bron": "bekendmakingen",
-          "datum": "2026-11-02T23:00:00.000Z",
-          "c": 0.95,
-          "plek": "kop",
-          "titel": "Melding graven bodem - Nabij Vinkenstraat 1 Zaandam , 7 meter richting zuiden"
         }
       ]
     },
@@ -1003,6 +975,35 @@
         "stappenplan",
         "wijzer",
         "zomlink"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:d1fcd2e8f5",
+      "soort": "agenda",
+      "kop": "Paul Haenen",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "haen",
+        "margret",
+        "dolman",
+        "dammi",
+        "gremdat",
+        "paul",
+        "reist",
+        "vorstelling",
+        "angan",
+        "betredt",
+        "scherp",
+        "humorvol"
       ],
       "bewijs": []
     }
