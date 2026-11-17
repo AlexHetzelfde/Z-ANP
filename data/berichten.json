@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T00:01:03.109Z",
+  "gegenereerdOp": "2026-11-17T01:00:59.223Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -450,7 +450,8 @@
             "url": "https://ted.europa.eu/nl/notice/-/detail/799614-2026"
           }
         ]
-      }
+      },
+      "tagVersie": 2
     },
     {
       "id": "36ba8e8a8a-v1",
