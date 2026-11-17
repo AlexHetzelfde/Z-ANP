@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-16T23:00:47.179Z",
+  "gegenereerdOp": "2026-11-17T00:01:03.109Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,53 @@
   ],
   "berichten": [
     {
+      "id": "47d9c1fd33-v1",
+      "groepId": "47d9c1fd33",
+      "versie": 1,
+      "url": "https://ted.europa.eu/nl/notice/-/detail/799614-2026",
+      "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in…",
+      "tekst": null,
+      "rubriek": "GEM",
+      "tagBron": "bron",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-16T23:00:00.000Z",
+      "heeftTijd": false,
+      "woorden": 29,
+      "afgekapt": false,
+      "bronId": "zaanstad-ted",
+      "bronNaam": "Gemeente Zaanstad: aanbestedingen (TED)",
+      "ai": false,
+      "controle": "geen-ai",
+      "eerstGezienOp": "2026-11-17T00:01:03.109Z",
+      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
+      "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
+      "bronLengte": 235,
+      "aanbesteding": {
+        "bron": "ted",
+        "soort": "voornemen-zonder-aanbesteding",
+        "noticeType": "veat",
+        "naam": "Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
+        "koper": "Gemeente Zaanstad",
+        "cpv": "85311000",
+        "geraamdeWaarde": 0,
+        "gegundeWaarde": 1,
+        "winnaars": [],
+        "sluitingsdatum": null,
+        "publicatienummer": "799614-2026",
+        "procedureId": "d5c3d6ad-3918-40ef-90c4-0f13714587b5",
+        "europees": true,
+        "tijdlijn": [
+          {
+            "datum": "2026-11-17",
+            "soort": "voornemen-zonder-aanbesteding",
+            "nummer": "799614-2026",
+            "url": "https://ted.europa.eu/nl/notice/-/detail/799614-2026"
+          }
+        ]
+      }
+    },
+    {
       "id": "36ba8e8a8a-v1",
       "groepId": "36ba8e8a8a",
       "versie": 1,
@@ -425,7 +472,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T16:00:58.790Z",
-      "gecontroleerdOp": "2026-11-16T21:00:53.553Z",
+      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
       "bronTitel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
       "bronLengte": 1532,
       "checklist": {
@@ -463,7 +510,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T15:00:51.113Z",
-      "gecontroleerdOp": "2026-11-16T21:00:53.553Z",
+      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
       "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
       "bronLengte": 1790,
       "checklist": {
@@ -501,7 +548,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T10:00:54.244Z",
-      "gecontroleerdOp": "2026-11-16T21:00:53.553Z",
+      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
       "bronTitel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
       "bronLengte": 1959,
       "checklist": {
@@ -567,7 +614,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "50aa1cd601-v1",
@@ -604,7 +652,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "1374b2c9b7-v1",
