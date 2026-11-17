@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T12:00:47.733Z",
+  "gegenereerdOp": "2026-11-17T13:00:50.363Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-17T10:01:01.464Z",
-      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
+      "gecontroleerdOp": "2026-11-17T13:00:50.363Z",
       "bronTitel": "Maak kennis met techniek op een PET Event",
       "bronLengte": 2234,
       "checklist": {
@@ -463,7 +463,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-17T00:01:03.109Z",
-      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
+      "gecontroleerdOp": "2026-11-17T13:00:50.363Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
       "bronLengte": 235,
       "aanbesteding": {
@@ -549,7 +549,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T16:00:58.790Z",
-      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
+      "gecontroleerdOp": "2026-11-17T13:00:50.363Z",
       "bronTitel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
       "bronLengte": 1532,
       "checklist": {
@@ -587,7 +587,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T15:00:51.113Z",
-      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
+      "gecontroleerdOp": "2026-11-17T13:00:50.363Z",
       "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
       "bronLengte": 1790,
       "checklist": {
@@ -14040,45 +14040,6 @@
         "inRegio": false
       },
       "checklistBron": "ai",
-      "tagVersie": 2
-    },
-    {
-      "id": "c2e8d82b1e-v2",
-      "groepId": "c2e8d82b1e",
-      "versie": 2,
-      "url": "https://www.deorkaan.nl/50woordenfoto-peperbus/",
-      "kop": "50woordenfoto: Erasmusbrug bij Zaanse Schans…",
-      "tekst": null,
-      "rubriek": "CUL",
-      "tagBron": "trefwoord",
-      "herkomst": "signaal",
-      "prio": 3,
-      "tijd": "2026-11-03T12:00:51.615Z",
-      "heeftTijd": true,
-      "woorden": 102,
-      "afgekapt": false,
-      "bronId": "DeOrkaan",
-      "bronNaam": "DeOrkaan",
-      "ai": false,
-      "controle": "analyse-ok",
-      "eerstGezienOp": "2026-11-03T12:00:51.615Z",
-      "gecontroleerdOp": "2026-11-04T10:00:52.994Z",
-      "bronTitel": "50woordenfoto: Erasmusbrug bij Zaanse Schans…",
-      "bronLengte": 606,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": true
-      },
-      "checklistBron": "ai",
-      "analyse": true,
       "tagVersie": 2
     }
   ]
