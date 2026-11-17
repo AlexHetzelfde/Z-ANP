@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-17T18:00:51.500Z",
+  "bijgewerkt": "2026-11-17T19:00:51.529Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3587,6 +3587,50 @@
       "t": "2026-11-16T23:00:00.000Z",
       "c": null,
       "r": "VER"
+    },
+    "1a93504238": {
+      "g": "1a93504238",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
+      "k": "Warmtenet Krommenie technisch kansrijk maar financieel niet haalbaar",
+      "bt": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-16T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "5f6a90933e": {
+      "g": "5f6a90933e",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/d39bb1f7-1061-4d1c-8ee5-da7a05ef8d09",
+      "k": "Schriftelijke inspraak agenda-initiatief Evenementen op de Hemkade en het Hembrugterrein",
+      "bt": "",
+      "b": "ibabs-ingekomen-stukken",
+      "n": "Zaanstad — Ingekomen stukken (iBabs)",
+      "t": "2026-11-16T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "60b7f2c6f7": {
+      "g": "60b7f2c6f7",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/249a96a7-738c-4ec8-9b71-d4674ddb9e1c",
+      "k": "TAETS vraagt aandacht voor toekomst en afspraken op Hembrugterrein",
+      "bt": "Verzoek om spreektijd en verspreiding stukken TAETS – Zaanstad Beraad 17 november, agendapunt 5",
+      "b": "ibabs-ingekomen-stukken",
+      "n": "Zaanstad — Ingekomen stukken (iBabs)",
+      "t": "2026-11-16T23:00:00.000Z",
+      "c": null,
+      "r": "BED"
+    },
+    "39459a810f": {
+      "g": "39459a810f",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/93fa08b9-02ff-4a71-9a81-625b73c0c95f",
+      "k": "Kantoortoren Zaanstad VOF stuurt brief aan omwonenden Saendenborch",
+      "bt": "Brief aan omwonenden Saendenborch",
+      "b": "ibabs-ingekomen-stukken",
+      "n": "Zaanstad — Ingekomen stukken (iBabs)",
+      "t": "2026-11-16T23:00:00.000Z",
+      "c": null,
+      "r": "WON"
     }
   }
 }
