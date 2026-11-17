@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T19:00:51.529Z",
+  "gegenereerdOp": "2026-11-17T20:01:07.145Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-17T16:00:52.248Z",
-      "gecontroleerdOp": "2026-11-17T17:00:54.829Z",
+      "gecontroleerdOp": "2026-11-17T20:01:07.145Z",
       "bronTitel": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
       "bronLengte": 2776,
       "checklist": {
@@ -463,7 +463,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-17T10:01:01.464Z",
-      "gecontroleerdOp": "2026-11-17T18:00:51.500Z",
+      "gecontroleerdOp": "2026-11-17T20:01:07.145Z",
       "bronTitel": "Maak kennis met techniek op een PET Event",
       "bronLengte": 2234,
       "checklist": {
@@ -517,6 +517,7 @@
         "inRegio": true
       },
       "checklistBron": "ai",
+      "tagVersie": 2,
       "alertKandidaat": {
         "niveau": "oranje",
         "categorie": "bestuur",
@@ -560,7 +561,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "60b7f2c6f7-v1",
@@ -610,7 +612,8 @@
       ],
       "agendaIds": [
         "d92ede0b47"
-      ]
+      ],
+      "tagVersie": 2
     },
     {
       "id": "39459a810f-v1",
@@ -647,7 +650,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "ec17a6d2b5-v1",
@@ -669,7 +673,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-17T17:00:54.829Z",
-      "gecontroleerdOp": "2026-11-17T17:00:54.829Z",
+      "gecontroleerdOp": "2026-11-17T20:01:07.145Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 343,
       "checklist": {
@@ -707,7 +711,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-17T00:01:03.109Z",
-      "gecontroleerdOp": "2026-11-17T18:00:51.500Z",
+      "gecontroleerdOp": "2026-11-17T20:01:07.145Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
       "bronLengte": 235,
       "aanbesteding": {
