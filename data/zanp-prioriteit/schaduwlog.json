@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T22:00:50.221Z",
+  "gegenereerdOp": "2026-11-17T23:00:55.577Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 4,
-    "tekstenOpgeruimd": 0,
-    "tekstDekkingPct": 99,
+    "vergeten": 0,
+    "tekstenOpgeruimd": 1,
+    "tekstDekkingPct": 100,
     "stukken": 583,
-    "kandidaten": 55,
-    "metAnker": 55,
+    "kandidaten": 54,
+    "metAnker": 54,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 0,
@@ -493,24 +493,6 @@
           "titel": "Verkeersbesluit plaatsen laadpaal voor electrische auto's Matsmanzoom te Koog a/d Zaan"
         }
       ]
-    },
-    {
-      "key": "a:7f80a7d896",
-      "soort": "agenda",
-      "kop": "Webinar ‘De wooncoöperatie’",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "woncoperati"
-      ],
-      "bewijs": []
     },
     {
       "key": "a:d687f6b7ef",
@@ -1058,6 +1040,28 @@
       "ankers": [
         "virtuel",
         "tijdmuseum"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:0074fed529",
+      "soort": "agenda",
+      "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "participati",
+        "opvanglocatie",
+        "emotie",
+        "workshop",
+        "relevant"
       ],
       "bewijs": []
     }
@@ -2921,6 +2925,208 @@
         "S": 0,
         "route": "geen",
         "K": 0.25,
+        "n": 0,
+        "bronnen": 0
+      }
+    },
+    "2026-11-18": {
+      "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/593d6a59-4139-4b53-b3f6-9f52ba69d796": {
+        "kop": "Implementatie nieuw metronetwerk en maatregelen",
+        "S": 0.36,
+        "route": "aanhoudend",
+        "K": 0.64,
+        "n": 2,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3": {
+        "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+        "S": 0.28,
+        "route": "aanhoudend",
+        "K": 0.67,
+        "n": 2,
+        "bronnen": 1
+      },
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden": {
+        "kop": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
+        "S": 0.22,
+        "route": "aanhoudend",
+        "K": 0.58,
+        "n": 3,
+        "bronnen": 1
+      },
+      "a:a0100eb92c": {
+        "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
+        "S": 0.13,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/d39bb1f7-1061-4d1c-8ee5-da7a05ef8d09": {
+        "kop": "Schriftelijke inspraak agenda-initiatief Evenementen op de Hemkade en het Hembrugterrein",
+        "S": 0.11,
+        "route": "aanhoudend",
+        "K": 0.35,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:aea0d9f918": {
+        "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+        "S": 0.1,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 2,
+        "bronnen": 1
+      },
+      "a:adb796eec6": {
+        "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+        "S": 0.09,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/93fa08b9-02ff-4a71-9a81-625b73c0c95f": {
+        "kop": "Brief aan omwonenden Saendenborch",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.33,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ce4ae67b87": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4b9ea65ea4": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:df64e6f44d": {
+        "kop": "Zaanstad Beraad",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0.13,
+        "n": 2,
+        "bronnen": 1
+      },
+      "a:4e43e184bd": {
+        "kop": "Raadsvergadering",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0.14,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:e26813c04c": {
+        "kop": "Geweigerde huisvestingsvergunning Klipperstraat 37 te Zaandam - Microsoft Teams",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0.15,
+        "n": 2,
+        "bronnen": 1
+      },
+      "a:54bf0d34fe": {
+        "kop": "Verkeersbesluit plaatsen laadpaal voor elektrische auto's locatie Kaaikhof te Assendelft",
+        "S": 0.02,
+        "route": "aanhoudend",
+        "K": 0.15,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:d687f6b7ef": {
+        "kop": "Bestuurlijke boete kamerverhuur Klipperstraat 37 te Zaandam - Microsoft Teams",
+        "S": 0,
+        "route": "geen",
+        "K": 0.15,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:e92c9914b6": {
+        "kop": "Zaanstad Beraad",
+        "S": 0,
+        "route": "geen",
+        "K": 0.13,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:63d1539b24": {
+        "kop": "Dag van de Mantelzorg",
+        "S": 0,
+        "route": "geen",
+        "K": 0.2,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:e41b9aa2a8": {
+        "kop": "Kelapa Muda: Kinderen van de Molukken",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a1d48a4237": {
+        "kop": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam",
+        "S": 0,
+        "route": "geen",
+        "K": 0.15,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:85028be697": {
+        "kop": "Regionale Raadsledenbijeenkomst",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0a13415ebf": {
+        "kop": "Pokertoernooi in de Pelikaan",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:f6354ef2ca": {
+        "kop": "Nationaal Congres Bodemdaling",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:3acacdce09": {
+        "kop": "lunchwebinar: dilemma’s voorleggen aan inwoners",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:37e36d019e": {
+        "kop": "Zaanstad Beraad",
+        "S": 0,
+        "route": "geen",
+        "K": 0.25,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:cabf81de91": {
+        "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
         "n": 0,
         "bronnen": 0
       }
