@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T06:00:48.978Z",
+  "gegenereerdOp": "2026-11-17T07:00:45.669Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -452,6 +452,43 @@
         ]
       },
       "tagVersie": 2
+    },
+    {
+      "id": "52a638fb09-v1",
+      "groepId": "52a638fb09",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_zoekt_woorden_voor_Noord_Hollandlied",
+      "kop": "Provincie Noord-Holland zoekt woorden voor nieuw volkslied",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "ai",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-16T17:15:59.000Z",
+      "heeftTijd": true,
+      "woorden": 350,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": true,
+      "controle": "cijfers-ok",
+      "eerstGezienOp": "2026-11-17T07:00:45.669Z",
+      "gecontroleerdOp": "2026-11-17T07:00:45.669Z",
+      "bronTitel": "Provincie zoekt woorden voor Noord-Hollandlied",
+      "bronLengte": 2240,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "ai"
     },
     {
       "id": "36ba8e8a8a-v1",
