@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-17T15:01:06.423Z",
+  "bijgewerkt": "2026-11-17T16:00:52.248Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3565,6 +3565,17 @@
       "t": "2026-11-17T10:28:30.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "1f52726dfd": {
+      "g": "1f52726dfd",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
+      "k": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-17T15:43:55.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
