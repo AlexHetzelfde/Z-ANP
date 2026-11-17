@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T04:00:48.529Z",
+  "gegenereerdOp": "2026-11-17T05:00:50.950Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,13 +39,13 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-17T03:40:30.661Z",
+      "laatsteScrape": "2026-11-17T05:00:50.950Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-17T03:40:30.661Z",
+      "laatsteScrape": "2026-11-17T05:00:50.950Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -127,15 +127,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-17T03:40:30.661Z",
+      "laatsteScrape": "2026-11-17T05:00:50.950Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 54,
+      "opeenvolgendLeeg": 55,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-17T03:40:30.661Z",
+      "laatsteScrape": "2026-11-17T05:00:50.950Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 70,
+      "opeenvolgendLeeg": 71,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-16T12:00:47.984Z",
@@ -144,9 +144,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-17T03:40:30.661Z",
+      "laatsteScrape": "2026-11-17T05:00:50.950Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 115,
+      "opeenvolgendLeeg": 116,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-17T03:00:57.874Z",
@@ -155,7 +155,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-17T03:40:30.661Z",
+      "laatsteScrape": "2026-11-17T05:00:50.950Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -400,7 +400,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 0,
+      "ongewijzigd": 4,
       "seed": 0
     },
     "cluster": {
