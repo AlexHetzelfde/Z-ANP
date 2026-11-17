@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T14:00:48.576Z",
+  "gegenereerdOp": "2026-11-17T15:01:06.423Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,14 +39,14 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-17T14:00:48.576Z",
+      "laatsteScrape": "2026-11-17T15:01:06.423Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-17T14:00:48.576Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-17T15:01:06.423Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -127,15 +127,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-17T14:00:48.576Z",
+      "laatsteScrape": "2026-11-17T15:01:06.423Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 64,
+      "opeenvolgendLeeg": 65,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-17T14:00:48.576Z",
+      "laatsteScrape": "2026-11-17T15:01:06.423Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 80,
+      "opeenvolgendLeeg": 81,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-17T11:00:50.795Z",
@@ -144,9 +144,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-17T14:00:48.576Z",
+      "laatsteScrape": "2026-11-17T15:01:06.423Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 125,
+      "opeenvolgendLeeg": 126,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-17T03:00:57.874Z",
@@ -155,7 +155,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-17T14:00:48.576Z",
+      "laatsteScrape": "2026-11-17T15:01:06.423Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -400,7 +400,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 1,
+      "ongewijzigd": 3,
       "seed": 0
     },
     "cluster": {
