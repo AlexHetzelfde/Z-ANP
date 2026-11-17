@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T07:00:45.669Z",
+  "gegenereerdOp": "2026-11-17T08:00:49.441Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-17T00:01:03.109Z",
-      "gecontroleerdOp": "2026-11-17T05:00:50.950Z",
+      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
       "bronLengte": 235,
       "aanbesteding": {
@@ -488,7 +488,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "36ba8e8a8a-v1",
@@ -510,7 +511,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T16:00:58.790Z",
-      "gecontroleerdOp": "2026-11-17T05:00:50.950Z",
+      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
       "bronTitel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
       "bronLengte": 1532,
       "checklist": {
@@ -548,7 +549,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T15:00:51.113Z",
-      "gecontroleerdOp": "2026-11-17T05:00:50.950Z",
+      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
       "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
       "bronLengte": 1790,
       "checklist": {
@@ -586,7 +587,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T10:00:54.244Z",
-      "gecontroleerdOp": "2026-11-17T05:00:50.950Z",
+      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
       "bronTitel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
       "bronLengte": 1959,
       "checklist": {
