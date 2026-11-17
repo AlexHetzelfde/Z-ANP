@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T09:00:48.778Z",
+  "gegenereerdOp": "2026-11-17T10:01:01.464Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,43 @@
   ],
   "berichten": [
     {
+      "id": "a3372e97d8-v1",
+      "groepId": "a3372e97d8",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Maak_kennis_met_techniek_op_een_PET_Event",
+      "kop": "Provincie Noord-Holland maakt techniekevenementen voor basisschoolleerlingen mede mogelijk",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "ai",
+      "herkomst": "officieel",
+      "prio": 4,
+      "tijd": "2026-11-17T10:28:30.000Z",
+      "heeftTijd": true,
+      "woorden": 335,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": true,
+      "controle": "cijfers-ok",
+      "eerstGezienOp": "2026-11-17T10:01:01.464Z",
+      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
+      "bronTitel": "Maak kennis met techniek op een PET Event",
+      "bronLengte": 2234,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "ai"
+    },
+    {
       "id": "47d9c1fd33-v1",
       "groepId": "47d9c1fd33",
       "versie": 1,
@@ -425,7 +462,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-17T00:01:03.109Z",
-      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
+      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
       "bronLengte": 235,
       "aanbesteding": {
@@ -511,7 +548,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T16:00:58.790Z",
-      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
+      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
       "bronTitel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
       "bronLengte": 1532,
       "checklist": {
@@ -549,7 +586,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T15:00:51.113Z",
-      "gecontroleerdOp": "2026-11-17T08:00:49.441Z",
+      "gecontroleerdOp": "2026-11-17T10:01:01.464Z",
       "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
       "bronLengte": 1790,
       "checklist": {

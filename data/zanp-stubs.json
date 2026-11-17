@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-17T09:00:48.778Z",
+  "bijgewerkt": "2026-11-17T10:01:01.464Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3552,6 +3552,17 @@
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
       "t": "2026-11-16T17:15:59.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "a3372e97d8": {
+      "g": "a3372e97d8",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Maak_kennis_met_techniek_op_een_PET_Event",
+      "k": "Provincie Noord-Holland maakt techniekevenementen voor basisschoolleerlingen mede mogelijk",
+      "bt": "Maak kennis met techniek op een PET Event",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-17T10:28:30.000Z",
       "c": null,
       "r": "PRV"
     }
