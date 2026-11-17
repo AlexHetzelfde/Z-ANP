@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T01:00:59.223Z",
+  "gegenereerdOp": "2026-11-17T02:01:05.197Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-17T00:01:03.109Z",
-      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
+      "gecontroleerdOp": "2026-11-17T02:01:05.197Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
       "bronLengte": 235,
       "aanbesteding": {
@@ -473,7 +473,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T16:00:58.790Z",
-      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
+      "gecontroleerdOp": "2026-11-17T02:01:05.197Z",
       "bronTitel": "Nieuwe archeologische kroniek bundelt kennis uit de bodem",
       "bronLengte": 1532,
       "checklist": {
@@ -511,7 +511,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T15:00:51.113Z",
-      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
+      "gecontroleerdOp": "2026-11-17T02:01:05.197Z",
       "bronTitel": "Noord-Holland legt spelregels voor meedenken vast",
       "bronLengte": 1790,
       "checklist": {
@@ -549,7 +549,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-16T10:00:54.244Z",
-      "gecontroleerdOp": "2026-11-17T00:01:03.109Z",
+      "gecontroleerdOp": "2026-11-17T02:01:05.197Z",
       "bronTitel": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
       "bronLengte": 1959,
       "checklist": {
