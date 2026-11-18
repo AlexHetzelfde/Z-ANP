@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-18T14:00:50.244Z",
+  "bijgewerkt": "2026-11-18T15:00:53.808Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3672,9 +3672,64 @@
       "bt": "",
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
-      "t": "2026-11-18T10:09:20.000Z",
+      "t": "2026-11-18T15:00:53.808Z",
       "c": null,
       "r": "PRV"
+    },
+    "81a1e73cb5": {
+      "g": "81a1e73cb5",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3ff488c9-3896-416a-bae0-99f58fcc19c4",
+      "k": "Besluitenlijst B&W 10-11-2026",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-17T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "b2229bfe20": {
+      "g": "b2229bfe20",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/a1349f81-46fd-4e43-8677-ea5a9d51e59b",
+      "k": "Uitvoering Motie vreemd: Geen lood in de sloot",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-17T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "9712308ac9": {
+      "g": "9712308ac9",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/80063958-7e5d-4836-b17b-34c083ceea72",
+      "k": "Parameters 2027 voor omzetting recht van erfpacht naar vol eigendom",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-17T23:00:00.000Z",
+      "c": null,
+      "r": "BED"
+    },
+    "e835848297": {
+      "g": "e835848297",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/620cdfc3-9c82-4018-ab03-3129661ef80f",
+      "k": "Aanvragen omgevingsvergunning voor het kappen van bomen voor project POOORT Zaandam Oost",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-17T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "1df3836300": {
+      "g": "1df3836300",
+      "u": "https://www.zaanschemolen.nl/het-pink-doet-zijn-jasje-uit/",
+      "k": "Het Pink doet zijn jasje uit",
+      "bt": "",
+      "b": "zaansche-molen",
+      "n": "De Zaansche Molen — Nieuws",
+      "t": "2026-11-17T21:19:02.000Z",
+      "c": null,
+      "r": "CUL"
     }
   }
 }

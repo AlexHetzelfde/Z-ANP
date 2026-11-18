@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T14:00:50.244Z",
+  "gegenereerdOp": "2026-11-18T15:00:53.808Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 4,
-      "lokaal": 3,
-      "opgehaald": 1,
+      "werklijst": 8,
+      "lokaal": 8,
+      "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 587,
-    "kandidaten": 57,
-    "metAnker": 57,
+    "stukken": 594,
+    "kandidaten": 63,
+    "metAnker": 63,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 0,
@@ -77,6 +77,51 @@
       ]
     },
     {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
+      "soort": "nieuws",
+      "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+      "S": 0.34,
+      "Sa": 0.34,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.66,
+      "Kp": 0.42,
+      "n": 3,
+      "dagen": 3,
+      "bronnen": 1,
+      "ankers": [
+        "groenewoud",
+        "persbericht",
+        "kennisgeving",
+        "warmtenet",
+        "voruitlopend",
+        "ardgasvrij"
+      ],
+      "bewijs": [
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-05T23:00:00.000Z",
+          "c": 0.94,
+          "plek": "kop",
+          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-10T23:00:00.000Z",
+          "c": 0.9,
+          "plek": "kop",
+          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-09T23:00:00.000Z",
+          "c": 0.88,
+          "plek": "kop",
+          "titel": "Kennisgeving wethouder Onclin: Subsidieregeling decentrale politieke partijen Zaanstad"
+        }
+      ]
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen",
       "soort": "nieuws",
       "kop": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
@@ -106,39 +151,35 @@
       ]
     },
     {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij",
       "soort": "nieuws",
-      "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
-      "S": 0.26,
-      "Sa": 0.26,
+      "kop": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
+      "S": 0.29,
+      "Sa": 0.29,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.65,
-      "Kp": 0.42,
-      "n": 2,
-      "dagen": 2,
+      "K": 0.36,
+      "Kp": 0.2,
+      "n": 1,
+      "dagen": 1,
       "bronnen": 1,
       "ankers": [
-        "groenewoud",
-        "persbericht",
-        "warmtenet",
-        "voruitlopend",
-        "ardgasvrij"
+        "texel",
+        "dichterbij",
+        "branco",
+        "verheij",
+        "naturherstel",
+        "programmatisch",
+        "breng",
+        "stikstof"
       ],
       "bewijs": [
         {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.93,
+          "bron": "nh-actueel",
+          "datum": "2026-11-18T15:00:53.808Z",
+          "c": 0.88,
           "plek": "kop",
-          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-10T23:00:00.000Z",
-          "c": 0.89,
-          "plek": "kop",
-          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
+          "titel": "PAS-melders op Texel kunnen natuurvergunning aanvragen"
         }
       ]
     },
@@ -242,7 +283,7 @@
         {
           "bron": "zaanstad-kalender",
           "datum": "2026-11-12T07:50:59.785Z",
-          "c": 0.74,
+          "c": 0.75,
           "plek": "intro",
           "titel": "Zaanstad Beraad"
         }
@@ -309,6 +350,34 @@
           "c": 0.88,
           "plek": "kop",
           "titel": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan"
+        }
+      ]
+    },
+    {
+      "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-535233.html",
+      "soort": "nieuws",
+      "kop": "Beschikking saneringsevaluatie - Zeeheldenbuurt, Wormerveer",
+      "S": 0.08,
+      "Sa": 0.08,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.4,
+      "Kp": 0.24,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "zeheldenburt",
+        "beschikking",
+        "saneringsevaluati"
+      ],
+      "bewijs": [
+        {
+          "bron": "bekendmakingen",
+          "datum": "2026-11-04T23:00:00.000Z",
+          "c": 1,
+          "plek": "kop",
+          "titel": "Beschikking instemmen saneringsevaluatie - Noorddijk, Wormerveer"
         }
       ]
     },
@@ -1028,47 +1097,6 @@
         "dierenbescherming",
         "atelier300c",
         "soesterweg"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:876bc64aab",
-      "soort": "agenda",
-      "kop": "Inspiratiesessie Zaans Preventiemodel (ZPM)",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "inspiratiesessi",
-        "preventiemodel",
-        "stomhal",
-        "pakhuisplein",
-        "preventi"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:f14947adc5",
-      "soort": "agenda",
-      "kop": "Opening Virtueel TIJDmuseum",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "virtuel",
-        "tijdmuseum"
       ],
       "bewijs": []
     }
@@ -2945,6 +2973,14 @@
         "n": 2,
         "bronnen": 1
       },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3": {
+        "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+        "S": 0.34,
+        "route": "aanhoudend",
+        "K": 0.66,
+        "n": 3,
+        "bronnen": 1
+      },
       "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen": {
         "kop": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
         "S": 0.33,
@@ -2953,12 +2989,12 @@
         "n": 1,
         "bronnen": 1
       },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3": {
-        "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
-        "S": 0.28,
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij": {
+        "kop": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
+        "S": 0.29,
         "route": "aanhoudend",
-        "K": 0.67,
-        "n": 2,
+        "K": 0.36,
+        "n": 1,
         "bronnen": 1
       },
       "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden": {
@@ -2998,6 +3034,14 @@
         "S": 0.09,
         "route": "aanhoudend",
         "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zoek.officielebekendmakingen.nl/gmb-2026-535233.html": {
+        "kop": "Beschikking saneringsevaluatie - Zeeheldenbuurt, Wormerveer",
+        "S": 0.08,
+        "route": "aanhoudend",
+        "K": 0.4,
         "n": 1,
         "bronnen": 1
       },
@@ -3118,22 +3162,6 @@
         "S": 0,
         "route": "geen",
         "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:3acacdce09": {
-        "kop": "lunchwebinar: dilemma’s voorleggen aan inwoners",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:37e36d019e": {
-        "kop": "Zaanstad Beraad",
-        "S": 0,
-        "route": "geen",
-        "K": 0.25,
         "n": 0,
         "bronnen": 0
       }
