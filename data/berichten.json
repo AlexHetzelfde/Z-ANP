@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T19:00:55.040Z",
+  "gegenereerdOp": "2026-11-18T20:00:49.561Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -973,7 +973,14 @@
         "inRegio": true
       },
       "checklistBron": "ai",
-      "tagVersie": 2
+      "tagVersie": 2,
+      "alertKandidaat": {
+        "niveau": "oranje",
+        "categorie": "bestuur",
+        "reden": "besluit met groot gevolg (officiële bron)",
+        "aangemaaktOp": "2026-11-18T20:00:49.561Z",
+        "tot": "2026-11-19T20:00:49.561Z"
+      }
     },
     {
       "id": "5f6a90933e-v1",

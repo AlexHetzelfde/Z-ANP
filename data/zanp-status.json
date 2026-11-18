@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T19:00:55.040Z",
+  "gegenereerdOp": "2026-11-18T20:00:49.561Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,7 +39,7 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-18T19:00:55.040Z",
+      "laatsteScrape": "2026-11-18T20:00:49.561Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -50,7 +50,7 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-18T19:00:55.040Z",
+      "laatsteScrape": "2026-11-18T20:00:49.561Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -132,15 +132,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-18T19:00:55.040Z",
+      "laatsteScrape": "2026-11-18T20:00:49.561Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-18T19:00:55.040Z",
+      "laatsteScrape": "2026-11-18T20:00:49.561Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 110,
+      "opeenvolgendLeeg": 111,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-18T16:00:50.715Z",
@@ -149,10 +149,10 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-18T19:00:55.040Z",
+      "laatsteScrape": "2026-11-18T20:00:49.561Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 155,
-      "opeenvolgendFout": 1,
+      "opeenvolgendLeeg": 156,
+      "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-18T19:00:55.040Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 403",
@@ -160,7 +160,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-18T19:00:55.040Z",
+      "laatsteScrape": "2026-11-18T20:00:49.561Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -405,7 +405,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 4,
+      "ongewijzigd": 0,
       "seed": 0
     },
     "cluster": {
@@ -417,7 +417,7 @@
       "uitgesteld": 0,
       "clusters": 0
     },
-    "alerts": 0,
+    "alerts": 1,
     "koppel": {
       "agendaNaarBericht": 0,
       "uitkomsten": 0,
