@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T15:00:53.808Z",
+  "gegenereerdOp": "2026-11-18T16:00:50.715Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,16 +8,16 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 8,
-      "lokaal": 8,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 1,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 594,
+    "stukken": 593,
     "kandidaten": 63,
     "metAnker": 63,
     "zonderAnker": 0,
@@ -187,11 +187,11 @@
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
       "soort": "nieuws",
       "kop": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
-      "S": 0.21,
-      "Sa": 0.21,
+      "S": 0.24,
+      "Sa": 0.24,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.58,
+      "K": 0.59,
       "Kp": 0.37,
       "n": 3,
       "dagen": 3,
@@ -201,6 +201,7 @@
         "thorbeckeweg",
         "kruispunt",
         "wegen",
+        "dicht",
         "n516"
       ],
       "bewijs": [
@@ -213,17 +214,17 @@
         },
         {
           "bron": "DeOrkaan",
+          "datum": "2026-11-10T23:00:00.000Z",
+          "c": 0.88,
+          "plek": "kop",
+          "titel": "Fietstunnel Skoon bijna open, Verlengde Stellingweg weekend dicht"
+        },
+        {
+          "bron": "DeOrkaan",
           "datum": "2026-11-05T23:00:00.000Z",
           "c": 0.72,
           "plek": "intro",
           "titel": "Volgend weekend (13-16 november) Den Uylbrug afgesloten"
-        },
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-10T23:00:00.000Z",
-          "c": 0.42,
-          "plek": "tekst",
-          "titel": "Fietstunnel Skoon bijna open, Verlengde Stellingweg weekend dicht"
         }
       ]
     },
@@ -632,8 +633,8 @@
         "uitgan",
         "wissel",
         "pauze",
-        "regiovisi",
         "veilig",
+        "regiovisi",
         "insprak",
         "initiatief",
         "samenwerk",
@@ -2999,9 +3000,9 @@
       },
       "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden": {
         "kop": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
-        "S": 0.22,
+        "S": 0.24,
         "route": "aanhoudend",
-        "K": 0.58,
+        "K": 0.59,
         "n": 3,
         "bronnen": 1
       },
