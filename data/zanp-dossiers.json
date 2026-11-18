@@ -1,7 +1,7 @@
 {
   "versie": 1,
   "modus": "log",
-  "bijgewerkt": "2026-11-18T13:00:50.829Z",
+  "bijgewerkt": "2026-11-18T14:00:50.244Z",
   "dossiers": [],
   "afgewezen": {
     "verworp": {
@@ -52,6 +52,11 @@
     "stellen": {
       "aantal": 5,
       "tijd": "2026-11-16T15:00:51.113Z",
+      "reden": "ai-nee"
+    },
+    "extra": {
+      "aantal": 5,
+      "tijd": "2026-11-18T14:00:50.244Z",
       "reden": "ai-nee"
     }
   }

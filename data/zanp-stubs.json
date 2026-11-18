@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-18T13:00:50.829Z",
+  "bijgewerkt": "2026-11-18T14:00:50.244Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3631,6 +3631,50 @@
       "t": "2026-11-16T23:00:00.000Z",
       "c": null,
       "r": "WON"
+    },
+    "54b8f687c7": {
+      "g": "54b8f687c7",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Begroting_2027_afronden_en_doorbouwen",
+      "k": "Begroting 2027: afronden en doorbouwen",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-18T14:24:57.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "29057ede33": {
+      "g": "29057ede33",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
+      "k": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-18T14:08:38.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "96c48d4a58": {
+      "g": "96c48d4a58",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij",
+      "k": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-18T13:41:48.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "a2ba122ae1": {
+      "g": "a2ba122ae1",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen",
+      "k": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-18T10:09:20.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }
