@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T18:00:49.830Z",
+  "gegenereerdOp": "2026-11-18T19:00:55.040Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T15:00:53.808Z",
-      "gecontroleerdOp": "2026-11-18T16:00:50.715Z",
+      "gecontroleerdOp": "2026-11-18T19:00:55.040Z",
       "bronTitel": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
       "bronLengte": 5475,
       "checklist": {
@@ -463,7 +463,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-18T16:00:50.715Z",
+      "gecontroleerdOp": "2026-11-18T19:00:55.040Z",
       "bronTitel": "Begroting 2027: afronden en doorbouwen",
       "bronLengte": 1525,
       "checklist": {
@@ -501,7 +501,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-18T16:00:50.715Z",
+      "gecontroleerdOp": "2026-11-18T19:00:55.040Z",
       "bronTitel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
       "bronLengte": 2432,
       "checklist": {
@@ -539,7 +539,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-18T16:00:50.715Z",
+      "gecontroleerdOp": "2026-11-18T19:00:55.040Z",
       "bronTitel": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
       "bronLengte": 5998,
       "checklist": {
@@ -973,14 +973,7 @@
         "inRegio": true
       },
       "checklistBron": "ai",
-      "tagVersie": 2,
-      "alertKandidaat": {
-        "niveau": "oranje",
-        "categorie": "bestuur",
-        "reden": "besluit met groot gevolg (officiële bron)",
-        "aangemaaktOp": "2026-11-17T19:00:51.529Z",
-        "tot": "2026-11-18T19:00:51.529Z"
-      }
+      "tagVersie": 2
     },
     {
       "id": "5f6a90933e-v1",
