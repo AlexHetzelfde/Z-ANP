@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T23:00:55.577Z",
+  "gegenereerdOp": "2026-11-18T00:00:51.527Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -15,7 +15,7 @@
       "uitgesteld": 0
     },
     "vergeten": 0,
-    "tekstenOpgeruimd": 1,
+    "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 583,
     "kandidaten": 54,
@@ -43,7 +43,7 @@
       "Sa": 0.36,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.64,
+      "K": 0.63,
       "Kp": 0.38,
       "n": 2,
       "dagen": 2,
@@ -84,7 +84,7 @@
       "Sa": 0.28,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.67,
+      "K": 0.66,
       "Kp": 0.43,
       "n": 2,
       "dagen": 2,

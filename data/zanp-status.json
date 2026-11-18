@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-17T23:00:55.577Z",
+  "gegenereerdOp": "2026-11-18T00:00:51.527Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,18 +39,18 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-17T23:00:55.577Z",
+      "laatsteScrape": "2026-11-18T00:00:51.527Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-17T23:00:55.577Z",
-      "gevonden": 15,
-      "opeenvolgendLeeg": 0,
-      "opeenvolgendFout": 0,
+      "laatsteScrape": "2026-11-18T00:00:51.527Z",
+      "gevonden": 0,
+      "opeenvolgendLeeg": 1,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-16T22:00:56.786Z",
+        "tijd": "2026-11-18T00:00:51.527Z",
         "bericht": "time-out na 45.0s bij nh-cultuur",
         "duurSec": 45
       }
@@ -127,26 +127,26 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-17T23:00:55.577Z",
+      "laatsteScrape": "2026-11-18T00:00:51.527Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-17T23:00:55.577Z",
+      "laatsteScrape": "2026-11-18T00:00:51.527Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 89,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 90,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-17T19:00:51.529Z",
+        "tijd": "2026-11-18T00:00:51.527Z",
         "bericht": "Lijst ophalen mislukt: This operation was aborted",
         "duurSec": null
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-17T23:00:55.577Z",
+      "laatsteScrape": "2026-11-18T00:00:51.527Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 134,
+      "opeenvolgendLeeg": 135,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-17T20:01:07.145Z",
@@ -155,7 +155,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-17T23:00:55.577Z",
+      "laatsteScrape": "2026-11-18T00:00:51.527Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -389,7 +389,7 @@
       "bijgewerkt": 0,
       "behouden": 249,
       "verdwenen": 0,
-      "verlopen": 8,
+      "verlopen": 0,
       "uitBerichten": 16,
       "uitCamera": 4,
       "zichtbaar": 74,
@@ -400,7 +400,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 4,
+      "ongewijzigd": 0,
       "seed": 0
     },
     "cluster": {
@@ -430,7 +430,7 @@
         "uitgesteld": 0
       },
       "vergeten": 0,
-      "tekstenOpgeruimd": 1,
+      "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 583,
       "kandidaten": 54,
