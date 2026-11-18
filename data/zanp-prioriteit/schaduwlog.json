@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T16:00:50.715Z",
+  "gegenereerdOp": "2026-11-18T17:00:50.869Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 1,
+    "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 593,
-    "kandidaten": 63,
-    "metAnker": 63,
+    "kandidaten": 62,
+    "metAnker": 62,
     "zonderAnker": 0,
     "afgelast": 2,
     "dubbel": 0,
