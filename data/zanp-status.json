@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T00:00:51.527Z",
+  "gegenereerdOp": "2026-11-18T01:00:46.896Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,16 +39,16 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-18T00:00:51.527Z",
+      "laatsteScrape": "2026-11-18T01:00:46.896Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-18T00:00:51.527Z",
-      "gevonden": 0,
-      "opeenvolgendLeeg": 1,
-      "opeenvolgendFout": 1,
+      "laatsteScrape": "2026-11-18T01:00:46.896Z",
+      "gevonden": 3,
+      "opeenvolgendLeeg": 0,
+      "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-18T00:00:51.527Z",
         "bericht": "time-out na 45.0s bij nh-cultuur",
@@ -127,26 +127,26 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-18T00:00:51.527Z",
+      "laatsteScrape": "2026-11-18T01:00:46.896Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-18T00:00:51.527Z",
+      "laatsteScrape": "2026-11-18T01:00:46.896Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 90,
-      "opeenvolgendFout": 1,
+      "opeenvolgendLeeg": 91,
+      "opeenvolgendFout": 2,
       "laatsteFout": {
-        "tijd": "2026-11-18T00:00:51.527Z",
+        "tijd": "2026-11-18T01:00:46.896Z",
         "bericht": "Lijst ophalen mislukt: This operation was aborted",
         "duurSec": null
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-18T00:00:51.527Z",
+      "laatsteScrape": "2026-11-18T01:00:46.896Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 135,
+      "opeenvolgendLeeg": 136,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-17T20:01:07.145Z",
@@ -155,7 +155,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-18T00:00:51.527Z",
+      "laatsteScrape": "2026-11-18T01:00:46.896Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
