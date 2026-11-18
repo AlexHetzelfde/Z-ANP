@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T12:00:51.703Z",
+  "gegenereerdOp": "2026-11-18T12:55:27.463Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,7 +39,7 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-18T12:00:51.703Z",
+      "laatsteScrape": "2026-11-18T12:55:27.463Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -50,8 +50,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-18T12:00:51.703Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-18T12:55:27.463Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -132,15 +132,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-18T12:00:51.703Z",
+      "laatsteScrape": "2026-11-18T12:55:27.463Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-18T12:00:51.703Z",
+      "laatsteScrape": "2026-11-18T12:55:27.463Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 103,
+      "opeenvolgendLeeg": 104,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-18T01:00:46.896Z",
@@ -149,9 +149,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-18T12:00:51.703Z",
+      "laatsteScrape": "2026-11-18T12:55:27.463Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 148,
+      "opeenvolgendLeeg": 149,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-18T11:00:50.545Z",
@@ -160,7 +160,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-18T12:00:51.703Z",
+      "laatsteScrape": "2026-11-18T12:55:27.463Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -405,7 +405,7 @@
       "nieuw": 0,
       "update": 0,
       "opnieuw": 0,
-      "ongewijzigd": 2,
+      "ongewijzigd": 0,
       "seed": 0
     },
     "cluster": {
