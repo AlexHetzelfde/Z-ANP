@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T09:01:00.639Z",
+  "gegenereerdOp": "2026-11-19T10:00:51.286Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,43 @@
   ],
   "berichten": [
     {
+      "id": "a32ccfa762-v1",
+      "groepId": "a32ccfa762",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Grote_betrokkenheid_tijdens_ambtsbezoek_aan_Opmeer",
+      "kop": "Commissaris van de Koning Arthur van Dijk brengt ambtsbezoek aan Opmeer",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "ai",
+      "herkomst": "officieel",
+      "prio": 4,
+      "tijd": "2026-11-19T10:10:15.000Z",
+      "heeftTijd": true,
+      "woorden": 509,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": true,
+      "controle": "cijfers-ok",
+      "eerstGezienOp": "2026-11-19T10:00:51.286Z",
+      "gecontroleerdOp": "2026-11-19T10:00:51.286Z",
+      "bronTitel": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
+      "bronLengte": 3427,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "ai"
+    },
+    {
       "id": "90a0b73da0-v1",
       "groepId": "90a0b73da0",
       "versie": 1,
@@ -425,7 +462,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-19T00:00:48.520Z",
-      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
+      "gecontroleerdOp": "2026-11-19T10:00:51.286Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
       "bronLengte": 166,
       "aanbesteding": {
@@ -473,7 +510,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T15:00:53.808Z",
-      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
+      "gecontroleerdOp": "2026-11-19T10:00:51.286Z",
       "bronTitel": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
       "bronLengte": 5475,
       "checklist": {
@@ -511,7 +548,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
+      "gecontroleerdOp": "2026-11-19T10:00:51.286Z",
       "bronTitel": "Begroting 2027: afronden en doorbouwen",
       "bronLengte": 1525,
       "checklist": {
@@ -549,7 +586,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
+      "gecontroleerdOp": "2026-11-19T10:00:51.286Z",
       "bronTitel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
       "bronLengte": 2432,
       "checklist": {
@@ -587,7 +624,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
+      "gecontroleerdOp": "2026-11-19T10:00:51.286Z",
       "bronTitel": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
       "bronLengte": 5998,
       "checklist": {

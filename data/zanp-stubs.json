@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-19T09:01:00.639Z",
+  "bijgewerkt": "2026-11-19T10:00:51.286Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3730,6 +3730,17 @@
       "t": "2026-11-17T21:19:02.000Z",
       "c": null,
       "r": "CUL"
+    },
+    "a32ccfa762": {
+      "g": "a32ccfa762",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Grote_betrokkenheid_tijdens_ambtsbezoek_aan_Opmeer",
+      "k": "Commissaris van de Koning Arthur van Dijk brengt ambtsbezoek aan Opmeer",
+      "bt": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-19T10:10:15.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }
