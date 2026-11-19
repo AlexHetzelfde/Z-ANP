@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T23:00:49.479Z",
+  "gegenereerdOp": "2026-11-19T00:00:48.520Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,53 @@
   ],
   "berichten": [
     {
+      "id": "90a0b73da0-v1",
+      "groepId": "90a0b73da0",
+      "versie": 1,
+      "url": "https://ted.europa.eu/nl/notice/-/detail/803932-2026",
+      "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+      "tekst": null,
+      "rubriek": "GEM",
+      "tagBron": "bron",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-18T23:00:00.000Z",
+      "heeftTijd": false,
+      "woorden": 17,
+      "afgekapt": false,
+      "bronId": "zaanstad-ted",
+      "bronNaam": "Gemeente Zaanstad: aanbestedingen (TED)",
+      "ai": false,
+      "controle": "geen-ai",
+      "eerstGezienOp": "2026-11-19T00:00:48.520Z",
+      "gecontroleerdOp": "2026-11-19T00:00:48.520Z",
+      "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+      "bronLengte": 166,
+      "aanbesteding": {
+        "bron": "ted",
+        "soort": "voornemen-zonder-aanbesteding",
+        "noticeType": "veat",
+        "naam": "Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+        "koper": "Gemeente Zaanstad",
+        "cpv": "85310000",
+        "geraamdeWaarde": 0,
+        "gegundeWaarde": 1,
+        "winnaars": [],
+        "sluitingsdatum": null,
+        "publicatienummer": "803932-2026",
+        "procedureId": "b860566f-30a3-4df7-a930-39fcc290c81c",
+        "europees": true,
+        "tijdlijn": [
+          {
+            "datum": "2026-11-19",
+            "soort": "voornemen-zonder-aanbesteding",
+            "nummer": "803932-2026",
+            "url": "https://ted.europa.eu/nl/notice/-/detail/803932-2026"
+          }
+        ]
+      }
+    },
+    {
       "id": "a2ba122ae1-v2",
       "groepId": "a2ba122ae1",
       "versie": 2,
@@ -425,7 +472,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T15:00:53.808Z",
-      "gecontroleerdOp": "2026-11-18T22:00:47.530Z",
+      "gecontroleerdOp": "2026-11-19T00:00:48.520Z",
       "bronTitel": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
       "bronLengte": 5475,
       "checklist": {
@@ -463,7 +510,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-18T22:00:47.530Z",
+      "gecontroleerdOp": "2026-11-19T00:00:48.520Z",
       "bronTitel": "Begroting 2027: afronden en doorbouwen",
       "bronLengte": 1525,
       "checklist": {
@@ -501,7 +548,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-18T22:00:47.530Z",
+      "gecontroleerdOp": "2026-11-19T00:00:48.520Z",
       "bronTitel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
       "bronLengte": 2432,
       "checklist": {
@@ -539,7 +586,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-18T22:00:47.530Z",
+      "gecontroleerdOp": "2026-11-19T00:00:48.520Z",
       "bronTitel": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
       "bronLengte": 5998,
       "checklist": {

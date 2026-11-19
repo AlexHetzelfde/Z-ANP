@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-18T23:00:49.479Z",
+  "gegenereerdOp": "2026-11-19T00:00:48.520Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
     "vergeten": 0,
-    "tekstenOpgeruimd": 1,
+    "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 589,
-    "kandidaten": 57,
-    "metAnker": 57,
+    "stukken": 590,
+    "kandidaten": 58,
+    "metAnker": 58,
     "zonderAnker": 0,
     "afgelast": 1,
     "dubbel": 0,
@@ -154,8 +154,8 @@
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij",
       "soort": "nieuws",
       "kop": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
-      "S": 0.29,
-      "Sa": 0.29,
+      "S": 0.28,
+      "Sa": 0.28,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.36,
@@ -291,6 +291,37 @@
       ]
     },
     {
+      "key": "n:https://ted.europa.eu/nl/notice/-/detail/803932-2026",
+      "soort": "nieuws",
+      "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+      "S": 0.09,
+      "Sa": 0.09,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0,
+      "Kp": 0,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "villa",
+        "westerweid",
+        "inlopvorziening",
+        "transparanti",
+        "anbesteding",
+        "voraf"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-ted",
+          "datum": "2026-11-16T23:00:00.000Z",
+          "c": 0.95,
+          "plek": "kop",
+          "titel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minder"
+        }
+      ]
+    },
+    {
       "key": "a:aea0d9f918",
       "soort": "agenda",
       "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
@@ -323,6 +354,42 @@
           "c": 0.9,
           "plek": "kop",
           "titel": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam"
+        }
+      ]
+    },
+    {
+      "key": "n:https://ted.europa.eu/nl/notice/-/detail/799614-2026",
+      "soort": "nieuws",
+      "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
+      "S": 0.09,
+      "Sa": 0.09,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0,
+      "Kp": 0,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "oudergezin",
+        "dakloz",
+        "transparanti",
+        "opvang",
+        "begeleiding",
+        "huisvesting",
+        "minderjarig",
+        "anbesteding",
+        "voraf",
+        "kader",
+        "vrijwillig"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-ted",
+          "datum": "2026-11-18T23:00:00.000Z",
+          "c": 0.86,
+          "plek": "kop",
+          "titel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide"
         }
       ]
     },
@@ -390,7 +457,7 @@
       "Sa": 0.06,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.31,
+      "K": 0.3,
       "Kp": 0.21,
       "n": 1,
       "dagen": 1,
@@ -1035,47 +1102,6 @@
         "stomhal",
         "pakhuisplein",
         "preventi"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:f14947adc5",
-      "soort": "agenda",
-      "kop": "Opening Virtueel TIJDmuseum",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "virtuel",
-        "tijdmuseum"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:0074fed529",
-      "soort": "agenda",
-      "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "participati",
-        "opvanglocatie",
-        "emotie",
-        "workshop",
-        "relevant"
       ],
       "bewijs": []
     }
@@ -3210,6 +3236,22 @@
         "n": 2,
         "bronnen": 1
       },
+      "n:https://ted.europa.eu/nl/notice/-/detail/803932-2026": {
+        "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+        "S": 0.09,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://ted.europa.eu/nl/notice/-/detail/799614-2026": {
+        "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minderjarige kinderen in het kader van de Wmo",
+        "S": 0.09,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
       "a:adb796eec6": {
         "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
         "S": 0.08,
@@ -3324,22 +3366,6 @@
       },
       "a:3acacdce09": {
         "kop": "lunchwebinar: dilemma’s voorleggen aan inwoners",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:37e36d019e": {
-        "kop": "Zaanstad Beraad",
-        "S": 0,
-        "route": "geen",
-        "K": 0.25,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:cabf81de91": {
-        "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
         "S": 0,
         "route": "geen",
         "K": 0,
