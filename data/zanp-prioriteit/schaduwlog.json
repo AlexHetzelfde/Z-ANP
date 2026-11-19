@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T14:00:54.139Z",
+  "gegenereerdOp": "2026-11-19T15:00:50.078Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 595,
-    "kandidaten": 61,
-    "metAnker": 61,
+    "stukken": 596,
+    "kandidaten": 62,
+    "metAnker": 62,
     "zonderAnker": 0,
     "afgelast": 1,
     "dubbel": 0,
@@ -70,54 +70,9 @@
         {
           "bron": "vervoerregio-overzichten",
           "datum": "2026-11-12T23:00:00.000Z",
-          "c": 0.91,
+          "c": 0.9,
           "plek": "kop",
           "titel": "Proefweekend nieuw metronetwerk en onveiligheid Van der Madeweg"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
-      "soort": "nieuws",
-      "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
-      "S": 0.31,
-      "Sa": 0.31,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.63,
-      "Kp": 0.4,
-      "n": 3,
-      "dagen": 3,
-      "bronnen": 1,
-      "ankers": [
-        "groenewoud",
-        "persbericht",
-        "kennisgeving",
-        "warmtenet",
-        "voruitlopend",
-        "ardgasvrij"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.91,
-          "plek": "kop",
-          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-10T23:00:00.000Z",
-          "c": 0.87,
-          "plek": "kop",
-          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-09T23:00:00.000Z",
-          "c": 0.85,
-          "plek": "kop",
-          "titel": "Kennisgeving wethouder Onclin: Subsidieregeling decentrale politieke partijen Zaanstad"
         }
       ]
     },
@@ -180,6 +135,44 @@
           "c": 0.88,
           "plek": "kop",
           "titel": "PAS-melders op Texel kunnen natuurvergunning aanvragen"
+        }
+      ]
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
+      "soort": "nieuws",
+      "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
+      "S": 0.24,
+      "Sa": 0.24,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.62,
+      "Kp": 0.39,
+      "n": 2,
+      "dagen": 2,
+      "bronnen": 1,
+      "ankers": [
+        "groenewoud",
+        "persbericht",
+        "kennisgeving",
+        "warmtenet",
+        "voruitlopend",
+        "ardgasvrij"
+      ],
+      "bewijs": [
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-05T23:00:00.000Z",
+          "c": 0.91,
+          "plek": "kop",
+          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-10T23:00:00.000Z",
+          "c": 0.87,
+          "plek": "kop",
+          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
         }
       ]
     },
@@ -284,7 +277,7 @@
         {
           "bron": "zaanstad-kalender",
           "datum": "2026-11-12T07:50:59.785Z",
-          "c": 0.74,
+          "c": 0.75,
           "plek": "intro",
           "titel": "Zaanstad Beraad"
         }
@@ -437,8 +430,8 @@
       "key": "a:ce4ae67b87",
       "soort": "agenda",
       "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
-      "S": 0.06,
-      "Sa": 0.06,
+      "S": 0.05,
+      "Sa": 0.05,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0,
@@ -466,8 +459,8 @@
       "key": "a:4b9ea65ea4",
       "soort": "agenda",
       "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
-      "S": 0.06,
-      "Sa": 0.06,
+      "S": 0.05,
+      "Sa": 0.05,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0,

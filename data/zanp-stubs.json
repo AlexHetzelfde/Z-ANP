@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-19T14:00:54.139Z",
+  "bijgewerkt": "2026-11-19T15:00:50.078Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3785,6 +3785,17 @@
       "t": "2026-11-17T23:00:00.000Z",
       "c": null,
       "r": "GEM"
+    },
+    "071b337972": {
+      "g": "071b337972",
+      "u": "https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/033800bb-4736-4659-acc0-c408aa3899e0",
+      "k": "Verlaag tarieven OV",
+      "bt": "",
+      "b": "vervoerregio-overzichten",
+      "n": "Vervoerregio: Overzichten (iBabs)",
+      "t": "2026-11-18T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
