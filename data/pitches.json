@@ -1,13 +1,33 @@
 {
-  "gegenereerdOp": "2026-11-18T08:31:10.937Z",
+  "gegenereerdOp": "2026-11-19T09:06:40.846Z",
   "promptVersie": "2026-10-22-pitch-vier-velden",
   "sorteerwijze": "datum",
-  "aantalBerichtenTotaal": 15,
+  "aantalBerichtenTotaal": 22,
   "drempels": {
     "lokaal": 6,
     "landelijk": 8,
     "maxLokaal": 34.5,
     "maxLandelijk": 40.5
   },
-  "topPitches": []
+  "topPitches": [
+    {
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "categorie": "lokaal",
+      "titel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
+      "samenvatting": "Publicatiedatum: 18 november 2026 Laatst gewijzigd: 18 november 2026 0 reacties Alle Noord-Hollandse gemeenten en de provincie hebben op 18 november het Energiebesparingsakkoord 2027-2030 ondertekend. Met dit akkoord (pdf) werken zij samen aan de naleving van de wettelijke energiebesparingsplicht. Omdat daarvoor extra toezicht en handhaving nodig is, stelt de provincie van 2027 tot en met 2030 in totaal € 4 miljoen beschikbaar. Het gaat in Noord-Holland om ongeveer 15.000 bedrijven en instellingen. De 4 omgevingsdiensten voeren de controles uit: Omgevingsdienst Noord-Holland Noord, Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Flevoland & Gooi en Vechtstreek. Controles bij bedrijven en instellingen De energiebesparingsplicht geldt voor organisaties met een hoger energiegebruik, zoals horecaondernemingen, sporthallen, ziekenhuizen en industriële bedrijven. Organisaties die jaarlijks minimaal 50.000 kilowattuur elektriciteit of 25.000 kubieke meter aardgas gebruiken, moeten volgens de wet energiebesparende maatregelen nemen. In 2027 en 2028 controleren de 4 Noord-Hollandse omgevingsdiensten organisaties die nog niet eerder zijn gecontroleerd. Daarna volgt risicogestuurd toezicht. Daarbij gaat extra aandacht uit naar bedrijven waar de grootste energiebesparing mogelijk is of waar afspraken nog niet zijn uitgevoerd. Gedeputeerde Anouk Gielen: Energiebesparing is een praktische en noodzakelijke stap voor bedrijven én voor Noord-Holland. Het verlaagt de energierekening en helpt bedrijven om minder kwetsbaar te zijn voor prijsstijgingen. Energiebesparing kan ook ruimte bieden op het overvolle elektriciteitsnet. Dat helpt bedrijven die willen verduurzamen of uitbreiden en biedt ruimte voor andere ontwikkelingen, zoals woningbouw. Informatie en advies Veel energiebesparende maatregelen verdienen zich binnen 7 jaar terug. Denk aan energiezuinige verlichting, betere isolatie en efficiëntere installaties. Bedrijven en instellingen met vragen over de energiebesparingsplicht, een energiecontrole of benodigde maatregelen kunnen contact opnemen met hun omgevingsdienst. Gemeenten en de provincie bieden via energie- en bedrijvenloketten informatie en advies over energiebesparing. Het hele Energiebesparingsakkoord is hier te downloaden (pdf). Delen op: Deel dit bericht op Facebook Deel dit bericht op X Deel dit bericht op LinkedIn Om te kunnen reageren moet u eerst inloggen.",
+      "gepubliceerdOp": "2026-11-18T14:08:38.000Z",
+      "foto": "https://www.noord-holland.nl/bestanden/afbeeldingen/Nieuws/Noord-Holland%20sluit%20energiebesparingsakkoord.%204%20miljoen%20extra%20voor%20toezicht%20en%20handhaving.jpg",
+      "opgehaaldOp": "2026-11-19T08:37:22.043Z",
+      "tekstBron": "artikel",
+      "aiBeoordeling": {
+        "werktitel": "Vier miljoen euro voor strengere energiecontroles bij 15.000 Noord-Hollandse bedrijven",
+        "samenvatting": "De provincie Noord-Holland en alle gemeenten hebben het Energiebesparingsakkoord 2027-2030 ondertekend om de naleving van de wettelijke besparingsplicht te handhaven. De provincie stelt vier miljoen euro beschikbaar aan de vier omgevingsdiensten voor extra toezicht en handhaving. De controles richten zich op circa 15.000 bedrijven en instellingen met een hoog elektriciteits- of gasverbruik.",
+        "invalshoek": "Vanuit Noord-Hollandse ondernemers en instellingen met een hoog verbruik die vanaf 2027 voor het eerst inspecteurs van de omgevingsdienst over de vloer krijgen.",
+        "vraag": "Hoeveel van de circa 15.000 te controleren organisaties vallen onder het werkgebied van Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Noord-Holland Noord?",
+        "centraleVraag": "Hoeveel van de circa 15.000 te controleren organisaties vallen onder het werkgebied van Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst Noord-Holland Noord?"
+      }
+    }
+  ]
 }
