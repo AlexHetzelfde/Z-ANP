@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T13:00:50.954Z",
+  "gegenereerdOp": "2026-11-19T14:00:54.139Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-19T11:00:49.447Z",
-      "gecontroleerdOp": "2026-11-19T11:00:49.447Z",
+      "gecontroleerdOp": "2026-11-19T14:00:54.139Z",
       "bronTitel": "Eerste bomen voor dorpsbos Ursem",
       "bronLengte": 2026,
       "checklist": {
@@ -463,7 +463,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-19T11:00:49.447Z",
-      "gecontroleerdOp": "2026-11-19T11:00:49.447Z",
+      "gecontroleerdOp": "2026-11-19T14:00:54.139Z",
       "bronTitel": "Provincie laat onafhankelijk onderzoek doen naar Leimuiderbrug",
       "bronLengte": 1837,
       "checklist": {
