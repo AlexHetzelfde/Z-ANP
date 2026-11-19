@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T03:09:57.117Z",
+  "gegenereerdOp": "2026-11-19T04:00:46.507Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,7 +39,7 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-19T03:00:47.892Z",
+      "laatsteScrape": "2026-11-19T04:00:46.507Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -50,8 +50,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-19T03:00:47.892Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-19T04:00:46.507Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -132,26 +132,26 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-19T03:00:47.892Z",
+      "laatsteScrape": "2026-11-19T04:00:46.507Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 4,
+      "opeenvolgendLeeg": 5,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-19T03:00:47.892Z",
+      "laatsteScrape": "2026-11-19T04:00:46.507Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 118,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 119,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-18T16:00:50.715Z",
+        "tijd": "2026-11-19T04:00:46.507Z",
         "bericht": "Lijst ophalen mislukt: This operation was aborted",
         "duurSec": null
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-19T03:00:47.892Z",
+      "laatsteScrape": "2026-11-19T04:00:46.507Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 163,
+      "opeenvolgendLeeg": 164,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-18T19:00:55.040Z",
@@ -160,7 +160,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-19T03:00:47.892Z",
+      "laatsteScrape": "2026-11-19T04:00:46.507Z",
       "gevonden": 2,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
