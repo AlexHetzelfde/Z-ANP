@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T19:00:56.472Z",
+  "gegenereerdOp": "2026-11-19T20:01:05.010Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -338,8 +338,8 @@
       "key": "a:4e43e184bd",
       "soort": "agenda",
       "kop": "Raadsvergadering",
-      "S": 0.03,
-      "Sa": 0.03,
+      "S": 0.02,
+      "Sa": 0.02,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.14,
