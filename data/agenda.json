@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T10:00:51.286Z",
+  "gegenereerdOp": "2026-11-19T11:00:49.447Z",
   "regelVersie": "2026-10-28-1",
   "items": [
     {
@@ -20,7 +20,7 @@
       "doorlopend": true,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -49,7 +49,7 @@
       "doorlopend": true,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -339,7 +339,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -368,7 +368,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -397,7 +397,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -426,7 +426,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -948,7 +948,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -978,7 +978,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "f9d7a5c9f7",
       "kop": "Afsluiting Den Uylbrug Zaandam",
       "start": "2026-11-13T19:00:00.000Z",
@@ -1009,7 +1009,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "b89f8df87d",
       "kop": "KZ speelt de eerste thuiswedstrijd tegen LDODK uit Gorredijk",
       "start": "2026-11-13T19:30:00.000Z",
@@ -1279,7 +1279,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "f30edbd1c7",
       "kop": "Eerste thuiswedstrijd van KVZ '23 tegen Maassluis",
       "start": "2026-11-13T23:00:00.000Z",
@@ -1860,7 +1860,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -1889,7 +1889,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -1987,7 +1987,7 @@
       "zichtbaar": true,
       "inAfwachting": false,
       "zekerheid": "afgeleid",
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "eerstGezienOp": "2026-11-09T07:51:31.296Z"
     },
     {
@@ -2443,7 +2443,7 @@
       "doorlopend": true,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -2648,7 +2648,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "4e46a9609e",
       "kop": "Expositie ‘Krommenie in zwart-wit’",
       "start": "2026-11-15T12:00:00.000Z",
@@ -2689,7 +2689,7 @@
       "zichtbaar": true,
       "inAfwachting": false,
       "zekerheid": "afgeleid",
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "eerstGezienOp": "2026-11-09T10:01:00.973Z"
     },
     {
@@ -2768,7 +2768,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -2856,7 +2856,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "d92ede0b47",
       "kop": "Zaanstad Beraad over toekomst evenementen Hemkade en Hembrugterrein",
       "start": "2026-11-16T23:00:00.000Z",
@@ -2944,7 +2944,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -2973,7 +2973,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3118,7 +3118,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3147,7 +3147,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3176,7 +3176,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3205,7 +3205,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3215,6 +3215,35 @@
       "zichtbaar": true,
       "inAfwachting": false,
       "eerstGezienOp": "2026-11-01T15:55:49.908Z"
+    },
+    {
+      "id": "cf37901cb4",
+      "url": "https://loket.zaanstad.nl/mozard/!suite92.scherm1007?mObj=366574",
+      "kop": "2026-11-19 TEST Donderdag 19 november 2026 TEST - TEST",
+      "plaats": "Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam",
+      "status": null,
+      "rubriek": "GEM",
+      "herkomst": "officieel",
+      "afkomst": "bron",
+      "bronId": "zaanstad-hoorzittingen",
+      "bronNaam": "Zaanstad — Hoorzittingen",
+      "start": "2026-11-18T23:00:00.000Z",
+      "eind": null,
+      "startDag": "2026-11-19",
+      "eindDag": "2026-11-19",
+      "doorlopend": false,
+      "heeftTijd": false,
+      "tijdBron": "geen",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
+      "relevantie": {
+        "zichtbaar": true,
+        "regel": null,
+        "woorden": null,
+        "regelVersie": "2026-10-28-1"
+      },
+      "zichtbaar": true,
+      "inAfwachting": false,
+      "eerstGezienOp": "2026-11-19T11:00:49.447Z"
     },
     {
       "id": "f9b79d96f9",
@@ -3234,7 +3263,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3263,7 +3292,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3292,7 +3321,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3321,7 +3350,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3350,7 +3379,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3379,7 +3408,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "eerste-keer",
@@ -3408,7 +3437,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3437,7 +3466,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3466,7 +3495,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3495,7 +3524,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -3524,7 +3553,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3553,7 +3582,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3582,7 +3611,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3611,7 +3640,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3640,7 +3669,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3669,7 +3698,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3698,7 +3727,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3727,7 +3756,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3757,7 +3786,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "3c30cbc46c",
       "kop": "Raad van State behandelt vijf beroepen tegen de herontwikkeling",
       "start": "2026-11-19T23:00:00.000Z",
@@ -3787,7 +3816,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3817,7 +3846,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3846,7 +3875,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3875,7 +3904,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3904,7 +3933,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -3933,7 +3962,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3962,7 +3991,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -3991,7 +4020,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -4020,7 +4049,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4049,7 +4078,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4078,7 +4107,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4107,7 +4136,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4136,7 +4165,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4165,7 +4194,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4194,7 +4223,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4223,7 +4252,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "eerste-keer",
@@ -4252,7 +4281,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -4281,7 +4310,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4310,7 +4339,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4339,7 +4368,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4368,7 +4397,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4397,7 +4426,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4426,7 +4455,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4455,7 +4484,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -4484,7 +4513,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4513,7 +4542,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4542,7 +4571,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4571,7 +4600,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4600,7 +4629,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4629,7 +4658,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4659,7 +4688,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4688,7 +4717,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4717,7 +4746,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4746,7 +4775,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4775,7 +4804,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4804,7 +4833,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4833,7 +4862,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4862,7 +4891,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4891,7 +4920,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -4920,7 +4949,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -4949,7 +4978,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -4978,7 +5007,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5007,7 +5036,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5036,7 +5065,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5065,7 +5094,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "eerste-keer",
@@ -5094,7 +5123,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5123,7 +5152,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "eerste-keer",
@@ -5152,7 +5181,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5181,7 +5210,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -5210,7 +5239,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5239,7 +5268,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -5268,7 +5297,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5297,7 +5326,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5326,7 +5355,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5355,7 +5384,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5384,7 +5413,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5413,7 +5442,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5442,7 +5471,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "jubileum",
@@ -5471,7 +5500,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5500,7 +5529,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5529,7 +5558,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5558,7 +5587,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5587,7 +5616,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5616,7 +5645,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5645,7 +5674,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -5674,7 +5703,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5703,7 +5732,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -5732,7 +5761,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -5761,7 +5790,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -5790,7 +5819,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -5820,7 +5849,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "27831893f3",
       "kop": "Bewonersavond over N206 tussen Vogelenzang en Aerdenhout",
       "start": "2026-11-24T18:00:00.000Z",
@@ -5850,7 +5879,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5879,7 +5908,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5908,7 +5937,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5937,7 +5966,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5966,7 +5995,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -5995,7 +6024,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6024,7 +6053,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6053,7 +6082,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6082,7 +6111,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6111,7 +6140,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6140,7 +6169,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6150,6 +6179,37 @@
       "zichtbaar": false,
       "inAfwachting": false,
       "eerstGezienOp": "2026-11-16T03:00:54.483Z"
+    },
+    {
+      "url": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/6f501fd8-ea6f-4117-bfef-d5a52e64e07d",
+      "rubriek": "GEM",
+      "herkomst": "officieel",
+      "bronId": "ibabs-collegeberichten",
+      "bronNaam": "Zaanstad — Collegeberichten (iBabs)",
+      "berichtId": "5928e04c7b",
+      "status": null,
+      "plaats": null,
+      "eind": null,
+      "doorlopend": false,
+      "relevantie": {
+        "zichtbaar": true,
+        "regel": "uit-bericht",
+        "woorden": null,
+        "regelVersie": "2026-10-28-1"
+      },
+      "zichtbaar": true,
+      "inAfwachting": false,
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
+      "id": "01a5028a6b",
+      "kop": "Raadsvergadering met behandeling verzoek bindend advies TV Westzaan",
+      "start": "2026-11-25T23:00:00.000Z",
+      "startDag": "2026-11-26",
+      "eindDag": "2026-11-26",
+      "heeftTijd": false,
+      "tijdBron": "geen",
+      "afkomst": "bericht",
+      "zekerheid": "letterlijk",
+      "eerstGezienOp": "2026-11-19T11:00:49.447Z"
     },
     {
       "id": "7977524c59",
@@ -6169,7 +6229,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6199,7 +6259,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "59fe37a430",
       "kop": "Werkzaamheden Koopvaardersschutsluis",
       "start": "2026-11-26T07:00:00.000Z",
@@ -6229,7 +6289,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -6258,7 +6318,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -6287,7 +6347,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -6316,7 +6376,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -6345,7 +6405,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -6374,7 +6434,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -6403,7 +6463,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6432,7 +6492,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6461,7 +6521,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6490,7 +6550,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6519,7 +6579,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6548,7 +6608,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6577,7 +6637,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6606,7 +6666,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6635,7 +6695,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6664,7 +6724,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "eerste-keer",
@@ -6693,7 +6753,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6722,7 +6782,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6752,7 +6812,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "2dd437066a",
       "kop": "Opening fietstunnel bij bedrijventerrein Skoon",
       "start": "2026-11-27T19:00:00.000Z",
@@ -6782,7 +6842,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6811,7 +6871,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6821,6 +6881,35 @@
       "zichtbaar": false,
       "inAfwachting": false,
       "eerstGezienOp": "2026-11-16T03:00:54.483Z"
+    },
+    {
+      "id": "7fc7363483",
+      "url": "https://waarheen.deorkaan.nl/agenda/bel-canto-operette-6/",
+      "kop": "Bel Canto Operette",
+      "plaats": null,
+      "status": null,
+      "rubriek": "CUL",
+      "herkomst": "signaal",
+      "afkomst": "bron",
+      "bronId": "WaarheenAgenda",
+      "bronNaam": "Waarheen Agenda (De Orkaan)",
+      "start": "2026-11-27T23:00:00.000Z",
+      "eind": "2026-11-28T23:00:00.000Z",
+      "startDag": "2026-11-28",
+      "eindDag": "2026-11-28",
+      "doorlopend": false,
+      "heeftTijd": false,
+      "tijdBron": "geen",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
+      "relevantie": {
+        "zichtbaar": false,
+        "regel": null,
+        "woorden": null,
+        "regelVersie": "2026-10-28-1"
+      },
+      "zichtbaar": false,
+      "inAfwachting": false,
+      "eerstGezienOp": "2026-11-18T15:00:53.808Z"
     },
     {
       "id": "04f0173d08",
@@ -6840,7 +6929,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": "eerste-keer",
@@ -6869,7 +6958,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6879,6 +6968,35 @@
       "zichtbaar": false,
       "inAfwachting": false,
       "eerstGezienOp": "2026-11-16T03:00:54.483Z"
+    },
+    {
+      "id": "84968a4205",
+      "url": "https://waarheen.deorkaan.nl/agenda/fotomeetup-expositie/",
+      "kop": "Fotomeetup expositie",
+      "plaats": null,
+      "status": null,
+      "rubriek": "CUL",
+      "herkomst": "signaal",
+      "afkomst": "bron",
+      "bronId": "WaarheenAgenda",
+      "bronNaam": "Waarheen Agenda (De Orkaan)",
+      "start": "2026-11-27T23:00:00.000Z",
+      "eind": "2026-11-28T23:00:00.000Z",
+      "startDag": "2026-11-28",
+      "eindDag": "2026-11-28",
+      "doorlopend": false,
+      "heeftTijd": false,
+      "tijdBron": "geen",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
+      "relevantie": {
+        "zichtbaar": false,
+        "regel": null,
+        "woorden": null,
+        "regelVersie": "2026-10-28-1"
+      },
+      "zichtbaar": false,
+      "inAfwachting": false,
+      "eerstGezienOp": "2026-11-19T11:00:49.447Z"
     },
     {
       "id": "56e1fb2922",
@@ -6898,7 +7016,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6927,7 +7045,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6956,7 +7074,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -6985,7 +7103,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7014,7 +7132,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7043,7 +7161,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7072,7 +7190,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7101,7 +7219,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7130,7 +7248,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7140,6 +7258,35 @@
       "zichtbaar": false,
       "inAfwachting": false,
       "eerstGezienOp": "2026-11-18T15:00:53.808Z"
+    },
+    {
+      "id": "73688620e1",
+      "url": "https://waarheen.deorkaan.nl/agenda/sinterklaasintocht-westknollendam/",
+      "kop": "Sinterklaasintocht Westknollendam",
+      "plaats": null,
+      "status": null,
+      "rubriek": "CUL",
+      "herkomst": "signaal",
+      "afkomst": "bron",
+      "bronId": "WaarheenAgenda",
+      "bronNaam": "Waarheen Agenda (De Orkaan)",
+      "start": "2026-11-27T23:00:00.000Z",
+      "eind": null,
+      "startDag": "2026-11-28",
+      "eindDag": "2026-11-28",
+      "doorlopend": false,
+      "heeftTijd": false,
+      "tijdBron": "geen",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
+      "relevantie": {
+        "zichtbaar": false,
+        "regel": null,
+        "woorden": null,
+        "regelVersie": "2026-10-28-1"
+      },
+      "zichtbaar": false,
+      "inAfwachting": false,
+      "eerstGezienOp": "2026-11-19T11:00:49.447Z"
     },
     {
       "id": "22cd314372",
@@ -7159,7 +7306,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7188,7 +7335,7 @@
       "doorlopend": false,
       "heeftTijd": false,
       "tijdBron": "geen",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7217,7 +7364,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7227,6 +7374,35 @@
       "zichtbaar": false,
       "inAfwachting": false,
       "eerstGezienOp": "2026-11-07T02:00:51.170Z"
+    },
+    {
+      "id": "dd033f9e65",
+      "url": "https://waarheen.deorkaan.nl/agenda/kadootjesmarkt/",
+      "kop": "Kadootjesmarkt",
+      "plaats": null,
+      "status": null,
+      "rubriek": "CUL",
+      "herkomst": "signaal",
+      "afkomst": "bron",
+      "bronId": "WaarheenAgenda",
+      "bronNaam": "Waarheen Agenda (De Orkaan)",
+      "start": "2026-11-28T10:00:00.000Z",
+      "eind": null,
+      "startDag": "2026-11-28",
+      "eindDag": "2026-11-28",
+      "doorlopend": false,
+      "heeftTijd": true,
+      "tijdBron": "tekst",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
+      "relevantie": {
+        "zichtbaar": false,
+        "regel": null,
+        "woorden": null,
+        "regelVersie": "2026-10-28-1"
+      },
+      "zichtbaar": false,
+      "inAfwachting": false,
+      "eerstGezienOp": "2026-11-19T11:00:49.447Z"
     },
     {
       "id": "93b5ea70bf",
@@ -7246,7 +7422,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -7258,9 +7434,9 @@
       "eerstGezienOp": "2026-11-07T02:00:51.170Z"
     },
     {
-      "id": "7fc7363483",
-      "url": "https://waarheen.deorkaan.nl/agenda/bel-canto-operette-6/",
-      "kop": "Bel Canto Operette",
+      "id": "e23abacea4",
+      "url": "https://waarheen.deorkaan.nl/agenda/sinterklaas-leest-voor-in-t-reghthuys-2/",
+      "kop": "Sinterklaas leest voor in ’t Reghthuys",
       "plaats": null,
       "status": null,
       "rubriek": "CUL",
@@ -7268,14 +7444,14 @@
       "afkomst": "bron",
       "bronId": "WaarheenAgenda",
       "bronNaam": "Waarheen Agenda (De Orkaan)",
-      "start": "2026-11-28T19:00:00.000Z",
-      "eind": "2026-11-28T23:00:00.000Z",
+      "start": "2026-11-28T13:00:00.000Z",
+      "eind": "2026-11-28T16:00:00.000Z",
       "startDag": "2026-11-28",
       "eindDag": "2026-11-28",
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": false,
         "regel": null,
@@ -7284,7 +7460,7 @@
       },
       "zichtbaar": false,
       "inAfwachting": false,
-      "eerstGezienOp": "2026-11-18T15:00:53.808Z"
+      "eerstGezienOp": "2026-11-19T11:00:49.447Z"
     },
     {
       "id": "4b9ea65ea4",
@@ -7304,7 +7480,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "veld",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -7333,7 +7509,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -7373,7 +7549,7 @@
       "zichtbaar": true,
       "inAfwachting": false,
       "zekerheid": "afgeleid",
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "eerstGezienOp": "2026-11-10T23:08:49.251Z"
     },
     {
@@ -7395,7 +7571,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "658be6d1af",
       "kop": "Reageren op ontwerp-voorkeursbeslissing 380 kV Assendelft",
       "start": "2026-12-02T23:00:00.000Z",
@@ -7436,7 +7612,7 @@
       "zichtbaar": true,
       "inAfwachting": false,
       "zekerheid": "afgeleid",
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "eerstGezienOp": "2026-11-14T02:12:59.463Z"
     },
     {
@@ -7458,7 +7634,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "b70918ecd9",
       "kop": "Notaoverleg MIRT",
       "start": "2026-12-06T23:00:00.000Z",
@@ -7489,7 +7665,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "5ee4c4fe04",
       "kop": "Feestelijke opening Albert Heijn Marktplein Wormerveer",
       "start": "2026-12-08T10:00:00.000Z",
@@ -7519,7 +7695,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -7548,7 +7724,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -7578,7 +7754,7 @@
       },
       "zichtbaar": true,
       "inAfwachting": false,
-      "laatstGezienOp": "2026-11-19T10:00:51.286Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "id": "03c4c1dab5",
       "kop": "Regioraad",
       "start": "2026-12-08T17:30:00.000Z",
@@ -7608,7 +7784,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,
@@ -7637,7 +7813,7 @@
       "doorlopend": false,
       "heeftTijd": true,
       "tijdBron": "tekst",
-      "laatstGezienOp": "2026-11-18T15:00:53.808Z",
+      "laatstGezienOp": "2026-11-19T11:00:49.447Z",
       "relevantie": {
         "zichtbaar": true,
         "regel": null,

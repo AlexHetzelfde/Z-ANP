@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-19T10:00:51.286Z",
+  "bijgewerkt": "2026-11-19T11:00:49.447Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3679,8 +3679,8 @@
     "81a1e73cb5": {
       "g": "81a1e73cb5",
       "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3ff488c9-3896-416a-bae0-99f58fcc19c4",
-      "k": "Besluitenlijst B&W 10-11-2026",
-      "bt": "",
+      "k": "College van B&W van Zaanstad deelt besluitenlijst en Najaarsrapportage 2026",
+      "bt": "Besluitenlijst B&W 10-11-2026",
       "b": "ibabs-collegeberichten",
       "n": "Zaanstad — Collegeberichten (iBabs)",
       "t": "2026-11-17T23:00:00.000Z",
@@ -3690,8 +3690,8 @@
     "b2229bfe20": {
       "g": "b2229bfe20",
       "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/a1349f81-46fd-4e43-8677-ea5a9d51e59b",
-      "k": "Uitvoering Motie vreemd: Geen lood in de sloot",
-      "bt": "",
+      "k": "Gemeente Zaanstad kan motie over verbod op lood bij vissen niet uitvoeren",
+      "bt": "Uitvoering Motie vreemd: Geen lood in de sloot",
       "b": "ibabs-collegeberichten",
       "n": "Zaanstad — Collegeberichten (iBabs)",
       "t": "2026-11-17T23:00:00.000Z",
@@ -3701,19 +3701,19 @@
     "9712308ac9": {
       "g": "9712308ac9",
       "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/80063958-7e5d-4836-b17b-34c083ceea72",
-      "k": "Parameters 2027 voor omzetting recht van erfpacht naar vol eigendom",
-      "bt": "",
+      "k": "Gemeente Zaanstad stelt parameters 2027 vast voor omzetting erfpacht naar vol eigendom",
+      "bt": "Parameters 2027 voor omzetting recht van erfpacht naar vol eigendom",
       "b": "ibabs-collegeberichten",
       "n": "Zaanstad — Collegeberichten (iBabs)",
       "t": "2026-11-17T23:00:00.000Z",
       "c": null,
-      "r": "BED"
+      "r": "GEM"
     },
     "e835848297": {
       "g": "e835848297",
       "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/620cdfc3-9c82-4018-ab03-3129661ef80f",
-      "k": "Aanvragen omgevingsvergunning voor het kappen van bomen voor project POOORT Zaandam Oost",
-      "bt": "",
+      "k": "College Zaanstad verleent vergunning voor kappen van dertig bomen voor project POOORT",
+      "bt": "Aanvragen omgevingsvergunning voor het kappen van bomen voor project POOORT Zaandam Oost",
       "b": "ibabs-collegeberichten",
       "n": "Zaanstad — Collegeberichten (iBabs)",
       "t": "2026-11-17T23:00:00.000Z",
@@ -3741,6 +3741,50 @@
       "t": "2026-11-19T10:10:15.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "40f03c0acc": {
+      "g": "40f03c0acc",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_bomen_voor_dorpsbos_Ursem",
+      "k": "Kinderen planten eerste bomen voor nieuw dorpsbos in Ursem",
+      "bt": "Eerste bomen voor dorpsbos Ursem",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-19T11:16:28.000Z",
+      "c": null,
+      "r": "CUL"
+    },
+    "66568c2e7b": {
+      "g": "66568c2e7b",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_laat_onafhankelijk_onderzoek_doen_naar_Leimuiderbrug",
+      "k": "Provincie laat onafhankelijk onderzoek doen naar functioneren Leimuiderbrug",
+      "bt": "Provincie laat onafhankelijk onderzoek doen naar Leimuiderbrug",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-19T11:05:37.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "5e516d7087": {
+      "g": "5e516d7087",
+      "u": "https://www.vervoerregio.nl/artikel/20261117-682-extra-fietsparkeerplekken-bij-haltes-in-amstelve",
+      "k": "Gemeente Amstelveen legt in 2027 honderden extra fietsparkeerplekken aan bij haltes",
+      "bt": "682 extra fietsparkeerplekken bij haltes in Amstelveen",
+      "b": "vervoerregio-persberichten",
+      "n": "Vervoerregio — Persberichten Zaanstad",
+      "t": "2026-11-18T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
+    },
+    "5928e04c7b": {
+      "g": "5928e04c7b",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/6f501fd8-ea6f-4117-bfef-d5a52e64e07d",
+      "k": "Gemeenteraad Zaanstad behandelt participatieverslag TV Westzaan op 26 november 2026",
+      "bt": "Kennisgeving Wethouder Van der Laan: Participatieverslag 3 november 2026 TV Westzaan",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-17T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
     }
   }
 }
