@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T17:00:51.284Z",
+  "gegenereerdOp": "2026-11-19T18:01:00.612Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 595,
-    "kandidaten": 61,
-    "metAnker": 61,
+    "kandidaten": 60,
+    "metAnker": 60,
     "zonderAnker": 0,
     "afgelast": 1,
     "dubbel": 0,
@@ -35,47 +35,6 @@
     "rood": 1
   },
   "top": [
-    {
-      "key": "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/593d6a59-4139-4b53-b3f6-9f52ba69d796",
-      "soort": "nieuws",
-      "kop": "Implementatie nieuw metronetwerk en maatregelen",
-      "S": 0.32,
-      "Sa": 0.32,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.6,
-      "Kp": 0.36,
-      "n": 2,
-      "dagen": 2,
-      "bronnen": 1,
-      "ankers": [
-        "implementati",
-        "metronetwerk",
-        "terugkom",
-        "verdelsleutel",
-        "cofinanciering",
-        "matregel",
-        "toezegging",
-        "matregelenpakket",
-        "betreffend"
-      ],
-      "bewijs": [
-        {
-          "bron": "vervoerregio-overzichten",
-          "datum": "2026-11-09T23:00:00.000Z",
-          "c": 0.94,
-          "plek": "kop",
-          "titel": "Nieuw metronetwerk Amsterdam"
-        },
-        {
-          "bron": "vervoerregio-overzichten",
-          "datum": "2026-11-12T23:00:00.000Z",
-          "c": 0.9,
-          "plek": "kop",
-          "titel": "Proefweekend nieuw metronetwerk en onveiligheid Van der Madeweg"
-        }
-      ]
-    },
     {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen",
       "soort": "nieuws",
@@ -1056,6 +1015,28 @@
       "ankers": [
         "virtuel",
         "tijdmuseum"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:0074fed529",
+      "soort": "agenda",
+      "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "participati",
+        "opvanglocatie",
+        "emotie",
+        "workshop",
+        "relevant"
       ],
       "bewijs": []
     }
