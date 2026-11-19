@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T15:00:50.078Z",
+  "gegenereerdOp": "2026-11-19T16:00:57.855Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 1,
-      "lokaal": 1,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 1,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 596,
-    "kandidaten": 62,
-    "metAnker": 62,
+    "stukken": 595,
+    "kandidaten": 61,
+    "metAnker": 61,
     "zonderAnker": 0,
     "afgelast": 1,
     "dubbel": 0,
@@ -173,51 +173,6 @@
           "c": 0.87,
           "plek": "kop",
           "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kruispunt_Wibautstraat_Thorbeckeweg_N516_in_Zaandam_4_maanden_dicht_wegens_werkzaamheden",
-      "soort": "nieuws",
-      "kop": "Kruispunt Wibautstraat/Thorbeckeweg (N516) in Zaandam 4 maanden dicht wegens werkzaamheden",
-      "S": 0.22,
-      "Sa": 0.22,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.58,
-      "Kp": 0.37,
-      "n": 3,
-      "dagen": 3,
-      "bronnen": 1,
-      "ankers": [
-        "wibautstrat",
-        "thorbeckeweg",
-        "kruispunt",
-        "wegen",
-        "dicht",
-        "n516"
-      ],
-      "bewijs": [
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-06T23:00:00.000Z",
-          "c": 0.9,
-          "plek": "kop",
-          "titel": "Thorbeckeweg: bouwput wordt eindelijk echte tunnel"
-        },
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-10T23:00:00.000Z",
-          "c": 0.88,
-          "plek": "kop",
-          "titel": "Fietstunnel Skoon bijna open, Verlengde Stellingweg weekend dicht"
-        },
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.72,
-          "plek": "intro",
-          "titel": "Volgend weekend (13-16 november) Den Uylbrug afgesloten"
         }
       ]
     },
@@ -1082,6 +1037,25 @@
         "stomhal",
         "pakhuisplein",
         "preventi"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:f14947adc5",
+      "soort": "agenda",
+      "kop": "Opening Virtueel TIJDmuseum",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "virtuel",
+        "tijdmuseum"
       ],
       "bewijs": []
     }
