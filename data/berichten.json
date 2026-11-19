@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T16:00:57.855Z",
+  "gegenereerdOp": "2026-11-19T17:00:51.284Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -501,7 +501,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-19T10:00:51.286Z",
-      "gecontroleerdOp": "2026-11-19T15:00:50.078Z",
+      "gecontroleerdOp": "2026-11-19T17:00:51.284Z",
       "bronTitel": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
       "bronLengte": 3427,
       "checklist": {
@@ -539,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-19T15:00:50.078Z",
-      "gecontroleerdOp": "2026-11-19T16:00:57.855Z",
+      "gecontroleerdOp": "2026-11-19T17:00:51.284Z",
       "bronTitel": "Verlaag tarieven OV",
       "bronLengte": 4827,
       "checklist": {
@@ -615,7 +615,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-19T00:00:48.520Z",
-      "gecontroleerdOp": "2026-11-19T15:00:50.078Z",
+      "gecontroleerdOp": "2026-11-19T17:00:51.284Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
       "bronLengte": 166,
       "aanbesteding": {
