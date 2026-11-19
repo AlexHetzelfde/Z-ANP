@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T11:00:49.447Z",
+  "gegenereerdOp": "2026-11-19T12:00:50.054Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,13 +8,13 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 5,
-      "lokaal": 3,
-      "opgehaald": 1,
+      "werklijst": 1,
+      "lokaal": 0,
+      "opgehaald": 0,
       "mislukt": 1,
       "uitgesteld": 0
     },
-    "vergeten": 1,
+    "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 595,
@@ -39,8 +39,8 @@
       "key": "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/593d6a59-4139-4b53-b3f6-9f52ba69d796",
       "soort": "nieuws",
       "kop": "Implementatie nieuw metronetwerk en maatregelen",
-      "S": 0.33,
-      "Sa": 0.33,
+      "S": 0.32,
+      "Sa": 0.32,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.6,
@@ -154,8 +154,8 @@
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij",
       "soort": "nieuws",
       "kop": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
-      "S": 0.28,
-      "Sa": 0.28,
+      "S": 0.27,
+      "Sa": 0.27,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.35,
@@ -388,7 +388,7 @@
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.35,
-      "Kp": 0.2,
+      "Kp": 0.19,
       "n": 1,
       "dagen": 1,
       "bronnen": 1,
@@ -523,34 +523,6 @@
           "c": 0.8,
           "plek": "intro",
           "titel": "Raadsvergadering"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.vervoerregio.nl/artikel/20261117-682-extra-fietsparkeerplekken-bij-haltes-in-amstelve",
-      "soort": "nieuws",
-      "kop": "682 extra fietsparkeerplekken bij haltes in Amstelveen",
-      "S": 0.05,
-      "Sa": 0.05,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.2,
-      "Kp": 0.03,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "amstelve",
-        "fietsparkerplek",
-        "halte"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-04T23:00:00.000Z",
-          "c": 0.28,
-          "plek": "tekst",
-          "titel": "Vervoerplan 2027 EBS"
         }
       ]
     },
@@ -1095,6 +1067,28 @@
         "dierenbescherming",
         "atelier300c",
         "soesterweg"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:876bc64aab",
+      "soort": "agenda",
+      "kop": "Inspiratiesessie Zaans Preventiemodel (ZPM)",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "inspiratiesessi",
+        "preventiemodel",
+        "stomhal",
+        "pakhuisplein",
+        "preventi"
       ],
       "bewijs": []
     }

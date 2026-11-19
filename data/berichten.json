@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T11:00:49.447Z",
+  "gegenereerdOp": "2026-11-19T12:00:50.054Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -440,7 +440,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "66568c2e7b-v1",
@@ -477,7 +478,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "a32ccfa762-v1",
@@ -552,7 +554,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "ai"
+      "checklistBron": "ai",
+      "tagVersie": 2
     },
     {
       "id": "90a0b73da0-v1",
@@ -840,7 +843,8 @@
       ],
       "agendaIds": [
         "01a5028a6b"
-      ]
+      ],
+      "tagVersie": 2
     },
     {
       "id": "81a1e73cb5-v1",
@@ -12327,44 +12331,6 @@
         "tijdkritisch": false,
         "betrokkenen": null,
         "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": false
-      },
-      "checklistBron": "ai",
-      "tagVersie": 2
-    },
-    {
-      "id": "633edb0e48-v1",
-      "groepId": "633edb0e48",
-      "versie": 1,
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/11_5_miljoen_extra_voor_agrarisch_natuurbeheer_gerichte_bescherming_van_Natura_2000_gebieden_en_de_grutto",
-      "kop": "Provincie stelt ruim 11,5 miljoen euro extra beschikbaar voor agrarisch natuurbeheer",
-      "tekst": "Grondeigenaren en terreinbeheerders kunnen extra subsidie aanvragen voor de ontwikkeling en het beheer van natuur op landbouwgrond. Voor de jaren 2027 en 2028 is ruim 11,5 miljoen euro extra beschikbaar gesteld door het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur. Het geld wordt ingezet in prioritaire gebieden voor de versterking van boerenlandvogels zoals de grutto en het herstel van Natura 2000-gebieden.",
-      "rubriek": "PRV",
-      "tagBron": "ai",
-      "herkomst": "officieel",
-      "prio": 3,
-      "tijd": "2026-11-05T12:00:28.000Z",
-      "heeftTijd": true,
-      "woorden": 270,
-      "afgekapt": false,
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": true,
-      "controle": "cijfers-ok",
-      "eerstGezienOp": "2026-11-05T12:00:57.086Z",
-      "gecontroleerdOp": "2026-11-06T11:59:05.014Z",
-      "bronTitel": "€11,5 miljoen extra voor agrarisch natuurbeheer: gerichte bescherming van Natura 2000-gebieden en de grutto",
-      "bronLengte": 1917,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": 11500000,
         "banen": null,
         "inRegio": false
       },
