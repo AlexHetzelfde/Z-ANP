@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T20:01:05.010Z",
+  "gegenereerdOp": "2026-11-19T21:00:49.850Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -539,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-19T15:00:50.078Z",
-      "gecontroleerdOp": "2026-11-19T20:01:05.010Z",
+      "gecontroleerdOp": "2026-11-19T21:00:49.850Z",
       "bronTitel": "Verlaag tarieven OV",
       "bronLengte": 4827,
       "checklist": {
