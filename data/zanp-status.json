@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T18:01:00.612Z",
+  "gegenereerdOp": "2026-11-19T19:00:56.472Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -39,7 +39,7 @@
       "opeenvolgendFout": 0
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-19T18:01:00.612Z",
+      "laatsteScrape": "2026-11-19T19:00:56.472Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -50,8 +50,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-19T18:01:00.612Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-19T19:00:56.472Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -132,15 +132,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-19T18:01:00.612Z",
+      "laatsteScrape": "2026-11-19T19:00:56.472Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-19T18:01:00.612Z",
+      "laatsteScrape": "2026-11-19T19:00:56.472Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 133,
+      "opeenvolgendLeeg": 134,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-19T04:00:46.507Z",
@@ -149,18 +149,18 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-19T18:01:00.612Z",
+      "laatsteScrape": "2026-11-19T19:00:56.472Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 178,
-      "opeenvolgendFout": 1,
+      "opeenvolgendLeeg": 179,
+      "opeenvolgendFout": 2,
       "laatsteFout": {
-        "tijd": "2026-11-19T18:01:00.612Z",
+        "tijd": "2026-11-19T19:00:56.472Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 403",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-19T18:01:00.612Z",
+      "laatsteScrape": "2026-11-19T19:00:56.472Z",
       "gevonden": 2,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -374,18 +374,18 @@
     },
     "2026-11-19": {
       "verzoeken": 3,
-      "berichten": 14,
+      "berichten": 15,
       "ok": 10,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 4,
+      "fout": 5,
       "overgeslagen": 0,
       "tagAi": 10,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 6
+      "runs": 7
     }
   },
   "laatsteRun": {
@@ -438,8 +438,8 @@
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 595,
-      "kandidaten": 60,
-      "metAnker": 60,
+      "kandidaten": 56,
+      "metAnker": 56,
       "zonderAnker": 0,
       "afgelast": 1,
       "dubbel": 0,

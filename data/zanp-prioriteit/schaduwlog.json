@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T18:01:00.612Z",
+  "gegenereerdOp": "2026-11-19T19:00:56.472Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 595,
-    "kandidaten": 60,
-    "metAnker": 60,
+    "kandidaten": 56,
+    "metAnker": 56,
     "zonderAnker": 0,
     "afgelast": 1,
     "dubbel": 0,
@@ -98,44 +98,6 @@
       ]
     },
     {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/9021ddc7-6cd7-4561-89b1-6a77b3c564a3",
-      "soort": "nieuws",
-      "kop": "Kennisgeving wethouder Groenewoud: persbericht warmtenet Krommenie",
-      "S": 0.24,
-      "Sa": 0.24,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.62,
-      "Kp": 0.39,
-      "n": 2,
-      "dagen": 2,
-      "bronnen": 1,
-      "ankers": [
-        "groenewoud",
-        "persbericht",
-        "kennisgeving",
-        "warmtenet",
-        "voruitlopend",
-        "ardgasvrij"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.91,
-          "plek": "kop",
-          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-10T23:00:00.000Z",
-          "c": 0.87,
-          "plek": "kop",
-          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
-        }
-      ]
-    },
-    {
       "key": "a:a0100eb92c",
       "soort": "agenda",
       "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
@@ -159,41 +121,6 @@
           "c": 1,
           "plek": "kop",
           "titel": "Molens openen ’s avonds hun deuren ter ere van 80 jaar UNESCO"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/d39bb1f7-1061-4d1c-8ee5-da7a05ef8d09",
-      "soort": "nieuws",
-      "kop": "Schriftelijke inspraak agenda-initiatief Evenementen op de Hemkade en het Hembrugterrein",
-      "S": 0.1,
-      "Sa": 0.1,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.35,
-      "Kp": 0,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "schriftelijk",
-        "hemkad",
-        "evenement",
-        "hembrugterrein",
-        "zorgpunt",
-        "insprak",
-        "initiatief",
-        "achtergrond",
-        "ghijsenlan",
-        "hierbij"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaanstad-kalender",
-          "datum": "2026-11-12T07:50:59.785Z",
-          "c": 0.75,
-          "plek": "intro",
-          "titel": "Zaanstad Beraad"
         }
       ]
     },
@@ -311,32 +238,6 @@
           "c": 0.86,
           "plek": "kop",
           "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/93fa08b9-02ff-4a71-9a81-625b73c0c95f",
-      "soort": "nieuws",
-      "kop": "Brief aan omwonenden Saendenborch",
-      "S": 0.06,
-      "Sa": 0.06,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.29,
-      "Kp": 0.2,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "saendenborch"
-      ],
-      "bewijs": [
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-10-31T23:00:00.000Z",
-          "c": 0.88,
-          "plek": "kop",
-          "titel": "Oekraïners uit Saendenborch: gebouw kan gesloopt #bouwmarathon"
         }
       ]
     },
@@ -1037,6 +938,88 @@
         "emotie",
         "workshop",
         "relevant"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:a3ff11919d",
+      "soort": "agenda",
+      "kop": "Symposium: Een stabielere samenleving begint thuis",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "stabieler",
+        "samenleving",
+        "congrescentrum",
+        "thuis",
+        "zeist",
+        "begint",
+        "achmea"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:a7d8a22d6c",
+      "soort": "agenda",
+      "kop": "WC-Symposium",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "nederlander",
+        "ranglijst",
+        "jarlijks",
+        "wereld",
+        "buitenshuis",
+        "iederewctelt",
+        "mdlfond",
+        "vriendelijkheid",
+        "toiletvriendelijkheid",
+        "stappenplan",
+        "wijzer",
+        "zomlink"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:d1fcd2e8f5",
+      "soort": "agenda",
+      "kop": "Paul Haenen",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "haen",
+        "margret",
+        "dolman",
+        "dammi",
+        "gremdat",
+        "paul",
+        "vorstelling",
+        "angan",
+        "betredt",
+        "scherp",
+        "humorvol",
+        "zingt"
       ],
       "bewijs": []
     }
