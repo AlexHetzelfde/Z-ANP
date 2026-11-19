@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T22:00:47.461Z",
+  "gegenereerdOp": "2026-11-19T23:00:50.733Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,14 +14,14 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 12,
-    "tekstenOpgeruimd": 0,
+    "vergeten": 0,
+    "tekstenOpgeruimd": 1,
     "tekstDekkingPct": 100,
     "stukken": 583,
-    "kandidaten": 56,
-    "metAnker": 56,
+    "kandidaten": 51,
+    "metAnker": 51,
     "zonderAnker": 0,
-    "afgelast": 1,
+    "afgelast": 0,
     "dubbel": 0,
     "tau": 0.5,
     "besluit": {
@@ -361,119 +361,6 @@
           "titel": "Raadsvergadering: Reservedatum begroting"
         }
       ]
-    },
-    {
-      "key": "a:54bf0d34fe",
-      "soort": "agenda",
-      "kop": "Verkeersbesluit plaatsen laadpaal voor elektrische auto's locatie Kaaikhof te Assendelft",
-      "S": 0.01,
-      "Sa": 0.01,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.15,
-      "Kp": 0,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "kaikhof",
-        "ladpal",
-        "elektrisch"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaanstad-hoorzittingen",
-          "datum": "2026-10-24T03:56:04.357Z",
-          "c": 0.91,
-          "plek": "kop",
-          "titel": "Verkeersbesluit plaatsen laadpaal voor electrische auto's Matsmanzoom te Koog a/d Zaan"
-        }
-      ]
-    },
-    {
-      "key": "a:63d1539b24",
-      "soort": "agenda",
-      "kop": "Dag van de Mantelzorg",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.2,
-      "Kp": 0.2,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "mantelzorg"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:e41b9aa2a8",
-      "soort": "agenda",
-      "kop": "Kelapa Muda: Kinderen van de Molukken",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "kelapa",
-        "moluk",
-        "muda",
-        "theaterproductie",
-        "maleis",
-        "moluks",
-        "joenoe",
-        "polnaija",
-        "hetharia",
-        "jefta",
-        "tanat"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:a1d48a4237",
-      "soort": "agenda",
-      "kop": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.15,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "invordering",
-        "woningsplitsing",
-        "illegal"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:85028be697",
-      "soort": "agenda",
-      "kop": "Regionale Raadsledenbijeenkomst",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "radsledenbijenkomst",
-        "regional"
-      ],
-      "bewijs": []
     },
     {
       "key": "a:cf37901cb4",
@@ -1020,6 +907,109 @@
         "scherp",
         "humorvol",
         "zingt"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:04f0173d08",
+      "soort": "agenda",
+      "kop": "Boban Benjamin Braspenning",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "boban",
+        "benjamin",
+        "braspenning"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:93b5ea70bf",
+      "soort": "agenda",
+      "kop": "Mini-conferentie Nieuwe Normen, Oude Inzichten",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "inzicht",
+        "conferenti",
+        "mini",
+        "landgoederij",
+        "camminghalan",
+        "bunnik",
+        "norm"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:aea0d9f918",
+      "soort": "agenda",
+      "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.15,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "bedrijfspand",
+        "sluiting",
+        "last",
+        "afgegev"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_bomen_voor_dorpsbos_Ursem",
+      "soort": "nieuws",
+      "kop": "Eerste bomen voor dorpsbos Ursem",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.46,
+      "Kp": 0.32,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "ursem",
+        "dorpsbos"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_laat_onafhankelijk_onderzoek_doen_naar_Leimuiderbrug",
+      "soort": "nieuws",
+      "kop": "Provincie laat onafhankelijk onderzoek doen naar Leimuiderbrug",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.53,
+      "Kp": 0.34,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "leimuiderbrug",
+        "harlemmerpolder"
       ],
       "bewijs": []
     }
@@ -3284,6 +3274,208 @@
       },
       "a:0a13415ebf": {
         "kop": "Pokertoernooi in de Pelikaan",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      }
+    },
+    "2026-11-20": {
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen": {
+        "kop": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
+        "S": 0.3,
+        "route": "aanhoudend",
+        "K": 0.36,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij": {
+        "kop": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
+        "S": 0.27,
+        "route": "aanhoudend",
+        "K": 0.35,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:a0100eb92c": {
+        "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
+        "S": 0.11,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Grote_betrokkenheid_tijdens_ambtsbezoek_aan_Opmeer": {
+        "kop": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
+        "S": 0.09,
+        "route": "aanhoudend",
+        "K": 0.49,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://ted.europa.eu/nl/notice/-/detail/803932-2026": {
+        "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+        "S": 0.08,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zoek.officielebekendmakingen.nl/gmb-2026-535233.html": {
+        "kop": "Beschikking saneringsevaluatie - Zeeheldenbuurt, Wormerveer",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.39,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:adb796eec6": {
+        "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.35,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ce4ae67b87": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4b9ea65ea4": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:df64e6f44d": {
+        "kop": "Zaanstad Beraad",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0.13,
+        "n": 2,
+        "bronnen": 1
+      },
+      "a:4e43e184bd": {
+        "kop": "Raadsvergadering",
+        "S": 0.02,
+        "route": "aanhoudend",
+        "K": 0.14,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:cf37901cb4": {
+        "kop": "2026-11-19 TEST Donderdag 19 november 2026 TEST - TEST",
+        "S": 0,
+        "route": "geen",
+        "K": 0.1,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0a13415ebf": {
+        "kop": "Pokertoernooi in de Pelikaan",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:f6354ef2ca": {
+        "kop": "Nationaal Congres Bodemdaling",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:3acacdce09": {
+        "kop": "lunchwebinar: dilemma’s voorleggen aan inwoners",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:37e36d019e": {
+        "kop": "Zaanstad Beraad",
+        "S": 0,
+        "route": "geen",
+        "K": 0.25,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:cabf81de91": {
+        "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:822c3f1bd8": {
+        "kop": "Werkbezoek: Werkom",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:daf1d6b222": {
+        "kop": "Coverband Back Noise",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:e05ce9e961": {
+        "kop": "De Fabriek: Laatbloeier met High Tea",
+        "S": 0,
+        "route": "geen",
+        "K": 0.1,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:69587e1f80": {
+        "kop": "Groot Dictee der Nederlandse Taal",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a24756ce32": {
+        "kop": "Dag voor de Raad 2026!",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a3f1113fee": {
+        "kop": "De Fabriek: Royal Opera House 26/27",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:3034dc268e": {
+        "kop": "Gij die mij draagt - een Nederlands requiem (Zaandam)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:504e7d4e30": {
+        "kop": "Jay Jay’s Border Jazzmen",
         "S": 0,
         "route": "geen",
         "K": 0,
