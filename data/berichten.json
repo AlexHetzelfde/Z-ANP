@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-19T07:00:58.221Z",
+  "gegenereerdOp": "2026-11-19T08:00:49.738Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "geen-ai",
       "eerstGezienOp": "2026-11-19T00:00:48.520Z",
-      "gecontroleerdOp": "2026-11-19T05:00:59.573Z",
+      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
       "bronTitel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
       "bronLengte": 166,
       "aanbesteding": {
@@ -473,7 +473,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T15:00:53.808Z",
-      "gecontroleerdOp": "2026-11-19T05:00:59.573Z",
+      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
       "bronTitel": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
       "bronLengte": 5475,
       "checklist": {
@@ -511,7 +511,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-19T05:00:59.573Z",
+      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
       "bronTitel": "Begroting 2027: afronden en doorbouwen",
       "bronLengte": 1525,
       "checklist": {
@@ -549,7 +549,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-19T05:00:59.573Z",
+      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
       "bronTitel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
       "bronLengte": 2432,
       "checklist": {
@@ -587,7 +587,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-18T14:00:50.244Z",
-      "gecontroleerdOp": "2026-11-19T05:00:59.573Z",
+      "gecontroleerdOp": "2026-11-19T08:00:49.738Z",
       "bronTitel": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
       "bronLengte": 5998,
       "checklist": {
