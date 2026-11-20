@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T21:00:50.560Z",
+  "gegenereerdOp": "2026-11-20T22:00:48.497Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,10 +14,10 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 19,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 598,
+    "stukken": 579,
     "kandidaten": 57,
     "metAnker": 56,
     "zonderAnker": 1,
@@ -35,61 +35,6 @@
     "rood": 1
   },
   "top": [
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/6f501fd8-ea6f-4117-bfef-d5a52e64e07d",
-      "soort": "nieuws",
-      "kop": "Kennisgeving Wethouder Van der Laan: Participatieverslag 3 november 2026 TV Westzaan",
-      "S": 0.43,
-      "Sa": 0.43,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.67,
-      "Kp": 0.43,
-      "n": 6,
-      "dagen": 5,
-      "bronnen": 1,
-      "ankers": [
-        "participatieverslag",
-        "kennisgeving"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Kennisgeving Burgemeester J. Hamming: Incident Elzenstraat"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-09T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Kennisgeving wethouder Onclin: Subsidieregeling decentrale politieke partijen Zaanstad"
-        },
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-10T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
-        }
-      ]
-    },
     {
       "key": "a:a7d8a22d6c",
       "soort": "agenda",
@@ -263,9 +208,7 @@
         "villa",
         "westerweid",
         "inlopvorziening",
-        "transparanti",
-        "anbesteding",
-        "voraf"
+        "transparanti"
       ],
       "bewijs": [
         {
@@ -441,8 +384,8 @@
         "zienswijz",
         "wetenschap",
         "onderwij",
-        "doeve",
-        "cultur"
+        "cultur",
+        "doeve"
       ],
       "bewijs": [
         {
@@ -737,8 +680,8 @@
       "dagen": 0,
       "bronnen": 0,
       "ankers": [
-        "opera",
         "royal",
+        "opera",
         "house",
         "walkur",
         "ringcyclus",
@@ -857,8 +800,8 @@
         "panelgesprek",
         "thema",
         "postjesweg",
-        "geweld",
         "jongen",
+        "geweld",
         "actie"
       ],
       "bewijs": []
@@ -1061,6 +1004,33 @@
         "sluiting",
         "last",
         "afgegev"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Keti_Koti_dialoogtafel_Wie_zich_kan_inleven_in_de_pijn_van_een_ander_kan_het_verschil_maken",
+      "soort": "nieuws",
+      "kop": "Keti Koti dialoogtafel: \"Wie zich kan inleven in de pijn van een ander, kan het verschil maken\"",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "dialogtafel",
+        "inlev",
+        "verschil",
+        "keti",
+        "koti",
+        "norderkerk",
+        "tafel",
+        "pijn",
+        "medegeorganiserd",
+        "bewustzijn"
       ],
       "bewijs": []
     }

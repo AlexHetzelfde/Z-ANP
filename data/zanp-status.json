@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T21:00:50.560Z",
+  "gegenereerdOp": "2026-11-20T22:00:48.497Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-20T21:00:50.560Z",
+      "laatsteScrape": "2026-11-20T22:00:48.497Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-20T21:00:50.560Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-20T22:00:48.497Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -137,15 +137,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-20T21:00:50.560Z",
+      "laatsteScrape": "2026-11-20T22:00:48.497Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-20T21:00:50.560Z",
+      "laatsteScrape": "2026-11-20T22:00:48.497Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 160,
+      "opeenvolgendLeeg": 161,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-19T04:00:46.507Z",
@@ -154,9 +154,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-20T21:00:50.560Z",
+      "laatsteScrape": "2026-11-20T22:00:48.497Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 205,
+      "opeenvolgendLeeg": 206,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-20T19:00:50.441Z",
@@ -165,7 +165,7 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-20T21:00:50.560Z",
+      "laatsteScrape": "2026-11-20T22:00:48.497Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -379,18 +379,18 @@
     },
     "2026-11-20": {
       "verzoeken": 0,
-      "berichten": 63,
+      "berichten": 67,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 63,
+      "fout": 67,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 23
+      "runs": 24
     }
   },
   "laatsteRun": {
@@ -414,7 +414,7 @@
       "seed": 0
     },
     "cluster": {
-      "vergeleken": 528,
+      "vergeleken": 496,
       "automatisch": 0,
       "aiGevraagd": 0,
       "aiJa": 0,
@@ -439,10 +439,10 @@
         "mislukt": 0,
         "uitgesteld": 0
       },
-      "vergeten": 0,
+      "vergeten": 19,
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
-      "stukken": 598,
+      "stukken": 579,
       "kandidaten": 57,
       "metAnker": 56,
       "zonderAnker": 1,
