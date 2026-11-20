@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T10:00:49.775Z",
+  "gegenereerdOp": "2026-11-20T11:00:51.503Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 597,
-    "kandidaten": 65,
-    "metAnker": 64,
+    "stukken": 598,
+    "kandidaten": 66,
+    "metAnker": 65,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
