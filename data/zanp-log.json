@@ -1,178 +1,7 @@
 {
-  "gegenereerdOp": "2026-11-20T07:00:48.455Z",
+  "gegenereerdOp": "2026-11-20T08:00:46.759Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
-    {
-      "tijd": "2026-11-17T16:00:52.248Z",
-      "duurMs": 62396,
-      "onderdelen": {
-        "spelling": {
-          "tellers": {},
-          "waarden": {}
-        },
-        "bronnen": {
-          "tellers": {
-            "gescrapet": 6,
-            "fout": 0,
-            "leegZonderFout": 3
-          },
-          "waarden": {
-            "leegZonderFoutLijst": [
-              "vervoerregio-overzichten",
-              "zaanstad-moties",
-              "zaanstad-camera"
-            ]
-          }
-        },
-        "ai": {
-          "tellers": {
-            "fout-http-503": 1
-          },
-          "waarden": {}
-        },
-        "tekst": {
-          "tellers": {
-            "aangeboden": 1,
-            "geschreven": 1,
-            "teOudOvergeslagen": 0,
-            "leegOvergeslagen": 0,
-            "rommelRegelsWeg": 2,
-            "alineasHerleid": 1,
-            "titelHerhalingWeg": 0,
-            "methode-run": 1,
-            "oudeBestandenOvergezet": 0,
-            "dagbestandenVerwijderd": 0,
-            "bytesVerwijderd": 0
-          },
-          "waarden": {
-            "oudsteDagbestand": "2026-11-03",
-            "dekkingPct": 99,
-            "berichtenZonderTekst": 2,
-            "dekkingPerBron": {
-              "nh-actueel": {
-                "berichten": 24,
-                "metTekst": 24,
-                "pct": 100,
-                "gemTekens": 2741
-              },
-              "zaanstad-ted": {
-                "berichten": 3,
-                "metTekst": 3,
-                "pct": 100,
-                "gemTekens": 67
-              },
-              "bekendmakingen": {
-                "berichten": 28,
-                "metTekst": 28,
-                "pct": 100,
-                "gemTekens": 1140
-              },
-              "DeOrkaan": {
-                "berichten": 130,
-                "metTekst": 130,
-                "pct": 100,
-                "gemTekens": 2729
-              },
-              "vervoerregio-overzichten": {
-                "berichten": 5,
-                "metTekst": 4,
-                "pct": 80,
-                "gemTekens": 8599
-              },
-              "zaanstad-moties": {
-                "berichten": 43,
-                "metTekst": 43,
-                "pct": 100,
-                "gemTekens": 1054
-              },
-              "ibabs-collegeberichten": {
-                "berichten": 17,
-                "metTekst": 17,
-                "pct": 100,
-                "gemTekens": 5817
-              },
-              "ibabs-ingekomen-stukken": {
-                "berichten": 39,
-                "metTekst": 38,
-                "pct": 97,
-                "gemTekens": 2061
-              },
-              "vervoerregio-persberichten": {
-                "berichten": 4,
-                "metTekst": 4,
-                "pct": 100,
-                "gemTekens": 766
-              },
-              "wetenregelgeving": {
-                "berichten": 4,
-                "metTekst": 4,
-                "pct": 100,
-                "gemTekens": 3696
-              },
-              "zaansche-molen": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 1620
-              },
-              "rechtspraak-noord-holland": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 6002
-              },
-              "omgevingsdienstnoordzeekanaal": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 2533
-              }
-            }
-          }
-        },
-        "jubileum": {
-          "tellers": {
-            "nieuwsRood": 0,
-            "agendaRood": 0,
-            "uitgesloten": 0,
-            "alRoodDoorPrioriteit": 1
-          },
-          "waarden": {}
-        },
-        "dossiers": {
-          "tellers": {
-            "stubsNieuw": 1,
-            "stubsVerlopen": 0,
-            "aiControles": 0,
-            "aiJa": 0,
-            "aiNee": 0,
-            "aiFout": 0,
-            "nieuweDossiers": 0,
-            "itemsToegevoegd": 0,
-            "dossiersVerlopen": 0
-          },
-          "waarden": {
-            "kandidatenDezeRun": [],
-            "stubsTotaal": 325,
-            "verhalen": 302,
-            "kandidaten": 0,
-            "dossiersActief": 0,
-            "modus": "log",
-            "dossiers": []
-          }
-        },
-        "run": {
-          "tellers": {},
-          "waarden": {
-            "berichten": 313,
-            "agendaItems": 274,
-            "aiVerzoeken": 0,
-            "geminiDagGebruikt": "1/80",
-            "duurSeconden": 62
-          }
-        }
-      }
-    },
     {
       "tijd": "2026-11-17T17:00:54.829Z",
       "duurMs": 35621,
@@ -7586,11 +7415,7 @@
             "gecontroleerd": 9,
             "ok": 9
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "bronnen": {
           "tellers": {
@@ -7608,9 +7433,7 @@
               "zaanstad-moties",
               "zaanstad-camera"
             ]
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         },
         "tekst": {
           "tellers": {
@@ -7712,60 +7535,7 @@
                 "gemTekens": 2533
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "nh-actueel",
-              "methode": "run",
-              "kop": "Eerste bomen voor dorpsbos Ursem",
-              "tekensVoor": 2026,
-              "tekensNa": 1814,
-              "alineas": 4,
-              "rommelRegelsWeg": 2,
-              "alineasHerleid": true,
-              "begin": "Ursem krijgt een nieuw dorpsbos. Dinsdag 17 november zijn de eerste bomen geplant door kinderen uit Ursem samen met betrokken organisaties. Het dorpsbos is een initiatief van Doe-team Groener Ursem en komt tot stand met ",
-              "eind": "coalitie je kunnen helpen. Kom je er niet uit of heb je een creatief idee, mail dan naar groenkapitaal@noord-holland.nl."
-            },
-            {
-              "bron": "ibabs-collegeberichten",
-              "methode": "run",
-              "kop": "Kennisgeving Wethouder Van der Laan: Participatieverslag 3 november 2026 TV Westzaan",
-              "tekensVoor": 1412,
-              "tekensNa": 1411,
-              "alineas": 6,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "Kennisgeving\n\nLaan, van der H.\n\nTer kennisname\n\ngemeente Zaanstad Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 09 november 2026 Telefoon 14 075 www.zaanstad.nl ONDERW",
-              "eind": " TV Westzaan. Met vriendelijke groet, H. van der Laan, wethouder Bijlage Participatieverslag 3 november 2026 TV Westzaan"
-            },
-            {
-              "bron": "vervoerregio-persberichten",
-              "methode": "lijst",
-              "kop": "682 extra fietsparkeerplekken bij haltes in Amstelveen",
-              "tekensVoor": 291,
-              "tekensNa": 291,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Wie met het openbaar vervoer reist, pakt vaak de fiets naar de halte. Daarom legt de gemeente Amstelveen in 2027 682 extra fietsparkeerplekken aan, verdeeld over acht tramhaltes en zes bushaltes. De aanleg is mogelijk da",
-              "eind": "haltes en zes bushaltes. De aanleg is mogelijk dankzij een bijdrage van ruim 800.000 euro van de Vervoerregio Amsterdam."
-            },
-            {
-              "bron": "zaanstad-hoorzittingen",
-              "methode": "artikel",
-              "kop": "2026-11-19 TEST Donderdag 19 november 2026 TEST - TEST",
-              "tekensVoor": 1353,
-              "tekensNa": 1353,
-              "alineas": 16,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam\n\nKenmerken\n\nNaam\n\n2026-11-19 TEST Donderdag 19 november 2026 TEST - TEST - Stadhuis, Stadhuisplein 100, 1506 MZ Zaandam\n\nRegistratie\n\nOpenbare hoorzittingen\n\nOmschrijving\n\nhoe",
-              "eind": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n\nWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 258/258 berichten (100%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -7774,9 +7544,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 1
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": []
+          "waarden": {}
         },
         "dossiers": {
           "tellers": {
@@ -7801,37 +7569,7 @@
             "dossiersActief": 0,
             "modus": "log",
             "dossiers": []
-          },
-          "voorbeelden": [
-            {
-              "besluit": "geen dossier",
-              "woord": "bomen",
-              "aantal": 5,
-              "reden": "ai-nee",
-              "koppen": [
-                "Kinderen planten eerste bomen voor nieuw dorpsbos in Ursem",
-                "College Zaanstad verleent vergunning voor kappen van dertig bomen voor project POOORT",
-                "Zaanstad verleent omgevingsvergunning voor kappen 78 bomen langs rondweg Westerkoog",
-                "Provincie kapt vanaf medio januari 2027 zieke en dode bomen langs N-wegen"
-              ]
-            },
-            {
-              "besluit": "geen dossier",
-              "woord": "deelt",
-              "aantal": 5,
-              "reden": "ai-nee",
-              "koppen": [
-                "College van B&W van Zaanstad deelt besluitenlijst en Najaarsrapportage 2026",
-                "Vervoerregio deelt planning en maatregelen rond metro- en ov-stations Zuidoostflank",
-                "Vereniging Zaans Erfgoed deelt nieuwsbrief november 2026",
-                "Nederlandse Vereniging Duurzame Energie deelt nieuwsbrief over energietransitie met Zaanstad"
-              ]
-            }
-          ],
-          "regels": [
-            "Kandidaat \"bomen\" (5 verhalen): geen dossier (ai-nee).",
-            "Kandidaat \"deelt\" (5 verhalen): geen dossier (ai-nee)."
-          ]
+          }
         },
         "run": {
           "tellers": {},
@@ -7841,9 +7579,7 @@
             "aiVerzoeken": 4,
             "geminiDagGebruikt": "5/80",
             "duurSeconden": 65
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -12339,6 +12075,201 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-20T08:00:46.759Z",
+      "duurMs": 18698,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 6,
+            "fout": 0,
+            "leegZonderFout": 2
+          },
+          "waarden": {
+            "leegZonderFoutLijst": [
+              "zaanstad-moties",
+              "zaanstad-camera"
+            ]
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "ai": {
+          "tellers": {
+            "fout-http-401": 1
+          },
+          "waarden": {},
+          "voorbeelden": [
+            {
+              "bron": "vervoerregio-overzichten",
+              "kop": "Verlaag tarieven OV",
+              "modus": "volledig",
+              "categorie": "http-401",
+              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
+              "status": 401
+            }
+          ],
+          "regels": [
+            "1x http-401: HTTP 401: API key not valid. Please pass a valid API key. (bronnen: vervoerregio-overzichten)"
+          ]
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-06",
+            "dekkingPct": 100,
+            "berichtenZonderTekst": 0,
+            "dekkingPerBron": {
+              "nh-actueel": {
+                "berichten": 24,
+                "metTekst": 24,
+                "pct": 100,
+                "gemTekens": 2750
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 19,
+                "metTekst": 19,
+                "pct": 100,
+                "gemTekens": 6211
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 33,
+                "metTekst": 33,
+                "pct": 100,
+                "gemTekens": 3822
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 6,
+                "metTekst": 6,
+                "pct": 100,
+                "gemTekens": 6595
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 196
+              },
+              "zaanstad-ted": {
+                "berichten": 4,
+                "metTekst": 4,
+                "pct": 100,
+                "gemTekens": 64
+              },
+              "bekendmakingen": {
+                "berichten": 21,
+                "metTekst": 21,
+                "pct": 100,
+                "gemTekens": 724
+              },
+              "zaansche-molen": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 1255
+              },
+              "DeOrkaan": {
+                "berichten": 92,
+                "metTekst": 92,
+                "pct": 100,
+                "gemTekens": 2616
+              },
+              "zaanstad-moties": {
+                "berichten": 43,
+                "metTekst": 43,
+                "pct": 100,
+                "gemTekens": 1054
+              },
+              "wetenregelgeving": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 4099
+              },
+              "rechtspraak-noord-holland": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 6002
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 2533
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 250/250 berichten (100%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 1,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 1,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [
+              "woning (5)"
+            ],
+            "stubsTotaal": 358,
+            "verhalen": 335,
+            "kandidaten": 1,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": [
+            "AI-controle van \"woning\" mislukte (volgende run opnieuw): HTTP 401: API key not valid. Please pass a valid API key."
+          ]
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 260,
+            "agendaItems": 264,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "0/80",
+            "duurSeconden": 19
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -12758,16 +12689,16 @@
       }
     },
     "2026-11-20": {
-      "runs": 9,
+      "runs": 10,
       "tellers": {
         "spelling": {},
         "bronnen": {
-          "gescrapet": 65,
+          "gescrapet": 71,
           "fout": 2,
-          "leegZonderFout": 16
+          "leegZonderFout": 18
         },
         "ai": {
-          "fout-http-401": 21
+          "fout-http-401": 22
         },
         "tekst": {
           "oudeBestandenOvergezet": 0,
@@ -12788,15 +12719,15 @@
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 9
+          "alRoodDoorPrioriteit": 10
         },
         "dossiers": {
           "stubsNieuw": 13,
           "stubsVerlopen": 0,
-          "aiControles": 1,
+          "aiControles": 2,
           "aiJa": 0,
           "aiNee": 0,
-          "aiFout": 1,
+          "aiFout": 2,
           "nieuweDossiers": 0,
           "itemsToegevoegd": 0,
           "dossiersVerlopen": 0
