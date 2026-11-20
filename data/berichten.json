@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T04:00:47.316Z",
+  "gegenereerdOp": "2026-11-20T05:01:00.281Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -501,7 +501,7 @@
       "ai": true,
       "controle": "cijfers-ok",
       "eerstGezienOp": "2026-11-19T10:00:51.286Z",
-      "gecontroleerdOp": "2026-11-20T02:58:25.135Z",
+      "gecontroleerdOp": "2026-11-20T05:01:00.281Z",
       "bronTitel": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
       "bronLengte": 3427,
       "checklist": {
@@ -539,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-19T15:00:50.078Z",
-      "gecontroleerdOp": "2026-11-20T04:00:47.316Z",
+      "gecontroleerdOp": "2026-11-20T05:01:00.281Z",
       "bronTitel": "Verlaag tarieven OV",
       "bronLengte": 4827,
       "checklist": {
