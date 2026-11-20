@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-20T14:00:55.104Z",
+  "bijgewerkt": "2026-11-20T15:00:50.499Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3959,6 +3959,17 @@
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
       "t": "2026-11-20T10:58:52.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "8c17c54e9d": {
+      "g": "8c17c54e9d",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Keti_Koti_dialoogtafel_Wie_zich_kan_inleven_in_de_pijn_van_een_ander_kan_het_verschil_maken",
+      "k": "Keti Koti dialoogtafel: \"Wie zich kan inleven in de pijn van een ander, kan het verschil maken\"",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-20T14:20:53.000Z",
       "c": null,
       "r": "PRV"
     }
