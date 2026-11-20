@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T13:00:51.937Z",
+  "gegenereerdOp": "2026-11-20T14:00:55.104Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 1,
+      "werklijst": 0,
       "lokaal": 0,
-      "opgehaald": 1,
+      "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 1,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 598,
-    "kandidaten": 67,
-    "metAnker": 66,
+    "stukken": 597,
+    "kandidaten": 64,
+    "metAnker": 63,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
@@ -91,32 +91,6 @@
       ]
     },
     {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
-      "soort": "nieuws",
-      "kop": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
-      "S": 0.34,
-      "Sa": 0.34,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.77,
-      "Kp": 0.51,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "energiebesparingsakkord"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-18T23:00:00.000Z",
-          "c": 0.98,
-          "plek": "kop",
-          "titel": "Energiebesparingsakkoord 2027-2030"
-        }
-      ]
-    },
-    {
       "key": "a:a7d8a22d6c",
       "soort": "agenda",
       "kop": "WC-Symposium",
@@ -161,7 +135,7 @@
       "Sa": 0.29,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.36,
+      "K": 0.35,
       "Kp": 0.19,
       "n": 1,
       "dagen": 1,
@@ -178,38 +152,6 @@
           "c": 1,
           "plek": "kop",
           "titel": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Zo_brengen_natuurherstel_en_samenwerking_vergunningen_op_Texel_dichterbij",
-      "soort": "nieuws",
-      "kop": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij",
-      "S": 0.25,
-      "Sa": 0.25,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.35,
-      "Kp": 0.19,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "texel",
-        "dichterbij",
-        "branco",
-        "verheij",
-        "programmatisch",
-        "naturherstel",
-        "breng"
-      ],
-      "bewijs": [
-        {
-          "bron": "nh-actueel",
-          "datum": "2026-11-18T15:00:53.808Z",
-          "c": 0.88,
-          "plek": "kop",
-          "titel": "PAS-melders op Texel kunnen natuurvergunning aanvragen"
         }
       ]
     },
@@ -1081,6 +1023,55 @@
         "zeist",
         "begint",
         "achmea"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:d1fcd2e8f5",
+      "soort": "agenda",
+      "kop": "Paul Haenen",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "haen",
+        "margret",
+        "dolman",
+        "dammi",
+        "gremdat",
+        "paul",
+        "vorstelling",
+        "angan",
+        "betredt",
+        "humorvol",
+        "zingt",
+        "fragment"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:04f0173d08",
+      "soort": "agenda",
+      "kop": "Boban Benjamin Braspenning",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "boban",
+        "benjamin",
+        "braspenning"
       ],
       "bewijs": []
     }
