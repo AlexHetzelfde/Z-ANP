@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T12:00:50.560Z",
+  "gegenereerdOp": "2026-11-20T13:00:51.937Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,43 @@
   ],
   "berichten": [
     {
+      "id": "0e37e08311-v1",
+      "groepId": "0e37e08311",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kalk_en_steenmeel_voor_bodemverbetering_op_de_Gooise_heide",
+      "kop": "Kalk en steenmeel voor bodemverbetering op de Gooise heide",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "trefwoord",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-20T10:58:52.000Z",
+      "heeftTijd": true,
+      "woorden": 999,
+      "afgekapt": true,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": false,
+      "controle": "ai-fout",
+      "eerstGezienOp": "2026-11-20T13:00:51.937Z",
+      "gecontroleerdOp": "2026-11-20T13:00:51.937Z",
+      "bronTitel": "Kalk en steenmeel voor bodemverbetering op de Gooise heide",
+      "bronLengte": 5996,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "patroon"
+    },
+    {
       "id": "e2c2ce2c2b-v1",
       "groepId": "e2c2ce2c2b",
       "versie": 1,
@@ -425,7 +462,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-20T11:00:51.503Z",
-      "gecontroleerdOp": "2026-11-20T12:00:50.560Z",
+      "gecontroleerdOp": "2026-11-20T13:00:51.937Z",
       "bronTitel": "Eerste kilometer van langste heg van Nederland geplant",
       "bronLengte": 1742,
       "checklist": {
@@ -1078,7 +1115,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-19T15:00:50.078Z",
-      "gecontroleerdOp": "2026-11-20T12:00:50.560Z",
+      "gecontroleerdOp": "2026-11-20T13:00:51.937Z",
       "bronTitel": "Verlaag tarieven OV",
       "bronLengte": 4827,
       "checklist": {

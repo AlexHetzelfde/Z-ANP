@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-20T12:00:50.560Z",
+  "bijgewerkt": "2026-11-20T13:00:51.937Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3948,6 +3948,17 @@
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
       "t": "2026-11-20T10:52:56.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "0e37e08311": {
+      "g": "0e37e08311",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kalk_en_steenmeel_voor_bodemverbetering_op_de_Gooise_heide",
+      "k": "Kalk en steenmeel voor bodemverbetering op de Gooise heide",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-20T10:58:52.000Z",
       "c": null,
       "r": "PRV"
     }

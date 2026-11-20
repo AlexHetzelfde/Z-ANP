@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T12:00:50.560Z",
+  "gegenereerdOp": "2026-11-20T13:00:51.937Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-20T12:00:50.560Z",
+      "laatsteScrape": "2026-11-20T13:00:51.937Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-20T12:00:50.560Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-20T13:00:51.937Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -137,15 +137,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-20T12:00:50.560Z",
+      "laatsteScrape": "2026-11-20T13:00:51.937Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-20T12:00:50.560Z",
+      "laatsteScrape": "2026-11-20T13:00:51.937Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 151,
+      "opeenvolgendLeeg": 152,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-19T04:00:46.507Z",
@@ -154,18 +154,18 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-20T12:00:50.560Z",
+      "laatsteScrape": "2026-11-20T13:00:51.937Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 196,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 197,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-20T05:01:00.281Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 403",
+        "tijd": "2026-11-20T13:00:51.937Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 504",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-20T12:00:50.560Z",
+      "laatsteScrape": "2026-11-20T13:00:51.937Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -379,18 +379,18 @@
     },
     "2026-11-20": {
       "verzoeken": 0,
-      "berichten": 29,
+      "berichten": 32,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 29,
+      "fout": 32,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 14
+      "runs": 15
     }
   },
   "laatsteRun": {
@@ -407,14 +407,14 @@
       "inAfwachting": 0
     },
     "berichten": {
-      "nieuw": 0,
+      "nieuw": 1,
       "update": 0,
       "opnieuw": 2,
       "ongewijzigd": 0,
       "seed": 0
     },
     "cluster": {
-      "vergeleken": 496,
+      "vergeleken": 528,
       "automatisch": 0,
       "aiGevraagd": 0,
       "aiJa": 0,
@@ -433,18 +433,18 @@
       "ai": true,
       "formule": "v4-22806000",
       "tekst": {
-        "werklijst": 0,
+        "werklijst": 1,
         "lokaal": 0,
-        "opgehaald": 0,
+        "opgehaald": 1,
         "mislukt": 0,
         "uitgesteld": 0
       },
-      "vergeten": 1,
+      "vergeten": 0,
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
-      "stukken": 597,
-      "kandidaten": 66,
-      "metAnker": 65,
+      "stukken": 598,
+      "kandidaten": 67,
+      "metAnker": 66,
       "zonderAnker": 1,
       "afgelast": 0,
       "dubbel": 0,
@@ -467,10 +467,10 @@
       "alRood": 1
     },
     "dossiers": {
-      "stubsNieuw": 0,
+      "stubsNieuw": 1,
       "stubsVerlopen": 0,
-      "stubsTotaal": 359,
-      "verhalen": 336,
+      "stubsTotaal": 360,
+      "verhalen": 337,
       "kandidaten": 1,
       "aiControles": 1,
       "aiJa": 0,
@@ -483,12 +483,12 @@
     },
     "kwaliteit": {
       "verzoeken": 0,
-      "berichten": 2,
+      "berichten": 3,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 2,
+      "fout": 3,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,

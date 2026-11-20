@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T12:00:50.560Z",
+  "gegenereerdOp": "2026-11-20T13:00:51.937Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
+      "werklijst": 1,
       "lokaal": 0,
-      "opgehaald": 0,
+      "opgehaald": 1,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 1,
+    "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 597,
-    "kandidaten": 66,
-    "metAnker": 65,
+    "stukken": 598,
+    "kandidaten": 67,
+    "metAnker": 66,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
@@ -94,11 +94,11 @@
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
       "soort": "nieuws",
       "kop": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
-      "S": 0.35,
-      "Sa": 0.35,
+      "S": 0.34,
+      "Sa": 0.34,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.78,
+      "K": 0.77,
       "Kp": 0.51,
       "n": 1,
       "dagen": 1,
@@ -124,7 +124,7 @@
       "Sa": 0.34,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.77,
+      "K": 0.76,
       "Kp": 0.47,
       "n": 1,
       "dagen": 1,
@@ -169,8 +169,7 @@
       "ankers": [
         "texel",
         "naturvergunning",
-        "melder",
-        "stikstof"
+        "melder"
       ],
       "bewijs": [
         {
@@ -200,10 +199,9 @@
         "dichterbij",
         "branco",
         "verheij",
-        "naturherstel",
         "programmatisch",
-        "breng",
-        "stikstof"
+        "naturherstel",
+        "breng"
       ],
       "bewijs": [
         {
