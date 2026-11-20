@@ -1,132 +1,132 @@
 {
   "zaansche-molen": {
-    "laatsteRun": "2026-11-19T08:39:53.325Z",
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
     "gevonden": 10,
     "binnenVenster": 0,
     "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 1
+    "opeenvolgendGeenBinnenVenster": 2
   },
   "ibabs-collegeberichten": {
-    "laatsteRun": "2026-11-19T08:39:53.325Z",
-    "gevonden": 5,
-    "binnenVenster": 5,
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 3,
+    "binnenVenster": 3,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "ibabs-ingekomen-stukken": {
-    "laatsteRun": "2026-11-19T08:39:53.325Z",
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 10,
+    "binnenVenster": 10,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 0
+  },
+  "ovo-zaanstad": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 10,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 55
+  },
+  "zaans-museum": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 10,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 55
+  },
+  "zaanse-schans": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 0,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 3,
+    "opeenvolgendGeenBinnenVenster": 55
+  },
+  "nh-actueel": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 15,
+    "binnenVenster": 3,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 0
+  },
+  "nh-cultuur": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 3,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 2
+  },
+  "zaanstad-hoorzittingen": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 8,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 1
+  },
+  "zaandijk-leeft": {
+    "laatsteRun": "2026-11-20T08:21:09.255Z",
+    "gevonden": 10,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 4
+  },
+  "omgevingsdienstnoordzeekanaal": {
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
+    "gevonden": 10,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 9
+  },
+  "zaans-cultuur-huis": {
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
+    "gevonden": 14,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 6
+  },
+  "WaarheenAgenda": {
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
+    "gevonden": 36,
+    "binnenVenster": 16,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 0
+  },
+  "rechtspraak-noord-holland": {
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
+    "gevonden": 2,
+    "binnenVenster": 0,
+    "opeenvolgendGeenBerichten": 0,
+    "opeenvolgendGeenBinnenVenster": 9
+  },
+  "bekendmakingen": {
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
     "gevonden": 0,
     "binnenVenster": 0,
     "opeenvolgendGeenBerichten": 1,
     "opeenvolgendGeenBinnenVenster": 1
   },
-  "ovo-zaanstad": {
-    "laatsteRun": "2026-11-19T08:39:53.325Z",
-    "gevonden": 10,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 54
-  },
-  "zaans-museum": {
-    "laatsteRun": "2026-11-19T08:39:53.326Z",
-    "gevonden": 10,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 54
-  },
-  "zaanse-schans": {
-    "laatsteRun": "2026-11-19T08:39:53.326Z",
-    "gevonden": 0,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 2,
-    "opeenvolgendGeenBinnenVenster": 54
-  },
-  "nh-actueel": {
-    "laatsteRun": "2026-11-19T08:39:53.326Z",
-    "gevonden": 15,
-    "binnenVenster": 4,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
-  "nh-cultuur": {
-    "laatsteRun": "2026-11-19T08:39:53.326Z",
-    "gevonden": 3,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 1
-  },
-  "zaanstad-hoorzittingen": {
-    "laatsteRun": "2026-11-19T08:39:53.326Z",
-    "gevonden": 10,
-    "binnenVenster": 1,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
-  "zaandijk-leeft": {
-    "laatsteRun": "2026-11-19T08:39:53.326Z",
-    "gevonden": 0,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 2,
-    "opeenvolgendGeenBinnenVenster": 3
-  },
-  "omgevingsdienstnoordzeekanaal": {
-    "laatsteRun": "2026-11-19T08:39:53.327Z",
-    "gevonden": 10,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 8
-  },
-  "zaans-cultuur-huis": {
-    "laatsteRun": "2026-11-19T08:39:53.327Z",
-    "gevonden": 14,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 5
-  },
-  "WaarheenAgenda": {
-    "laatsteRun": "2026-11-19T08:39:53.327Z",
-    "gevonden": 24,
-    "binnenVenster": 7,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
-  "rechtspraak-noord-holland": {
-    "laatsteRun": "2026-11-19T08:39:53.327Z",
-    "gevonden": 2,
-    "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 8
-  },
-  "bekendmakingen": {
-    "laatsteRun": "2026-11-19T08:39:53.327Z",
-    "gevonden": 150,
-    "binnenVenster": 1,
-    "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 0
-  },
   "wetenregelgeving": {
-    "laatsteRun": "2026-11-19T08:39:53.327Z",
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
     "gevonden": 50,
     "binnenVenster": 0,
     "opeenvolgendGeenBerichten": 0,
-    "opeenvolgendGeenBinnenVenster": 6
+    "opeenvolgendGeenBinnenVenster": 7
   },
   "zaanstad-kalender": {
-    "laatsteRun": "2026-11-19T08:39:53.328Z",
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
     "gevonden": 38,
-    "binnenVenster": 3,
+    "binnenVenster": 1,
     "opeenvolgendGeenBerichten": 0,
     "opeenvolgendGeenBinnenVenster": 0
   },
   "vervoerregio-aanbesteding": {
-    "laatsteRun": "2026-11-19T08:39:53.328Z",
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
     "gevonden": 0,
     "binnenVenster": 0,
-    "opeenvolgendGeenBerichten": 16,
-    "opeenvolgendGeenBinnenVenster": 19
+    "opeenvolgendGeenBerichten": 17,
+    "opeenvolgendGeenBinnenVenster": 20
   },
   "vervoerregio-persberichten": {
-    "laatsteRun": "2026-11-19T08:39:53.328Z",
+    "laatsteRun": "2026-11-20T08:21:09.256Z",
     "gevonden": 7,
     "binnenVenster": 1,
     "opeenvolgendGeenBerichten": 0,
