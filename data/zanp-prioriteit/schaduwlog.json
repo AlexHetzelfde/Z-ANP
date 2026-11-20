@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T06:00:50.642Z",
+  "gegenereerdOp": "2026-11-20T07:00:48.455Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,19 +8,19 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
-      "opgehaald": 0,
+      "werklijst": 14,
+      "lokaal": 13,
+      "opgehaald": 1,
       "mislukt": 0,
       "uitgesteld": 0
     },
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 583,
-    "kandidaten": 51,
-    "metAnker": 51,
-    "zonderAnker": 0,
+    "stukken": 597,
+    "kandidaten": 65,
+    "metAnker": 64,
+    "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
     "tau": 0.5,
@@ -35,6 +35,124 @@
     "rood": 1
   },
   "top": [
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/6f501fd8-ea6f-4117-bfef-d5a52e64e07d",
+      "soort": "nieuws",
+      "kop": "Kennisgeving Wethouder Van der Laan: Participatieverslag 3 november 2026 TV Westzaan",
+      "S": 0.45,
+      "Sa": 0.45,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.68,
+      "Kp": 0.44,
+      "n": 6,
+      "dagen": 5,
+      "bronnen": 1,
+      "ankers": [
+        "participatieverslag",
+        "kennisgeving"
+      ],
+      "bewijs": [
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-03T23:00:00.000Z",
+          "c": 0.86,
+          "plek": "kop",
+          "titel": "Kennisgeving Burgemeester J. Hamming: Incident Elzenstraat"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-05T23:00:00.000Z",
+          "c": 0.86,
+          "plek": "kop",
+          "titel": "Kennisgeving wethouder Groenewoud: Aanvraag windturbines Westelijk Havengebied"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-05T23:00:00.000Z",
+          "c": 0.86,
+          "plek": "kop",
+          "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-09T23:00:00.000Z",
+          "c": 0.86,
+          "plek": "kop",
+          "titel": "Kennisgeving wethouder Onclin: Subsidieregeling decentrale politieke partijen Zaanstad"
+        },
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-10T23:00:00.000Z",
+          "c": 0.86,
+          "plek": "kop",
+          "titel": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek"
+        }
+      ]
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving",
+      "soort": "nieuws",
+      "kop": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
+      "S": 0.35,
+      "Sa": 0.35,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.78,
+      "Kp": 0.51,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "energiebesparingsakkord"
+      ],
+      "bewijs": [
+        {
+          "bron": "ibabs-collegeberichten",
+          "datum": "2026-11-18T23:00:00.000Z",
+          "c": 0.98,
+          "plek": "kop",
+          "titel": "Energiebesparingsakkoord 2027-2030"
+        }
+      ]
+    },
+    {
+      "key": "a:a7d8a22d6c",
+      "soort": "agenda",
+      "kop": "WC-Symposium",
+      "S": 0.35,
+      "Sa": 0.35,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.77,
+      "Kp": 0.48,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "nederlander",
+        "ranglijst",
+        "jarlijks",
+        "wereld",
+        "buitenshuis",
+        "iederewctelt",
+        "toiletvriendelijkheid",
+        "mdlfond",
+        "vriendelijkheid",
+        "stappenplan",
+        "zomlink",
+        "handreiking"
+      ],
+      "bewijs": [
+        {
+          "bron": "ibabs-ingekomen-stukken",
+          "datum": "2026-11-18T23:00:00.000Z",
+          "c": 0.92,
+          "plek": "kop",
+          "titel": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd"
+        }
+      ]
+    },
     {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen",
       "soort": "nieuws",
@@ -94,6 +212,68 @@
           "c": 0.88,
           "plek": "kop",
           "titel": "PAS-melders op Texel kunnen natuurvergunning aanvragen"
+        }
+      ]
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/db4ee134-621a-4dda-8024-f831c14dd2da",
+      "soort": "nieuws",
+      "kop": "Energiebesparingsakkoord 2027-2030",
+      "S": 0.23,
+      "Sa": 0.23,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.77,
+      "Kp": 0.51,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "energiebesparingsakkord",
+        "energiebesparing"
+      ],
+      "bewijs": [
+        {
+          "bron": "nh-actueel",
+          "datum": "2026-11-18T14:08:38.000Z",
+          "c": 0.9,
+          "plek": "kop",
+          "titel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving"
+        }
+      ]
+    },
+    {
+      "key": "a:4e43e184bd",
+      "soort": "agenda",
+      "kop": "Raadsvergadering",
+      "S": 0.14,
+      "Sa": 0.14,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.16,
+      "Kp": 0,
+      "n": 2,
+      "dagen": 2,
+      "bronnen": 1,
+      "ankers": [
+        "radsvergadering",
+        "catsburg",
+        "griffier"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-kalender",
+          "datum": "2026-11-01T15:55:49.908Z",
+          "c": 1,
+          "plek": "kop",
+          "titel": "Raadsvergadering: Reservedatum begroting"
+        },
+        {
+          "bron": "zaanstad-kalender",
+          "datum": "2026-11-20T07:00:48.455Z",
+          "c": 0.7,
+          "plek": "intro",
+          "titel": "Zaanstad Beraad Raadzaal"
         }
       ]
     },
@@ -186,6 +366,35 @@
       ]
     },
     {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/30d997a6-7275-4cb1-9c85-a50ff80dac23",
+      "soort": "nieuws",
+      "kop": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd",
+      "S": 0.07,
+      "Sa": 0.07,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.84,
+      "Kp": 0.53,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "ranglijst",
+        "vriendelijkheid",
+        "stationsplein",
+        "chiel"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-kalender",
+          "datum": "2026-11-07T02:00:51.170Z",
+          "c": 0.73,
+          "plek": "intro",
+          "titel": "WC-Symposium"
+        }
+      ]
+    },
+    {
       "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-535233.html",
       "soort": "nieuws",
       "kop": "Beschikking saneringsevaluatie - Zeeheldenbuurt, Wormerveer",
@@ -210,6 +419,33 @@
           "c": 1,
           "plek": "kop",
           "titel": "Beschikking instemmen saneringsevaluatie - Noorddijk, Wormerveer"
+        }
+      ]
+    },
+    {
+      "key": "a:ced2c284f8",
+      "soort": "agenda",
+      "kop": "Zaanstad Beraad Raadzaal",
+      "S": 0.07,
+      "Sa": 0.07,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.16,
+      "Kp": 0,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "radzal",
+        "radsvergadering"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-kalender",
+          "datum": "2026-11-05T04:00:52.742Z",
+          "c": 0.89,
+          "plek": "kop",
+          "titel": "Raadsvergadering: Begroting"
         }
       ]
     },
@@ -300,65 +536,64 @@
       ]
     },
     {
-      "key": "a:df64e6f44d",
-      "soort": "agenda",
-      "kop": "Zaanstad Beraad",
-      "S": 0.05,
-      "Sa": 0.05,
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3c2e31e-a45b-49b8-8da5-c7fed64fbc10",
+      "soort": "nieuws",
+      "kop": "Indienen zienswijzen en lobbybrief aanvragen nieuwe scholen PO en VO",
+      "S": 0.04,
+      "Sa": 0.04,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.13,
-      "Kp": 0,
-      "n": 2,
-      "dagen": 2,
+      "K": 0.75,
+      "Kp": 0.41,
+      "n": 1,
+      "dagen": 1,
       "bronnen": 1,
       "ankers": [
-        "filmopnam",
-        "uitgezond",
-        "internet"
+        "schol",
+        "lobbybrief",
+        "indien",
+        "interregional",
+        "islamitisch",
+        "zienswijz",
+        "wetenschap",
+        "onderwij",
+        "doeve",
+        "cultur"
       ],
       "bewijs": [
         {
-          "bron": "zaanstad-kalender",
-          "datum": "2026-11-01T15:55:49.908Z",
-          "c": 0.8,
-          "plek": "intro",
-          "titel": "Raadsvergadering: Reservedatum begroting"
-        },
-        {
-          "bron": "zaanstad-kalender",
-          "datum": "2026-11-05T04:00:52.742Z",
-          "c": 0.8,
-          "plek": "intro",
-          "titel": "Raadsvergadering"
+          "bron": "ibabs-ingekomen-stukken",
+          "datum": "2026-11-03T23:00:00.000Z",
+          "c": 0.41,
+          "plek": "tekst",
+          "titel": "Gemeente Den Haag geeft het voorbeeld"
         }
       ]
     },
     {
-      "key": "a:4e43e184bd",
-      "soort": "agenda",
-      "kop": "Raadsvergadering",
-      "S": 0.02,
-      "Sa": 0.02,
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/27efc4b2-8208-4195-a1bd-432f1c8da033",
+      "soort": "nieuws",
+      "kop": "Nog 1 week tot De Corner VrijMiBo...Meld je snel aan!",
+      "S": 0.03,
+      "Sa": 0.03,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.14,
+      "K": 0,
       "Kp": 0,
       "n": 1,
       "dagen": 1,
       "bronnen": 1,
       "ankers": [
-        "radsvergadering",
-        "catsburg",
-        "griffier"
+        "vrijmibo",
+        "corner"
       ],
       "bewijs": [
         {
-          "bron": "zaanstad-kalender",
-          "datum": "2026-11-01T15:55:49.908Z",
-          "c": 1,
-          "plek": "kop",
-          "titel": "Raadsvergadering: Reservedatum begroting"
+          "bron": "ibabs-ingekomen-stukken",
+          "datum": "2026-11-08T23:00:00.000Z",
+          "c": 0.72,
+          "plek": "intro",
+          "titel": "Nieuwsbrief november 2026"
         }
       ]
     },
@@ -471,10 +706,10 @@
       "bronnen": 0,
       "ankers": [
         "radzal",
-        "vragenur",
         "bestursopdracht",
         "radsbesluit",
         "vergaderzal",
+        "vragenur",
         "opschort",
         "wissel",
         "regiovisi",
@@ -823,8 +1058,7 @@
         "participati",
         "opvanglocatie",
         "emotie",
-        "workshop",
-        "relevant"
+        "workshop"
       ],
       "bewijs": []
     },
@@ -849,167 +1083,6 @@
         "zeist",
         "begint",
         "achmea"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:a7d8a22d6c",
-      "soort": "agenda",
-      "kop": "WC-Symposium",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "nederlander",
-        "ranglijst",
-        "jarlijks",
-        "wereld",
-        "buitenshuis",
-        "iederewctelt",
-        "mdlfond",
-        "vriendelijkheid",
-        "toiletvriendelijkheid",
-        "stappenplan",
-        "wijzer",
-        "zomlink"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:d1fcd2e8f5",
-      "soort": "agenda",
-      "kop": "Paul Haenen",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "haen",
-        "margret",
-        "dolman",
-        "dammi",
-        "gremdat",
-        "paul",
-        "vorstelling",
-        "angan",
-        "betredt",
-        "scherp",
-        "humorvol",
-        "zingt"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:04f0173d08",
-      "soort": "agenda",
-      "kop": "Boban Benjamin Braspenning",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "boban",
-        "benjamin",
-        "braspenning"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:93b5ea70bf",
-      "soort": "agenda",
-      "kop": "Mini-conferentie Nieuwe Normen, Oude Inzichten",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "inzicht",
-        "conferenti",
-        "mini",
-        "landgoederij",
-        "camminghalan",
-        "bunnik",
-        "norm"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:aea0d9f918",
-      "soort": "agenda",
-      "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.15,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "bedrijfspand",
-        "sluiting",
-        "last",
-        "afgegev"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_bomen_voor_dorpsbos_Ursem",
-      "soort": "nieuws",
-      "kop": "Eerste bomen voor dorpsbos Ursem",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.46,
-      "Kp": 0.32,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "ursem",
-        "dorpsbos"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_laat_onafhankelijk_onderzoek_doen_naar_Leimuiderbrug",
-      "soort": "nieuws",
-      "kop": "Provincie laat onafhankelijk onderzoek doen naar Leimuiderbrug",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.53,
-      "Kp": 0.34,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "leimuiderbrug",
-        "harlemmerpolder"
       ],
       "bewijs": []
     }
@@ -3282,6 +3355,30 @@
       }
     },
     "2026-11-20": {
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/6f501fd8-ea6f-4117-bfef-d5a52e64e07d": {
+        "kop": "Kennisgeving Wethouder Van der Laan: Participatieverslag 3 november 2026 TV Westzaan",
+        "S": 0.45,
+        "route": "aanhoudend",
+        "K": 0.68,
+        "n": 6,
+        "bronnen": 1
+      },
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Noord_Holland_sluit_energiebesparingsakkoord_4_miljoen_extra_voor_toezicht_en_handhaving": {
+        "kop": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving",
+        "S": 0.35,
+        "route": "aanhoudend",
+        "K": 0.78,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:a7d8a22d6c": {
+        "kop": "WC-Symposium",
+        "S": 0.35,
+        "route": "aanhoudend",
+        "K": 0.77,
+        "n": 1,
+        "bronnen": 1
+      },
       "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen": {
         "kop": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
         "S": 0.3,
@@ -3296,6 +3393,22 @@
         "route": "aanhoudend",
         "K": 0.35,
         "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/db4ee134-621a-4dda-8024-f831c14dd2da": {
+        "kop": "Energiebesparingsakkoord 2027-2030",
+        "S": 0.23,
+        "route": "aanhoudend",
+        "K": 0.77,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4e43e184bd": {
+        "kop": "Raadsvergadering",
+        "S": 0.14,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 2,
         "bronnen": 1
       },
       "a:a0100eb92c": {
@@ -3338,6 +3451,22 @@
         "n": 1,
         "bronnen": 1
       },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/30d997a6-7275-4cb1-9c85-a50ff80dac23": {
+        "kop": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.84,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ced2c284f8": {
+        "kop": "Zaanstad Beraad Raadzaal",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
       "a:ce4ae67b87": {
         "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
         "S": 0.05,
@@ -3362,11 +3491,19 @@
         "n": 2,
         "bronnen": 1
       },
-      "a:4e43e184bd": {
-        "kop": "Raadsvergadering",
-        "S": 0.02,
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3c2e31e-a45b-49b8-8da5-c7fed64fbc10": {
+        "kop": "Indienen zienswijzen en lobbybrief aanvragen nieuwe scholen PO en VO",
+        "S": 0.04,
         "route": "aanhoudend",
-        "K": 0.14,
+        "K": 0.75,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/27efc4b2-8208-4195-a1bd-432f1c8da033": {
+        "kop": "Nog 1 week tot De Corner VrijMiBo...Meld je snel aan!",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0,
         "n": 1,
         "bronnen": 1
       },
@@ -3412,70 +3549,6 @@
       },
       "a:cabf81de91": {
         "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:822c3f1bd8": {
-        "kop": "Werkbezoek: Werkom",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:daf1d6b222": {
-        "kop": "Coverband Back Noise",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:e05ce9e961": {
-        "kop": "De Fabriek: Laatbloeier met High Tea",
-        "S": 0,
-        "route": "geen",
-        "K": 0.1,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:69587e1f80": {
-        "kop": "Groot Dictee der Nederlandse Taal",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:a24756ce32": {
-        "kop": "Dag voor de Raad 2026!",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:a3f1113fee": {
-        "kop": "De Fabriek: Royal Opera House 26/27",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:3034dc268e": {
-        "kop": "Gij die mij draagt - een Nederlands requiem (Zaandam)",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:504e7d4e30": {
-        "kop": "Jay Jay’s Border Jazzmen",
         "S": 0,
         "route": "geen",
         "K": 0,
