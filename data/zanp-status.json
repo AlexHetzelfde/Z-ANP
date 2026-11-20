@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T22:00:48.497Z",
+  "gegenereerdOp": "2026-11-20T23:00:53.839Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-20T22:00:48.497Z",
+      "laatsteScrape": "2026-11-20T23:00:53.839Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-20T22:00:48.497Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-20T23:00:53.839Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -137,15 +137,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-20T22:00:48.497Z",
+      "laatsteScrape": "2026-11-20T23:00:53.839Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-20T22:00:48.497Z",
+      "laatsteScrape": "2026-11-20T23:00:53.839Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 161,
+      "opeenvolgendLeeg": 162,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-19T04:00:46.507Z",
@@ -154,18 +154,18 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-20T22:00:48.497Z",
+      "laatsteScrape": "2026-11-20T23:00:53.839Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 206,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 207,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-20T19:00:50.441Z",
+        "tijd": "2026-11-20T23:00:53.839Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 504",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-20T22:00:48.497Z",
+      "laatsteScrape": "2026-11-20T23:00:53.839Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -182,21 +182,6 @@
   },
   "clusterBeslissingen": {},
   "kwaliteit": {
-    "2026-11-06": {
-      "verzoeken": 17,
-      "berichten": 33,
-      "ok": 12,
-      "analyseOk": 21,
-      "cijfersAfgekeurd": 0,
-      "onvoldoende": 0,
-      "fout": 0,
-      "overgeslagen": 0,
-      "tagAi": 31,
-      "tagTrefwoord": 0,
-      "tagBron": 0,
-      "tagGeen": 2,
-      "runs": 13
-    },
     "2026-11-07": {
       "verzoeken": 10,
       "berichten": 18,
@@ -391,19 +376,34 @@
       "tagBron": 0,
       "tagGeen": 0,
       "runs": 24
+    },
+    "2026-11-21": {
+      "verzoeken": 0,
+      "berichten": 4,
+      "ok": 0,
+      "analyseOk": 0,
+      "cijfersAfgekeurd": 0,
+      "onvoldoende": 0,
+      "fout": 4,
+      "overgeslagen": 0,
+      "tagAi": 0,
+      "tagTrefwoord": 0,
+      "tagBron": 0,
+      "tagGeen": 0,
+      "runs": 1
     }
   },
   "laatsteRun": {
     "agenda": {
       "nieuw": 0,
       "bijgewerkt": 0,
-      "behouden": 247,
+      "behouden": 229,
       "verdwenen": 0,
-      "verlopen": 0,
-      "uitBerichten": 16,
+      "verlopen": 18,
+      "uitBerichten": 15,
       "uitCamera": 4,
-      "zichtbaar": 74,
-      "verborgen": 190,
+      "zichtbaar": 72,
+      "verborgen": 173,
       "inAfwachting": 0
     },
     "berichten": {
@@ -414,7 +414,7 @@
       "seed": 0
     },
     "cluster": {
-      "vergeleken": 496,
+      "vergeleken": 325,
       "automatisch": 0,
       "aiGevraagd": 0,
       "aiJa": 0,
@@ -422,7 +422,7 @@
       "uitgesteld": 0,
       "clusters": 0
     },
-    "alerts": 1,
+    "alerts": 0,
     "koppel": {
       "agendaNaarBericht": 0,
       "uitkomsten": 0,
@@ -439,12 +439,12 @@
         "mislukt": 0,
         "uitgesteld": 0
       },
-      "vergeten": 19,
-      "tekstenOpgeruimd": 0,
+      "vergeten": 0,
+      "tekstenOpgeruimd": 1,
       "tekstDekkingPct": 100,
       "stukken": 579,
-      "kandidaten": 57,
-      "metAnker": 56,
+      "kandidaten": 52,
+      "metAnker": 51,
       "zonderAnker": 1,
       "afgelast": 0,
       "dubbel": 0,

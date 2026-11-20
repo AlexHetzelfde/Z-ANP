@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T22:00:48.497Z",
+  "gegenereerdOp": "2026-11-20T23:00:53.839Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 19,
-    "tekstenOpgeruimd": 0,
+    "vergeten": 0,
+    "tekstenOpgeruimd": 1,
     "tekstDekkingPct": 100,
     "stukken": 579,
-    "kandidaten": 57,
-    "metAnker": 56,
+    "kandidaten": 52,
+    "metAnker": 51,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
@@ -425,129 +425,6 @@
       ]
     },
     {
-      "key": "a:cf37901cb4",
-      "soort": "agenda",
-      "kop": "2026-11-19 TEST Donderdag 19 november 2026 TEST - TEST",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.1,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-        "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-        "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-        "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-        "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-        "test",
-        "test_test",
-        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
-        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
-        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
-        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
-        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:0a13415ebf",
-      "soort": "agenda",
-      "kop": "Pokertoernooi in de Pelikaan",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "pelikan",
-        "pokertoernoi",
-        "poker",
-        "serie",
-        "tournament",
-        "arend",
-        "burtcentrum",
-        "champion"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:f6354ef2ca",
-      "soort": "agenda",
-      "kop": "Nationaal Congres Bodemdaling",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "bodemdaling",
-        "congre",
-        "national"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:3acacdce09",
-      "soort": "agenda",
-      "kop": "lunchwebinar: dilemma’s voorleggen aan inwoners",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "lunchwebinar",
-        "dilemma",
-        "vorleg"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:37e36d019e",
-      "soort": "agenda",
-      "kop": "Zaanstad Beraad",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.25,
-      "Kp": 0.1,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "radzal",
-        "bestursopdracht",
-        "radsbesluit",
-        "vergaderzal",
-        "vragenur",
-        "opschort",
-        "wissel",
-        "regiovisi",
-        "pauze",
-        "schan",
-        "gouwpark",
-        "netuitbreiding"
-      ],
-      "bewijs": []
-    },
-    {
       "key": "a:cabf81de91",
       "soort": "agenda",
       "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
@@ -622,6 +499,7 @@
       "bronnen": 0,
       "ankers": [
         "latbloeier",
+        "fabriek",
         "high"
       ],
       "bewijs": []
@@ -683,6 +561,7 @@
         "royal",
         "opera",
         "house",
+        "fabriek",
         "walkur",
         "ringcyclus",
         "wagner",
@@ -1031,6 +910,122 @@
         "pijn",
         "medegeorganiserd",
         "bewustzijn"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kalk_en_steenmeel_voor_bodemverbetering_op_de_Gooise_heide",
+      "soort": "nieuws",
+      "kop": "Kalk en steenmeel voor bodemverbetering op de Gooise heide",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.35,
+      "Kp": 0.23,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "stenmel",
+        "bodemverbetering",
+        "heide",
+        "naturreservat",
+        "gois",
+        "kalk",
+        "variati",
+        "biodiversiteit",
+        "gezonder",
+        "herontdek",
+        "bodemlev",
+        "nerwarts"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_kilometer_van_langste_heg_van_Nederland_geplant",
+      "soort": "nieuws",
+      "kop": "Eerste kilometer van langste heg van Nederland geplant",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "langst",
+        "geplant",
+        "rorik",
+        "kapital",
+        "recreatieschap",
+        "kilometer",
+        "landschap",
+        "beverwijk",
+        "afgetrapt",
+        "landgoed",
+        "kilometerslang"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_bomen_voor_dorpsbos_Ursem",
+      "soort": "nieuws",
+      "kop": "Eerste bomen voor dorpsbos Ursem",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.46,
+      "Kp": 0.32,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "ursem",
+        "dorpsbos",
+        "koggenland"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_laat_onafhankelijk_onderzoek_doen_naar_Leimuiderbrug",
+      "soort": "nieuws",
+      "kop": "Provincie laat onafhankelijk onderzoek doen naar Leimuiderbrug",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.53,
+      "Kp": 0.34,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "leimuiderbrug",
+        "ringvart",
+        "harlemmerpolder"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/f1482969-a201-4bdc-9b0d-40a138ea964b",
+      "soort": "nieuws",
+      "kop": "GEHEIM Voortgang RON ASP I BV",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "geheim",
+        "vortgang"
       ],
       "bewijs": []
     }
@@ -3497,6 +3492,208 @@
       },
       "a:cabf81de91": {
         "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      }
+    },
+    "2026-11-21": {
+      "a:a7d8a22d6c": {
+        "kop": "WC-Symposium",
+        "S": 0.33,
+        "route": "aanhoudend",
+        "K": 0.75,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/db4ee134-621a-4dda-8024-f831c14dd2da": {
+        "kop": "Energiebesparingsakkoord 2027-2030",
+        "S": 0.22,
+        "route": "aanhoudend",
+        "K": 0.76,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4e43e184bd": {
+        "kop": "Raadsvergadering",
+        "S": 0.14,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 2,
+        "bronnen": 1
+      },
+      "a:a0100eb92c": {
+        "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
+        "S": 0.1,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Grote_betrokkenheid_tijdens_ambtsbezoek_aan_Opmeer": {
+        "kop": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
+        "S": 0.08,
+        "route": "aanhoudend",
+        "K": 0.49,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://ted.europa.eu/nl/notice/-/detail/803932-2026": {
+        "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
+        "S": 0.08,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/30d997a6-7275-4cb1-9c85-a50ff80dac23": {
+        "kop": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.84,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ced2c284f8": {
+        "kop": "Zaanstad Beraad Raadzaal",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:adb796eec6": {
+        "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0.33,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ce4ae67b87": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4b9ea65ea4": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3c2e31e-a45b-49b8-8da5-c7fed64fbc10": {
+        "kop": "Indienen zienswijzen en lobbybrief aanvragen nieuwe scholen PO en VO",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0.75,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/27efc4b2-8208-4195-a1bd-432f1c8da033": {
+        "kop": "Nog 1 week tot De Corner VrijMiBo...Meld je snel aan!",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:cabf81de91": {
+        "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:822c3f1bd8": {
+        "kop": "Werkbezoek: Werkom",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:daf1d6b222": {
+        "kop": "Coverband Back Noise",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:e05ce9e961": {
+        "kop": "De Fabriek: Laatbloeier met High Tea",
+        "S": 0,
+        "route": "geen",
+        "K": 0.1,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:69587e1f80": {
+        "kop": "Groot Dictee der Nederlandse Taal",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a24756ce32": {
+        "kop": "Dag voor de Raad 2026!",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a3f1113fee": {
+        "kop": "De Fabriek: Royal Opera House 26/27",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:3034dc268e": {
+        "kop": "Gij die mij draagt - een Nederlands requiem (Zaandam)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:504e7d4e30": {
+        "kop": "Jay Jay’s Border Jazzmen",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:022a912b1c": {
+        "kop": "Margriet Eshuijs Popkoor",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:6f9821ca1a": {
+        "kop": "The Upmates",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:8154ec62c3": {
+        "kop": "Panelgesprek: Het thema van OTW 2026 is : Allemaal in actie – Met mannen en jongens tegen geweld.",
         "S": 0,
         "route": "geen",
         "K": 0,
