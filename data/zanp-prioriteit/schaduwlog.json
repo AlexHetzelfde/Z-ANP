@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T15:00:50.499Z",
+  "gegenereerdOp": "2026-11-20T16:00:52.257Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 1,
-      "lokaal": 1,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 598,
-    "kandidaten": 65,
-    "metAnker": 64,
+    "kandidaten": 57,
+    "metAnker": 56,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
@@ -39,8 +39,8 @@
       "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/6f501fd8-ea6f-4117-bfef-d5a52e64e07d",
       "soort": "nieuws",
       "kop": "Kennisgeving Wethouder Van der Laan: Participatieverslag 3 november 2026 TV Westzaan",
-      "S": 0.44,
-      "Sa": 0.44,
+      "S": 0.43,
+      "Sa": 0.43,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.67,
@@ -124,34 +124,6 @@
           "c": 0.92,
           "plek": "kop",
           "titel": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/PAS_melders_op_Texel_kunnen_natuurvergunning_aanvragen",
-      "soort": "nieuws",
-      "kop": "PAS-melders op Texel kunnen natuurvergunning aanvragen",
-      "S": 0.29,
-      "Sa": 0.29,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.35,
-      "Kp": 0.19,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "texel",
-        "naturvergunning",
-        "melder"
-      ],
-      "bewijs": [
-        {
-          "bron": "nh-actueel",
-          "datum": "2026-11-18T13:41:48.000Z",
-          "c": 1,
-          "plek": "kop",
-          "titel": "Zo brengen natuurherstel en samenwerking vergunningen op Texel dichterbij"
         }
       ]
     },
@@ -331,34 +303,6 @@
           "c": 0.73,
           "plek": "intro",
           "titel": "WC-Symposium"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-535233.html",
-      "soort": "nieuws",
-      "kop": "Beschikking saneringsevaluatie - Zeeheldenbuurt, Wormerveer",
-      "S": 0.07,
-      "Sa": 0.07,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.39,
-      "Kp": 0.24,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "zeheldenburt",
-        "beschikking",
-        "saneringsevaluati"
-      ],
-      "bewijs": [
-        {
-          "bron": "bekendmakingen",
-          "datum": "2026-11-04T23:00:00.000Z",
-          "c": 1,
-          "plek": "kop",
-          "titel": "Beschikking instemmen saneringsevaluatie - Noorddijk, Wormerveer"
         }
       ]
     },
@@ -1072,6 +1016,51 @@
         "boban",
         "benjamin",
         "braspenning"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:93b5ea70bf",
+      "soort": "agenda",
+      "kop": "Mini-conferentie Nieuwe Normen, Oude Inzichten",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "inzicht",
+        "conferenti",
+        "mini",
+        "landgoederij",
+        "camminghalan",
+        "bunnik",
+        "norm"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:aea0d9f918",
+      "soort": "agenda",
+      "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.15,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "bedrijfspand",
+        "sluiting",
+        "last",
+        "afgegev"
       ],
       "bewijs": []
     }
