@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-21T10:00:45.478Z",
+  "gegenereerdOp": "2026-11-21T11:00:52.193Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 1,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 584,
-    "kandidaten": 55,
-    "metAnker": 54,
+    "stukken": 583,
+    "kandidaten": 50,
+    "metAnker": 49,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 1,
@@ -43,7 +43,7 @@
       "Sa": 0.32,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.74,
+      "K": 0.73,
       "Kp": 0.45,
       "n": 1,
       "dagen": 1,
@@ -123,36 +123,6 @@
           "c": 1,
           "plek": "kop",
           "titel": "Molens openen ’s avonds hun deuren ter ere van 80 jaar UNESCO"
-        }
-      ]
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Grote_betrokkenheid_tijdens_ambtsbezoek_aan_Opmeer",
-      "soort": "nieuws",
-      "kop": "Grote betrokkenheid tijdens ambtsbezoek aan Opmeer",
-      "S": 0.08,
-      "Sa": 0.08,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.49,
-      "Kp": 0.21,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "opmer",
-        "ambtsbezoek",
-        "betrokkenheid",
-        "wiersema",
-        "westfries"
-      ],
-      "bewijs": [
-        {
-          "bron": "nh-actueel",
-          "datum": "2026-11-05T08:59:23.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Oog voor verbinding tijdens ambtsbezoek aan gemeente Zaanstad"
         }
       ]
     },
@@ -306,7 +276,7 @@
       "Sa": 0.04,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.75,
+      "K": 0.74,
       "Kp": 0.41,
       "n": 1,
       "dagen": 1,
@@ -1014,6 +984,25 @@
         "tariev",
         "amstelland",
         "merland"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/f1482969-a201-4bdc-9b0d-40a138ea964b",
+      "soort": "nieuws",
+      "kop": "GEHEIM Voortgang RON ASP I BV",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "geheim",
+        "vortgang"
       ],
       "bewijs": []
     }
