@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-21T02:00:53.368Z",
+  "bijgewerkt": "2026-11-21T03:00:51.014Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3972,6 +3972,17 @@
       "t": "2026-11-20T14:20:53.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "adea910c57": {
+      "g": "adea910c57",
+      "u": "https://www.vervoerregio.nl/artikel/20261120-kennisgeving-ov-tarieven-connexxion-ebs-en-gvb-2027",
+      "k": "Kennisgeving ov-tarieven Connexxion, EBS en GVB 2027 vastgesteld",
+      "bt": "",
+      "b": "vervoerregio-persberichten",
+      "n": "Vervoerregio — Persberichten Zaanstad",
+      "t": "2026-11-19T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
