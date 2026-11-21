@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-21T04:00:47.211Z",
+  "gegenereerdOp": "2026-11-21T05:00:57.365Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-21T04:00:47.211Z",
+      "laatsteScrape": "2026-11-21T05:00:57.365Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-21T04:00:47.211Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-21T05:00:57.365Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-21T04:00:47.211Z",
+      "laatsteScrape": "2026-11-21T05:00:57.365Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 5,
+      "opeenvolgendLeeg": 6,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-21T04:00:47.211Z",
+      "laatsteScrape": "2026-11-21T05:00:57.365Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 167,
+      "opeenvolgendLeeg": 168,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-21T02:00:53.368Z",
@@ -159,18 +159,18 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-21T04:00:47.211Z",
+      "laatsteScrape": "2026-11-21T05:00:57.365Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 212,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 213,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-20T23:00:53.839Z",
-        "bericht": "RSS-feed ophalen mislukt: HTTP 504",
+        "tijd": "2026-11-21T05:00:57.365Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 403",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-21T04:00:47.211Z",
+      "laatsteScrape": "2026-11-21T05:00:57.365Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
@@ -384,18 +384,18 @@
     },
     "2026-11-21": {
       "verzoeken": 0,
-      "berichten": 20,
+      "berichten": 23,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 20,
+      "fout": 23,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 6
+      "runs": 7
     }
   },
   "laatsteRun": {
