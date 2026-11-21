@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-21T19:00:48.623Z",
+  "gegenereerdOp": "2026-11-21T20:00:45.881Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -76,8 +76,8 @@
       "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/db4ee134-621a-4dda-8024-f831c14dd2da",
       "soort": "nieuws",
       "kop": "Energiebesparingsakkoord 2027-2030",
-      "S": 0.21,
-      "Sa": 0.21,
+      "S": 0.2,
+      "Sa": 0.2,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.75,
