@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-20T23:00:53.839Z",
+  "gegenereerdOp": "2026-11-21T00:00:51.621Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -15,11 +15,11 @@
       "uitgesteld": 0
     },
     "vergeten": 0,
-    "tekstenOpgeruimd": 1,
+    "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 579,
-    "kandidaten": 52,
-    "metAnker": 51,
+    "kandidaten": 51,
+    "metAnker": 50,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 0,
@@ -192,35 +192,6 @@
       ]
     },
     {
-      "key": "n:https://ted.europa.eu/nl/notice/-/detail/803932-2026",
-      "soort": "nieuws",
-      "kop": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Tijdelijke inloopvoorziening Villa Westerweide",
-      "S": 0.08,
-      "Sa": 0.08,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0,
-      "Kp": 0,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "villa",
-        "westerweid",
-        "inlopvorziening",
-        "transparanti"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaanstad-ted",
-          "datum": "2026-11-16T23:00:00.000Z",
-          "c": 0.95,
-          "plek": "kop",
-          "titel": "Opdracht zonder aanbesteding: Vrijwillige transparantie vooraf: Opvang, begeleiding en huisvesting van dakloze (een)oudergezinnen met minder"
-        }
-      ]
-    },
-    {
       "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/30d997a6-7275-4cb1-9c85-a50ff80dac23",
       "soort": "nieuws",
       "kop": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd",
@@ -285,7 +256,7 @@
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.33,
-      "Kp": 0.18,
+      "Kp": 0.17,
       "n": 1,
       "dagen": 1,
       "bronnen": 1,
@@ -1026,6 +997,30 @@
       "ankers": [
         "geheim",
         "vortgang"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3d426257-99cb-4d64-83f0-ce44dea3acb1",
+      "soort": "nieuws",
+      "kop": "Schriftelijke inspraak Saendenborch (Engels)",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.23,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "engel",
+        "saendenborch",
+        "council",
+        "statement",
+        "befor",
+        "municipal",
+        "member"
       ],
       "bewijs": []
     }
