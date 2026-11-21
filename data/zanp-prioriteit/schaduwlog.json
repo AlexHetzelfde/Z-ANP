@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-21T21:00:48.516Z",
+  "gegenereerdOp": "2026-11-21T22:00:48.291Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,10 +14,10 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 15,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 582,
+    "stukken": 567,
     "kandidaten": 49,
     "metAnker": 48,
     "zonderAnker": 1,
@@ -186,8 +186,8 @@
       "key": "a:adb796eec6",
       "soort": "agenda",
       "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
-      "S": 0.06,
-      "Sa": 0.06,
+      "S": 0.05,
+      "Sa": 0.05,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.32,
@@ -282,8 +282,8 @@
       "dagen": 1,
       "bronnen": 1,
       "ankers": [
-        "lobbybrief",
         "indien",
+        "lobbybrief",
         "schol",
         "interregional",
         "islamitisch",
@@ -291,8 +291,7 @@
         "wetenschap",
         "onderwij",
         "cultur",
-        "doeve",
-        "basisschol"
+        "doeve"
       ],
       "bewijs": [
         {
@@ -501,7 +500,7 @@
         "gemis",
         "anreik",
         "gedenk",
-        "ontstek"
+        "anstek"
       ],
       "bewijs": []
     },
@@ -765,8 +764,8 @@
         "agendapunt",
         "opening",
         "vaststel",
-        "anbiedingsbrief",
-        "netuitbreiding"
+        "besluitenlijst",
+        "anbiedingsbrief"
       ],
       "bewijs": []
     },
