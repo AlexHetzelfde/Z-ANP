@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-21T22:00:48.291Z",
+  "bijgewerkt": "2026-11-21T23:00:57.220Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3983,6 +3983,17 @@
       "t": "2026-11-19T23:00:00.000Z",
       "c": null,
       "r": "VER"
+    },
+    "22e1200eb4": {
+      "g": "22e1200eb4",
+      "u": "https://zaandijkleeft.nl/zaandijk-is-een-kindvriendelijk-dorp/",
+      "k": "Zaandijk is een kindvriendelijk dorp",
+      "bt": "",
+      "b": "zaandijk-leeft",
+      "n": "Zaandijk Leeft!",
+      "t": "2026-11-21T12:39:03.000Z",
+      "c": null,
+      "r": "ALG"
     }
   }
 }

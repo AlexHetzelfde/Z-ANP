@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-21T22:00:48.291Z",
+  "gegenereerdOp": "2026-11-21T23:00:57.220Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 15,
-    "tekstenOpgeruimd": 0,
+    "vergeten": 0,
+    "tekstenOpgeruimd": 1,
     "tekstDekkingPct": 100,
-    "stukken": 567,
-    "kandidaten": 49,
-    "metAnker": 48,
+    "stukken": 568,
+    "kandidaten": 48,
+    "metAnker": 47,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 1,
@@ -329,46 +329,6 @@
           "titel": "Nieuwsbrief november 2026"
         }
       ]
-    },
-    {
-      "key": "a:cabf81de91",
-      "soort": "agenda",
-      "kop": "Zaans & Reüniek De Waakzaamheid: Hans & Candy Dulfer",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "reuniek",
-        "wakzamheid",
-        "candy",
-        "dulfer",
-        "wakzinnig"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:822c3f1bd8",
-      "soort": "agenda",
-      "kop": "Werkbezoek: Werkom",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "werkom"
-      ],
-      "bewijs": []
     },
     {
       "key": "a:daf1d6b222",
@@ -882,6 +842,27 @@
       "bewijs": []
     },
     {
+      "key": "n:https://zaandijkleeft.nl/zaandijk-is-een-kindvriendelijk-dorp/",
+      "soort": "nieuws",
+      "kop": "Zaandijk is een kindvriendelijk dorp",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.34,
+      "Kp": 0.15,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "kindvriendelijk",
+        "lagedijk",
+        "roswijk",
+        "springt"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Keti_Koti_dialoogtafel_Wie_zich_kan_inleven_in_de_pijn_van_een_ander_kan_het_verschil_maken",
       "soort": "nieuws",
       "kop": "Keti Koti dialoogtafel: \"Wie zich kan inleven in de pijn van een ander, kan het verschil maken\"",
@@ -897,9 +878,9 @@
       "ankers": [
         "dialogtafel",
         "inlev",
-        "verschil",
         "keti",
         "koti",
+        "verschil",
         "norderkerk",
         "tafel",
         "pijn",
@@ -1002,6 +983,30 @@
       "ankers": [
         "geheim",
         "vortgang"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3d426257-99cb-4d64-83f0-ce44dea3acb1",
+      "soort": "nieuws",
+      "kop": "Schriftelijke inspraak Saendenborch (Engels)",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.23,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "engel",
+        "saendenborch",
+        "council",
+        "statement",
+        "befor",
+        "municipal",
+        "member"
       ],
       "bewijs": []
     }
@@ -3670,6 +3675,208 @@
       },
       "a:8154ec62c3": {
         "kop": "Panelgesprek: Het thema van OTW 2026 is : Allemaal in actie – Met mannen en jongens tegen geweld.",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      }
+    },
+    "2026-11-22": {
+      "a:a7d8a22d6c": {
+        "kop": "WC-Symposium",
+        "S": 0.31,
+        "route": "aanhoudend",
+        "K": 0.72,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/db4ee134-621a-4dda-8024-f831c14dd2da": {
+        "kop": "Energiebesparingsakkoord 2027-2030",
+        "S": 0.2,
+        "route": "aanhoudend",
+        "K": 0.75,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:a0100eb92c": {
+        "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
+        "S": 0.09,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/30d997a6-7275-4cb1-9c85-a50ff80dac23": {
+        "kop": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0.84,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ced2c284f8": {
+        "kop": "Zaanstad Beraad Raadzaal",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:adb796eec6": {
+        "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0.32,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ce4ae67b87": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4b9ea65ea4": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3c2e31e-a45b-49b8-8da5-c7fed64fbc10": {
+        "kop": "Indienen zienswijzen en lobbybrief aanvragen nieuwe scholen PO en VO",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0.74,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/27efc4b2-8208-4195-a1bd-432f1c8da033": {
+        "kop": "Nog 1 week tot De Corner VrijMiBo...Meld je snel aan!",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:daf1d6b222": {
+        "kop": "Coverband Back Noise",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:e05ce9e961": {
+        "kop": "De Fabriek: Laatbloeier met High Tea",
+        "S": 0,
+        "route": "geen",
+        "K": 0.1,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:69587e1f80": {
+        "kop": "Groot Dictee der Nederlandse Taal",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a24756ce32": {
+        "kop": "Dag voor de Raad 2026!",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a3f1113fee": {
+        "kop": "De Fabriek: Royal Opera House 26/27",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:3034dc268e": {
+        "kop": "Gij die mij draagt - een Nederlands requiem (Zaandam)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:504e7d4e30": {
+        "kop": "Jay Jay’s Border Jazzmen",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:022a912b1c": {
+        "kop": "Margriet Eshuijs Popkoor",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:6f9821ca1a": {
+        "kop": "The Upmates",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:8154ec62c3": {
+        "kop": "Panelgesprek: Het thema van OTW 2026 is : Allemaal in actie – Met mannen en jongens tegen geweld.",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:49fdd3264e": {
+        "kop": "Openhuis ISK",
+        "S": 0,
+        "route": "geen",
+        "K": 0.17,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:59c7d5db97": {
+        "kop": "Bijeenkomst 'Samenleven met ratten' Dierenbescherming",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:876bc64aab": {
+        "kop": "Inspiratiesessie Zaans Preventiemodel (ZPM)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:f14947adc5": {
+        "kop": "Opening Virtueel TIJDmuseum",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0074fed529": {
+        "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
         "S": 0,
         "route": "geen",
         "K": 0,
