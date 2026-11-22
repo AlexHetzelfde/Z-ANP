@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T18:25:01.591Z",
+  "gegenereerdOp": "2026-11-22T19:00:48.169Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 3,
+      "lokaal": 3,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,10 +17,10 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 565,
-    "kandidaten": 32,
-    "metAnker": 31,
-    "zonderAnker": 1,
+    "stukken": 568,
+    "kandidaten": 34,
+    "metAnker": 34,
+    "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 1,
     "tau": 0.5,
@@ -631,12 +631,12 @@
         "dammi",
         "gremdat",
         "paul",
-        "vorstelling",
         "angan",
         "betredt",
         "humorvol",
         "zingt",
-        "fragment"
+        "fragment",
+        "zantheater"
       ],
       "bewijs": []
     },
@@ -724,6 +724,70 @@
       "bewijs": []
     },
     {
+      "key": "a:5dd43fb620",
+      "soort": "agenda",
+      "kop": "Tim Kroezen",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "kroez"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:3542317e51",
+      "soort": "agenda",
+      "kop": "De Fabriek: Amélie - 25th Anniversary -",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "ameli",
+        "anniversary",
+        "fabriek",
+        "poulain",
+        "montmartr"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaandijkleeft.nl/sinterklaas-in-zaandijk/",
+      "soort": "nieuws",
+      "kop": "Sinterklaas in Zaandijk",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "sinterklas",
+        "zandijkertje",
+        "lindenlan",
+        "ontmoeting",
+        "lichtjesintocht",
+        "lagedijk",
+        "parklan"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://zaandijkleeft.nl/zaandijk-is-een-kindvriendelijk-dorp/",
       "soort": "nieuws",
       "kop": "Zaandijk is een kindvriendelijk dorp",
@@ -738,8 +802,8 @@
       "bronnen": 0,
       "ankers": [
         "kindvriendelijk",
-        "lagedijk",
         "roswijk",
+        "lagedijk",
         "springt"
       ],
       "bewijs": []

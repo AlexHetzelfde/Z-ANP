@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-22T18:25:01.591Z",
+  "bijgewerkt": "2026-11-22T19:00:48.169Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -3992,6 +3992,17 @@
       "b": "zaandijk-leeft",
       "n": "Zaandijk Leeft!",
       "t": "2026-11-21T12:39:03.000Z",
+      "c": null,
+      "r": "ALG"
+    },
+    "419aa6de05": {
+      "g": "419aa6de05",
+      "u": "https://zaandijkleeft.nl/sinterklaas-in-zaandijk/",
+      "k": "Sinterklaas in Zaandijk",
+      "bt": "",
+      "b": "zaandijk-leeft",
+      "n": "Zaandijk Leeft!",
+      "t": "2026-11-22T15:45:21.000Z",
       "c": null,
       "r": "ALG"
     }
