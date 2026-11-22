@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T22:00:48.034Z",
+  "gegenereerdOp": "2026-11-22T23:00:56.000Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 8,
-    "tekstenOpgeruimd": 0,
+    "vergeten": 0,
+    "tekstenOpgeruimd": 1,
     "tekstDekkingPct": 100,
     "stukken": 560,
-    "kandidaten": 34,
-    "metAnker": 34,
+    "kandidaten": 29,
+    "metAnker": 29,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 1,
@@ -69,33 +69,6 @@
           "c": 0.92,
           "plek": "kop",
           "titel": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd"
-        }
-      ]
-    },
-    {
-      "key": "a:a0100eb92c",
-      "soort": "agenda",
-      "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
-      "S": 0.08,
-      "Sa": 0.08,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0,
-      "Kp": 0,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "unesco",
-        "molen"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaansche-molen",
-          "datum": "2026-11-11T10:20:53.000Z",
-          "c": 1,
-          "plek": "kop",
-          "titel": "Molens openen ’s avonds hun deuren ter ere van 80 jaar UNESCO"
         }
       ]
     },
@@ -213,86 +186,6 @@
       ]
     },
     {
-      "key": "a:daf1d6b222",
-      "soort": "agenda",
-      "kop": "Coverband Back Noise",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "noise",
-        "coverband",
-        "back"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:e05ce9e961",
-      "soort": "agenda",
-      "kop": "De Fabriek: Laatbloeier met High Tea",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.1,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "latbloeier",
-        "fabriek",
-        "high"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:69587e1f80",
-      "soort": "agenda",
-      "kop": "Groot Dictee der Nederlandse Taal",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "dicte"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:a24756ce32",
-      "soort": "agenda",
-      "kop": "Dag voor de Raad 2026!",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "antropia",
-        "drieberg",
-        "dagprogramma",
-        "zeist",
-        "vereniging"
-      ],
-      "bewijs": []
-    },
-    {
       "key": "a:a3f1113fee",
       "soort": "agenda",
       "kop": "De Fabriek: Royal Opera House 26/27",
@@ -309,7 +202,6 @@
         "royal",
         "opera",
         "house",
-        "fabriek",
         "walkur",
         "ringcyclus",
         "wagner",
@@ -758,7 +650,6 @@
       "ankers": [
         "ameli",
         "anniversary",
-        "fabriek",
         "poulain",
         "montmartr"
       ],
@@ -876,208 +767,6 @@
     "aiPerVerzoek": 6
   },
   "dagen": {
-    "2026-11-09": {
-      "n:https://lokaleregelgeving.overheid.nl/CVDR769019/1": {
-        "kop": "Aanwijzingsbesluit verlenging tijdelijk cameratoezicht Zuiddijk te Zaandam",
-        "S": 0.45,
-        "route": "aanhoudend",
-        "K": 0.75,
-        "n": 3,
-        "bronnen": 2
-      },
-      "n:https://www.deorkaan.nl/stroomuitval-bij-zaans-medisch-centrum-zmc-brandweer-ter-plaatse/": {
-        "kop": "Stroomuitval bij Zaans Medisch Centrum (ZMC), brandweer ter plaatse",
-        "S": 0.27,
-        "route": "aanhoudend",
-        "K": 0.61,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://ted.europa.eu/nl/notice/-/detail/777319-2026": {
-        "kop": "Aanbesteding afgerond zonder gunning: specialistische Jeugdhulp Segment B 2027 Zaanstreek-Waterland",
-        "S": 0.23,
-        "route": "aanhoudend",
-        "K": 0.33,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/pincodes-klanten-in-zaandam-beeld-kruidvat-onderzoekt-veiligheidslek-in-gehele-keten/": {
-        "kop": "Pincodes klanten in Zaandam beeld: Kruidvat onderzoekt veiligheidslek in gehele keten",
-        "S": 0.23,
-        "route": "aanhoudend",
-        "K": 0.48,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/themapad-in-assendelft-krijgt-stopverlichting-huh/": {
-        "kop": "Themapad in Assendelft krijgt ‘stopverlichting’ (huh?)",
-        "S": 0.21,
-        "route": "aanhoudend",
-        "K": 0.72,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/overleden-persoon-bij-zaaneiland-slachtoffer-van-noodlottig-ongeval/": {
-        "kop": "Overleden persoon bij Zaaneiland slachtoffer van noodlottig ongeval",
-        "S": 0.2,
-        "route": "aanhoudend",
-        "K": 0.38,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/overleden-persoon-gevonden-in-water-bij-zaaneiland-in-zaandam/": {
-        "kop": "Overleden persoon gevonden in water bij Zaaneiland in Zaandam",
-        "S": 0.19,
-        "route": "aanhoudend",
-        "K": 0.38,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/nog-meer-windturbines-bij-de-amsterdamse-haven/": {
-        "kop": "Nog meer windturbines bij de Amsterdamse haven",
-        "S": 0.18,
-        "route": "aanhoudend",
-        "K": 0.29,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:2f3f3332ae": {
-        "kop": "Zaanstad Beraad Raadzaal: TEST",
-        "S": 0.14,
-        "route": "aanhoudend",
-        "K": 0.21,
-        "n": 3,
-        "bronnen": 1
-      },
-      "a:e205032688": {
-        "kop": "Geweigerde omgevingsvergunning voor aanleggen van een in- of uitrit locatie Raaigras 88 Assendelft",
-        "S": 0.1,
-        "route": "aanhoudend",
-        "K": 0.16,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/fototijdreis-guisweg-ter-hoogte-van-spoorwegovergang-zaandijk/": {
-        "kop": "Fototijdreis: Guisweg ter hoogte van spoorwegovergang (Zaandijk)",
-        "S": 0.1,
-        "route": "aanhoudend",
-        "K": 0.69,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/grote-politie-inzet-na-melding-steekpartij-bij-bedrijf-in-zaandam/": {
-        "kop": "Verdachte aangehouden na dodelijke steekpartij bij bedrijf in Zaandam 📸 – update",
-        "S": 0.09,
-        "route": "aanhoudend",
-        "K": 0.43,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/54-jarige-vrouw-uit-oostzaan-aangehouden-na-dodelijke-steekpartij-in-zaandam/": {
-        "kop": "54-jarige vrouw uit Oostzaan aangehouden na dodelijke steekpartij in Zaandam",
-        "S": 0.09,
-        "route": "aanhoudend",
-        "K": 0.34,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:1ebd6e1ddf": {
-        "kop": "Verkeersbesluit plaatsen laadpaal voor electrische auto's Matsmanzoom te Koog a/d Zaan",
-        "S": 0.08,
-        "route": "aanhoudend",
-        "K": 0.16,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/sport-zaalkorfbal-van-start-kolf-kampioenen-bekend/": {
-        "kop": "Sport: zaalkorfbal van start, kolf-kampioenen bekend",
-        "S": 0.08,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:d1eae07b85": {
-        "kop": "Brandweer Oostzaan viert 100-jarig jubileum",
-        "S": 0.06,
-        "route": "aanhoudend",
-        "K": 0.35,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:e26813c04c": {
-        "kop": "Geweigerde huisvestingsvergunning Klipperstraat 37 te Zaandam - Microsoft Teams",
-        "S": 0.06,
-        "route": "aanhoudend",
-        "K": 0.16,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/dichters-laten-de-tijd-spreken-in-museum-zaanse-tijd-%f0%9f%93%b8-%f0%9f%8e%a5/": {
-        "kop": "Dichters laten de tijd spreken in Museum Zaanse Tijd 📸 🎥",
-        "S": 0.06,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:54bf0d34fe": {
-        "kop": "Verkeersbesluit plaatsen laadpaal voor elektrische auto's locatie Kaaikhof te Assendelft",
-        "S": 0.04,
-        "route": "aanhoudend",
-        "K": 0.16,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/zaanse-olifantenpaadjes-xxvii-provincialeweg-zaandam-de-kortste/": {
-        "kop": "Zaanse Olifantenpaadjes XXVII: Provincialeweg, Zaandam (de kortste?)",
-        "S": 0.04,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:2f23908817": {
-        "kop": "Lezing: Tot Lering en Vermaak",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:4150f4ffc4": {
-        "kop": "Ontdek hoe een kaartspel nieuwe gesprekken over de toekomst opent!",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:da1fdf516e": {
-        "kop": "Aanwijsbesluit plaatsen camera locatie Perim te Zaandam",
-        "S": 0,
-        "route": "geen",
-        "K": 0.15,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:f317521e28": {
-        "kop": "Raadsvergadering: Begroting",
-        "S": 0,
-        "route": "geen",
-        "K": 0.15,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:abb742a017": {
-        "kop": "Omgevingsvergunning O2026055913 realiseren dakterras op woning Zuiderhoofdstraat 78 te Krommenie",
-        "S": 0,
-        "route": "geen",
-        "K": 0.15,
-        "n": 0,
-        "bronnen": 0
-      }
-    },
     "2026-11-10": {
       "n:https://zoek.officielebekendmakingen.nl/gmb-2026-523105.html": {
         "kop": "Melding graven bodem - Nabij Gedempte Gracht 9 Zaandam , 4 meter richting zuidwesten",
@@ -3697,6 +3386,208 @@
       },
       "a:0074fed529": {
         "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      }
+    },
+    "2026-11-23": {
+      "a:a7d8a22d6c": {
+        "kop": "WC-Symposium",
+        "S": 0.28,
+        "route": "aanhoudend",
+        "K": 0.69,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ced2c284f8": {
+        "kop": "Zaanstad Beraad Raadzaal",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:adb796eec6": {
+        "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+        "S": 0.05,
+        "route": "aanhoudend",
+        "K": 0.31,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ce4ae67b87": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4b9ea65ea4": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:a3f1113fee": {
+        "kop": "De Fabriek: Royal Opera House 26/27",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:3034dc268e": {
+        "kop": "Gij die mij draagt - een Nederlands requiem (Zaandam)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:504e7d4e30": {
+        "kop": "Jay Jay’s Border Jazzmen",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:022a912b1c": {
+        "kop": "Margriet Eshuijs Popkoor",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:6f9821ca1a": {
+        "kop": "The Upmates",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:8154ec62c3": {
+        "kop": "Panelgesprek: Het thema van OTW 2026 is : Allemaal in actie – Met mannen en jongens tegen geweld.",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:49fdd3264e": {
+        "kop": "Openhuis ISK",
+        "S": 0,
+        "route": "geen",
+        "K": 0.17,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:59c7d5db97": {
+        "kop": "Bijeenkomst 'Samenleven met ratten' Dierenbescherming",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:876bc64aab": {
+        "kop": "Inspiratiesessie Zaans Preventiemodel (ZPM)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:f14947adc5": {
+        "kop": "Opening Virtueel TIJDmuseum",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0074fed529": {
+        "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a3ff11919d": {
+        "kop": "Symposium: Een stabielere samenleving begint thuis",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:fc98137cc9": {
+        "kop": "Technische briefing Variantenstudie N203",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0a443011d0": {
+        "kop": "Raadsvergadering",
+        "S": 0,
+        "route": "geen",
+        "K": 0.15,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:d1fcd2e8f5": {
+        "kop": "Paul Haenen",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:04f0173d08": {
+        "kop": "Boban Benjamin Braspenning",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:93b5ea70bf": {
+        "kop": "Mini-conferentie Nieuwe Normen, Oude Inzichten",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:d0389dde20": {
+        "kop": "UPfest Zaandam",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:aea0d9f918": {
+        "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+        "S": 0,
+        "route": "geen",
+        "K": 0.15,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:5dd43fb620": {
+        "kop": "Tim Kroezen",
         "S": 0,
         "route": "geen",
         "K": 0,
