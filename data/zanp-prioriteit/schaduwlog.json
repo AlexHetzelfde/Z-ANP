@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T21:00:46.399Z",
+  "gegenereerdOp": "2026-11-22T22:00:48.034Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,10 +14,10 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 8,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 568,
+    "stukken": 560,
     "kandidaten": 34,
     "metAnker": 34,
     "zonderAnker": 0,
@@ -362,6 +362,7 @@
       "ankers": [
         "border",
         "jazzm",
+        "wormervers",
         "achterhoek",
         "twent",
         "dinxperlo"
@@ -426,9 +427,9 @@
         "allemal",
         "panelgesprek",
         "thema",
-        "postjesweg",
         "jongen",
         "geweld",
+        "postjesweg",
         "actie"
       ],
       "bewijs": []
@@ -631,12 +632,12 @@
         "dammi",
         "gremdat",
         "paul",
+        "zantheater",
         "angan",
         "betredt",
         "humorvol",
         "zingt",
-        "fragment",
-        "zantheater"
+        "fragment"
       ],
       "bewijs": []
     },
