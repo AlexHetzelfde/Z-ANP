@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T17:00:49.501Z",
+  "gegenereerdOp": "2026-11-22T18:00:47.601Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-22T17:00:49.501Z",
+      "laatsteScrape": "2026-11-22T18:00:47.601Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-22T17:00:49.501Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-22T18:00:47.601Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-22T17:00:49.501Z",
+      "laatsteScrape": "2026-11-22T18:00:47.601Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 43,
+      "opeenvolgendLeeg": 44,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-22T17:00:49.501Z",
+      "laatsteScrape": "2026-11-22T18:00:47.601Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 205,
+      "opeenvolgendLeeg": 206,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-21T02:00:53.368Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-22T17:00:49.501Z",
+      "laatsteScrape": "2026-11-22T18:00:47.601Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 250,
+      "opeenvolgendLeeg": 251,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-22T06:00:54.128Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-22T17:00:49.501Z",
+      "laatsteScrape": "2026-11-22T18:00:47.601Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 19,
+      "opeenvolgendLeeg": 20,
       "opeenvolgendFout": 0
     }
   },
@@ -444,7 +444,7 @@
         "mislukt": 0,
         "uitgesteld": 0
       },
-      "vergeten": 1,
+      "vergeten": 0,
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 565,
