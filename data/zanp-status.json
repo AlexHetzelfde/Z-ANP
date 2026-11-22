@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T07:00:49.949Z",
+  "gegenereerdOp": "2026-11-22T08:00:47.349Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-22T07:00:49.949Z",
+      "laatsteScrape": "2026-11-22T08:00:47.349Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-22T07:00:49.949Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-22T08:00:47.349Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-22T07:00:49.949Z",
+      "laatsteScrape": "2026-11-22T08:00:47.349Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 33,
+      "opeenvolgendLeeg": 34,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-22T07:00:49.949Z",
+      "laatsteScrape": "2026-11-22T08:00:47.349Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 195,
+      "opeenvolgendLeeg": 196,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-21T02:00:53.368Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-22T07:00:49.949Z",
+      "laatsteScrape": "2026-11-22T08:00:47.349Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 240,
+      "opeenvolgendLeeg": 241,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-22T06:00:54.128Z",
@@ -170,15 +170,15 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-22T07:00:49.949Z",
+      "laatsteScrape": "2026-11-22T08:00:47.349Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 9,
+      "opeenvolgendLeeg": 10,
       "opeenvolgendFout": 0
     }
   },
   "bronnenZonderRubriek": [],
   "gemini": {
-    "dag": "2026-11-21",
+    "dag": "2026-11-22",
     "gebruikt": 0,
     "wachtTot": null,
     "dagcap": 80,

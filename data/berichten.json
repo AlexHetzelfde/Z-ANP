@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T07:00:49.949Z",
+  "gegenereerdOp": "2026-11-22T08:00:47.349Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -11143,45 +11143,6 @@
           }
         ]
       },
-      "tagVersie": 2
-    },
-    {
-      "id": "6475b27baf-v2",
-      "groepId": "6475b27baf",
-      "versie": 2,
-      "url": "https://www.deorkaan.nl/erfgoed-jubileum-gevierd-in-westzaan/",
-      "kop": "Erfgoed-jubileum gevierd in Westzaan 📸 🎥",
-      "tekst": null,
-      "rubriek": "CUL",
-      "tagBron": "ai",
-      "herkomst": "signaal",
-      "prio": 3,
-      "tijd": "2026-11-08T07:00:52.465Z",
-      "heeftTijd": true,
-      "woorden": 278,
-      "afgekapt": false,
-      "bronId": "DeOrkaan",
-      "bronNaam": "DeOrkaan",
-      "ai": false,
-      "controle": "analyse-ok",
-      "eerstGezienOp": "2026-11-08T07:00:52.465Z",
-      "gecontroleerdOp": "2026-11-08T22:00:53.184Z",
-      "bronTitel": "Erfgoed-jubileum gevierd in Westzaan 📸 🎥",
-      "bronLengte": 1760,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": true
-      },
-      "checklistBron": "ai",
-      "analyse": true,
       "tagVersie": 2
     }
   ]
