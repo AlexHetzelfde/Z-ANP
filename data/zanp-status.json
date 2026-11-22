@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T11:01:55.244Z",
+  "gegenereerdOp": "2026-11-22T12:00:48.877Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-22T11:00:48.045Z",
+      "laatsteScrape": "2026-11-22T12:00:48.877Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,7 +55,7 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-22T11:00:48.045Z",
+      "laatsteScrape": "2026-11-22T12:00:48.877Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-22T11:00:48.045Z",
+      "laatsteScrape": "2026-11-22T12:00:48.877Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 37,
+      "opeenvolgendLeeg": 38,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-22T11:00:48.045Z",
+      "laatsteScrape": "2026-11-22T12:00:48.877Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 199,
+      "opeenvolgendLeeg": 200,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-21T02:00:53.368Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-22T11:00:48.045Z",
+      "laatsteScrape": "2026-11-22T12:00:48.877Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 244,
+      "opeenvolgendLeeg": 245,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-22T06:00:54.128Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-22T11:00:48.045Z",
+      "laatsteScrape": "2026-11-22T12:00:48.877Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 13,
+      "opeenvolgendLeeg": 14,
       "opeenvolgendFout": 0
     }
   },
@@ -419,7 +419,7 @@
       "seed": 0
     },
     "cluster": {
-      "vergeleken": 21,
+      "vergeleken": 10,
       "automatisch": 0,
       "aiGevraagd": 0,
       "aiJa": 0,
