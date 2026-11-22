@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T13:00:48.819Z",
+  "gegenereerdOp": "2026-11-22T14:00:46.148Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 566,
-    "kandidaten": 34,
-    "metAnker": 33,
+    "kandidaten": 33,
+    "metAnker": 32,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 1,
@@ -768,35 +768,6 @@
         "pijn",
         "medegeorganiserd",
         "bewustzijn"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kalk_en_steenmeel_voor_bodemverbetering_op_de_Gooise_heide",
-      "soort": "nieuws",
-      "kop": "Kalk en steenmeel voor bodemverbetering op de Gooise heide",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.35,
-      "Kp": 0.23,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "stenmel",
-        "bodemverbetering",
-        "heide",
-        "naturreservat",
-        "gois",
-        "kalk",
-        "variati",
-        "biodiversiteit",
-        "gezonder",
-        "herontdek",
-        "bodemlev",
-        "nerwarts"
       ],
       "bewijs": []
     },
