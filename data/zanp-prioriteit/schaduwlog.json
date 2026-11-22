@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T15:00:49.333Z",
+  "gegenereerdOp": "2026-11-22T16:00:50.053Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 566,
-    "kandidaten": 33,
-    "metAnker": 32,
+    "kandidaten": 32,
+    "metAnker": 31,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 1,
@@ -741,33 +741,6 @@
         "lagedijk",
         "roswijk",
         "springt"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Keti_Koti_dialoogtafel_Wie_zich_kan_inleven_in_de_pijn_van_een_ander_kan_het_verschil_maken",
-      "soort": "nieuws",
-      "kop": "Keti Koti dialoogtafel: \"Wie zich kan inleven in de pijn van een ander, kan het verschil maken\"",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "dialogtafel",
-        "inlev",
-        "keti",
-        "koti",
-        "verschil",
-        "norderkerk",
-        "tafel",
-        "pijn",
-        "medegeorganiserd",
-        "bewustzijn"
       ],
       "bewijs": []
     },
