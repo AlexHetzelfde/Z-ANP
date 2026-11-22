@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T16:00:50.053Z",
+  "gegenereerdOp": "2026-11-22T17:00:49.501Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,10 +14,10 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 1,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 566,
+    "stukken": 565,
     "kandidaten": 32,
     "metAnker": 31,
     "zonderAnker": 1,
@@ -43,7 +43,7 @@
       "Sa": 0.29,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.7,
+      "K": 0.69,
       "Kp": 0.42,
       "n": 1,
       "dagen": 1,
