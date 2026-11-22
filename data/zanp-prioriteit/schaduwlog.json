@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T11:00:48.045Z",
+  "gegenereerdOp": "2026-11-22T11:01:55.244Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 1,
+    "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 566,
-    "kandidaten": 35,
-    "metAnker": 34,
+    "kandidaten": 34,
+    "metAnker": 33,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 1,
@@ -797,34 +797,6 @@
         "herontdek",
         "bodemlev",
         "nerwarts"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Eerste_kilometer_van_langste_heg_van_Nederland_geplant",
-      "soort": "nieuws",
-      "kop": "Eerste kilometer van langste heg van Nederland geplant",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "langst",
-        "geplant",
-        "rorik",
-        "kapital",
-        "recreatieschap",
-        "kilometer",
-        "landschap",
-        "beverwijk",
-        "afgetrapt",
-        "landgoed",
-        "kilometerslang"
       ],
       "bewijs": []
     },

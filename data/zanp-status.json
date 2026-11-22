@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T11:00:48.045Z",
+  "gegenereerdOp": "2026-11-22T11:01:55.244Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -444,12 +444,12 @@
         "mislukt": 0,
         "uitgesteld": 0
       },
-      "vergeten": 1,
+      "vergeten": 0,
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 566,
-      "kandidaten": 35,
-      "metAnker": 34,
+      "kandidaten": 34,
+      "metAnker": 33,
       "zonderAnker": 1,
       "afgelast": 0,
       "dubbel": 1,
