@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T06:00:54.128Z",
+  "gegenereerdOp": "2026-11-22T07:00:49.949Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -18,8 +18,8 @@
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 567,
-    "kandidaten": 48,
-    "metAnker": 47,
+    "kandidaten": 35,
+    "metAnker": 34,
     "zonderAnker": 1,
     "afgelast": 0,
     "dubbel": 1,
@@ -73,33 +73,6 @@
       ]
     },
     {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/db4ee134-621a-4dda-8024-f831c14dd2da",
-      "soort": "nieuws",
-      "kop": "Energiebesparingsakkoord 2027-2030",
-      "S": 0.2,
-      "Sa": 0.2,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.74,
-      "Kp": 0.5,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "energiebesparingsakkord",
-        "energiebesparing"
-      ],
-      "bewijs": [
-        {
-          "bron": "nh-actueel",
-          "datum": "2026-11-18T14:08:38.000Z",
-          "c": 0.9,
-          "plek": "kop",
-          "titel": "Noord-Holland sluit energiebesparingsakkoord: € 4 miljoen extra voor toezicht en handhaving"
-        }
-      ]
-    },
-    {
       "key": "a:a0100eb92c",
       "soort": "agenda",
       "kop": "Molens openen deuren ter ere van 80 jaar UNESCO",
@@ -123,35 +96,6 @@
           "c": 1,
           "plek": "kop",
           "titel": "Molens openen ’s avonds hun deuren ter ere van 80 jaar UNESCO"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/30d997a6-7275-4cb1-9c85-a50ff80dac23",
-      "soort": "nieuws",
-      "kop": "Nieuwe Ranglijst WC-Vriendelijkheid bij gemeenten gepubliceerd",
-      "S": 0.06,
-      "Sa": 0.06,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.84,
-      "Kp": 0.53,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "ranglijst",
-        "vriendelijkheid",
-        "stationsplein",
-        "chiel"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaanstad-kalender",
-          "datum": "2026-11-07T02:00:51.170Z",
-          "c": 0.73,
-          "plek": "intro",
-          "titel": "WC-Symposium"
         }
       ]
     },
@@ -265,68 +209,6 @@
           "c": 0.65,
           "plek": "intro",
           "titel": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3c2e31e-a45b-49b8-8da5-c7fed64fbc10",
-      "soort": "nieuws",
-      "kop": "Indienen zienswijzen en lobbybrief aanvragen nieuwe scholen PO en VO",
-      "S": 0.03,
-      "Sa": 0.03,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.74,
-      "Kp": 0.4,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "indien",
-        "lobbybrief",
-        "schol",
-        "interregional",
-        "islamitisch",
-        "zienswijz",
-        "wetenschap",
-        "onderwij",
-        "cultur",
-        "doeve"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.41,
-          "plek": "tekst",
-          "titel": "Gemeente Den Haag geeft het voorbeeld"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/27efc4b2-8208-4195-a1bd-432f1c8da033",
-      "soort": "nieuws",
-      "kop": "Nog 1 week tot De Corner VrijMiBo...Meld je snel aan!",
-      "S": 0.03,
-      "Sa": 0.03,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0,
-      "Kp": 0,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "vrijmibo",
-        "corner"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-ingekomen-stukken",
-          "datum": "2026-11-08T23:00:00.000Z",
-          "c": 0.72,
-          "plek": "intro",
-          "titel": "Nieuwsbrief november 2026"
         }
       ]
     },
@@ -964,49 +846,6 @@
         "tariev",
         "amstelland",
         "merland"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/f1482969-a201-4bdc-9b0d-40a138ea964b",
-      "soort": "nieuws",
-      "kop": "GEHEIM Voortgang RON ASP I BV",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "geheim",
-        "vortgang"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/3d426257-99cb-4d64-83f0-ce44dea3acb1",
-      "soort": "nieuws",
-      "kop": "Schriftelijke inspraak Saendenborch (Engels)",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.23,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "engel",
-        "saendenborch",
-        "council",
-        "statement",
-        "befor",
-        "municipal",
-        "member"
       ],
       "bewijs": []
     }

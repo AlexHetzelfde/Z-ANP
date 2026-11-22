@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T06:00:54.128Z",
+  "gegenereerdOp": "2026-11-22T07:00:49.949Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-22T06:00:54.128Z",
+      "laatsteScrape": "2026-11-22T07:00:49.949Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,7 +55,7 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-22T06:00:54.128Z",
+      "laatsteScrape": "2026-11-22T07:00:49.949Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-22T06:00:54.128Z",
+      "laatsteScrape": "2026-11-22T07:00:49.949Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 32,
+      "opeenvolgendLeeg": 33,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-22T06:00:54.128Z",
+      "laatsteScrape": "2026-11-22T07:00:49.949Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 194,
+      "opeenvolgendLeeg": 195,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-21T02:00:53.368Z",
@@ -159,10 +159,10 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-22T06:00:54.128Z",
+      "laatsteScrape": "2026-11-22T07:00:49.949Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 239,
-      "opeenvolgendFout": 1,
+      "opeenvolgendLeeg": 240,
+      "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-22T06:00:54.128Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 403",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-22T06:00:54.128Z",
+      "laatsteScrape": "2026-11-22T07:00:49.949Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 8,
+      "opeenvolgendLeeg": 9,
       "opeenvolgendFout": 0
     }
   },
@@ -448,8 +448,8 @@
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 567,
-      "kandidaten": 48,
-      "metAnker": 47,
+      "kandidaten": 35,
+      "metAnker": 34,
       "zonderAnker": 1,
       "afgelast": 0,
       "dubbel": 1,
