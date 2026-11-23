@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T07:00:56.288Z",
+  "gegenereerdOp": "2026-11-23T08:00:48.080Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -405,6 +405,43 @@
     }
   ],
   "berichten": [
+    {
+      "id": "55e572924a-v1",
+      "groepId": "55e572924a",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nachtelijke_werkzaamheden_N205_voor_proef_met_busvervoer",
+      "kop": "Nachtelijke werkzaamheden N205 voor proef met busvervoer",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "bron",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-23T08:45:41.000Z",
+      "heeftTijd": true,
+      "woorden": 311,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": false,
+      "controle": "ai-fout",
+      "eerstGezienOp": "2026-11-23T08:00:48.080Z",
+      "gecontroleerdOp": "2026-11-23T08:00:48.080Z",
+      "bronTitel": "Nachtelijke werkzaamheden N205 voor proef met busvervoer",
+      "bronLengte": 1974,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "patroon"
+    },
     {
       "id": "419aa6de05-v1",
       "groepId": "419aa6de05",

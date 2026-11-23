@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T07:00:56.288Z",
+  "gegenereerdOp": "2026-11-23T08:00:48.080Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 553,
-    "kandidaten": 28,
-    "metAnker": 28,
+    "stukken": 554,
+    "kandidaten": 29,
+    "metAnker": 29,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 1,
@@ -39,8 +39,8 @@
       "key": "a:a7d8a22d6c",
       "soort": "agenda",
       "kop": "WC-Symposium",
-      "S": 0.28,
-      "Sa": 0.28,
+      "S": 0.27,
+      "Sa": 0.27,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.67,
@@ -689,6 +689,29 @@
         "anniversary",
         "poulain",
         "montmartr"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nachtelijke_werkzaamheden_N205_voor_proef_met_busvervoer",
+      "soort": "nieuws",
+      "kop": "Nachtelijke werkzaamheden N205 voor proef met busvervoer",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.41,
+      "Kp": 0.23,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "proef",
+        "busvervoer",
+        "nachtelijk",
+        "n205",
+        "werkzamhed",
+        "rijstrok"
       ],
       "bewijs": []
     },

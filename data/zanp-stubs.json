@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-23T07:00:56.288Z",
+  "bijgewerkt": "2026-11-23T08:00:48.080Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4005,6 +4005,17 @@
       "t": "2026-11-22T15:45:21.000Z",
       "c": null,
       "r": "ALG"
+    },
+    "55e572924a": {
+      "g": "55e572924a",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nachtelijke_werkzaamheden_N205_voor_proef_met_busvervoer",
+      "k": "Nachtelijke werkzaamheden N205 voor proef met busvervoer",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-23T08:45:41.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }
