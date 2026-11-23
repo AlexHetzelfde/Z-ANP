@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T13:00:52.144Z",
+  "gegenereerdOp": "2026-11-23T14:00:50.604Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -9967,45 +9967,6 @@
       "checklistBron": "ai",
       "analyse": true,
       "tagVersie": 2
-    },
-    {
-      "id": "54ee6086c7-v2",
-      "groepId": "54ee6086c7",
-      "versie": 2,
-      "url": "https://www.deorkaan.nl/mogelijk-expolosief-opgevist-bij-havenstraat-zaandam/",
-      "kop": "Update: explosief Havenstraat, EOD laat ‘m ploffen (ergens anders)",
-      "tekst": null,
-      "rubriek": "VER",
-      "tagBron": "ai",
-      "herkomst": "signaal",
-      "prio": 3,
-      "tijd": "2026-11-09T13:00:56.658Z",
-      "heeftTijd": true,
-      "woorden": 123,
-      "afgekapt": false,
-      "bronId": "DeOrkaan",
-      "bronNaam": "DeOrkaan",
-      "ai": false,
-      "controle": "analyse-ok",
-      "eerstGezienOp": "2026-11-09T13:00:56.658Z",
-      "gecontroleerdOp": "2026-11-10T08:00:53.950Z",
-      "bronTitel": "Update: explosief Havenstraat, EOD laat ‘m ploffen (ergens anders)",
-      "bronLengte": 772,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": true
-      },
-      "checklistBron": "ai",
-      "tagVersie": 2,
-      "analyse": true
     }
   ]
 }
