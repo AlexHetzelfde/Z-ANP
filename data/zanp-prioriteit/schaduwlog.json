@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T15:00:53.206Z",
+  "gegenereerdOp": "2026-11-23T16:00:49.285Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 4,
-      "lokaal": 3,
-      "opgehaald": 1,
+      "werklijst": 1,
+      "lokaal": 1,
+      "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 558,
-    "kandidaten": 33,
-    "metAnker": 33,
+    "stukken": 559,
+    "kandidaten": 34,
+    "metAnker": 34,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -103,6 +103,50 @@
       ]
     },
     {
+      "key": "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/77d8b591-f9c6-4a97-b8e1-8139c57042a4",
+      "soort": "nieuws",
+      "kop": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
+      "S": 0.2,
+      "Sa": 0.2,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.69,
+      "Kp": 0.41,
+      "n": 2,
+      "dagen": 2,
+      "bronnen": 2,
+      "ankers": [
+        "abonnementenstructur",
+        "anvullend",
+        "haneveld",
+        "vragensteller",
+        "beantwording",
+        "albert",
+        "klein",
+        "regiorad",
+        "schriftelijk",
+        "vervolgvrag",
+        "abonnementsstructur",
+        "kostenneutral"
+      ],
+      "bewijs": [
+        {
+          "bron": "vervoerregio-overzichten",
+          "datum": "2026-11-12T23:00:00.000Z",
+          "c": 0.69,
+          "plek": "intro",
+          "titel": "Proefweekend nieuw metronetwerk en onveiligheid Van der Madeweg"
+        },
+        {
+          "bron": "DeOrkaan",
+          "datum": "2026-11-03T23:00:00.000Z",
+          "c": 0.62,
+          "plek": "intro",
+          "titel": "Wel miljoenen voor bushaltes, geen cijfers over uitvallende EBS-bussen"
+        }
+      ]
+    },
+    {
       "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/ff388300-2126-4022-a835-c9f30f18907c",
       "soort": "nieuws",
       "kop": "Kennisgeving Wethouder Van der Laan: Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording",
@@ -117,8 +161,8 @@
       "bronnen": 1,
       "ankers": [
         "concept",
-        "beantwording",
         "omgevingsvisi",
+        "beantwording",
         "nota"
       ],
       "bewijs": [
@@ -585,10 +629,10 @@
       "bronnen": 0,
       "ankers": [
         "radsvergadering",
-        "mededeling",
         "fractievergoeding",
         "normenkader",
         "zuidelijk",
+        "mededeling",
         "sprektijd",
         "griffier",
         "agendapunt",
@@ -3527,6 +3571,14 @@
         "n": 1,
         "bronnen": 1
       },
+      "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/77d8b591-f9c6-4a97-b8e1-8139c57042a4": {
+        "kop": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
+        "S": 0.2,
+        "route": "aanhoudend",
+        "K": 0.69,
+        "n": 2,
+        "bronnen": 2
+      },
       "a:aea0d9f918": {
         "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
         "S": 0.16,
@@ -3697,14 +3749,6 @@
       },
       "a:04f0173d08": {
         "kop": "Boban Benjamin Braspenning",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:93b5ea70bf": {
-        "kop": "Mini-conferentie Nieuwe Normen, Oude Inzichten",
         "S": 0,
         "route": "geen",
         "K": 0,

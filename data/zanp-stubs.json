@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-23T15:00:53.206Z",
+  "bijgewerkt": "2026-11-23T16:00:49.285Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4046,6 +4046,17 @@
       "bt": "",
       "b": "vervoerregio-persberichten",
       "n": "Vervoerregio — Persberichten Zaanstad",
+      "t": "2026-11-22T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
+    },
+    "757a1f6bd8": {
+      "g": "757a1f6bd8",
+      "u": "https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/77d8b591-f9c6-4a97-b8e1-8139c57042a4",
+      "k": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
+      "bt": "",
+      "b": "vervoerregio-overzichten",
+      "n": "Vervoerregio: Overzichten (iBabs)",
       "t": "2026-11-22T23:00:00.000Z",
       "c": null,
       "r": "VER"

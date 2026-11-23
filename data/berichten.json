@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T15:00:53.206Z",
+  "gegenereerdOp": "2026-11-23T16:00:49.285Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -440,7 +440,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "55e572924a-v1",
@@ -481,6 +482,43 @@
       "tagVersie": 2
     },
     {
+      "id": "757a1f6bd8-v1",
+      "groepId": "757a1f6bd8",
+      "versie": 1,
+      "url": "https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/77d8b591-f9c6-4a97-b8e1-8139c57042a4",
+      "kop": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
+      "tekst": null,
+      "rubriek": "VER",
+      "tagBron": "trefwoord",
+      "herkomst": "officieel",
+      "prio": 4,
+      "tijd": "2026-11-22T23:00:00.000Z",
+      "heeftTijd": false,
+      "woorden": 1313,
+      "afgekapt": true,
+      "bronId": "vervoerregio-overzichten",
+      "bronNaam": "Vervoerregio: Overzichten (iBabs)",
+      "ai": false,
+      "controle": "ai-fout",
+      "eerstGezienOp": "2026-11-23T16:00:49.285Z",
+      "gecontroleerdOp": "2026-11-23T16:00:49.285Z",
+      "bronTitel": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
+      "bronLengte": 9212,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": true
+      },
+      "checklistBron": "patroon"
+    },
+    {
       "id": "85bdda2fb8-v1",
       "groepId": "85bdda2fb8",
       "versie": 1,
@@ -515,7 +553,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "62dca9c591-v1",
@@ -552,7 +591,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "f0c300837d-v1",
@@ -589,7 +629,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "419aa6de05-v1",
