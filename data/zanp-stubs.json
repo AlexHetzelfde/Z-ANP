@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-23T14:00:50.604Z",
+  "bijgewerkt": "2026-11-23T15:00:53.206Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4016,6 +4016,39 @@
       "t": "2026-11-23T08:45:41.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "a6988b9741": {
+      "g": "a6988b9741",
+      "u": "https://zaandijkleeft.nl/lichtjesfeest-rooswijk/",
+      "k": "Lichtjesfeest Rooswijk",
+      "bt": "",
+      "b": "zaandijk-leeft",
+      "n": "Zaandijk Leeft!",
+      "t": "2026-11-23T09:45:22.000Z",
+      "c": null,
+      "r": "ALG"
+    },
+    "85bdda2fb8": {
+      "g": "85bdda2fb8",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/ff388300-2126-4022-a835-c9f30f18907c",
+      "k": "Kennisgeving Wethouder Van der Laan: Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-22T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "f0c300837d": {
+      "g": "f0c300837d",
+      "u": "https://www.vervoerregio.nl/artikel/20261123-10-extra-elektrische-bussen-en-laadpunten-voor-gvb",
+      "k": "10 extra elektrische bussen en laadpunten voor GVB",
+      "bt": "",
+      "b": "vervoerregio-persberichten",
+      "n": "Vervoerregio — Persberichten Zaanstad",
+      "t": "2026-11-22T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
