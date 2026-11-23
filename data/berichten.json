@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T18:00:49.322Z",
+  "gegenereerdOp": "2026-11-23T19:01:03.107Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -501,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-23T16:00:49.285Z",
-      "gecontroleerdOp": "2026-11-23T18:00:49.322Z",
+      "gecontroleerdOp": "2026-11-23T19:01:03.107Z",
       "bronTitel": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
       "bronLengte": 9212,
       "checklist": {
@@ -10118,45 +10118,6 @@
         "658be6d1af",
         "8bba32efd0"
       ]
-    },
-    {
-      "id": "567a9b680c-v2",
-      "groepId": "567a9b680c",
-      "versie": 2,
-      "url": "https://www.deorkaan.nl/steekpartij-in-woning-zaandam-politie-zoekt-man-op-elektrische-fiets/",
-      "kop": "Steekpartij in woning Zaandam, politie zoekt man op elektrische fiets (Update: niet meer gezocht)",
-      "tekst": null,
-      "rubriek": "112",
-      "tagBron": "ai",
-      "herkomst": "signaal",
-      "prio": 3,
-      "tijd": "2026-11-09T18:00:59.108Z",
-      "heeftTijd": true,
-      "woorden": 244,
-      "afgekapt": false,
-      "bronId": "DeOrkaan",
-      "bronNaam": "DeOrkaan",
-      "ai": false,
-      "controle": "analyse-ok",
-      "eerstGezienOp": "2026-11-09T18:00:59.108Z",
-      "gecontroleerdOp": "2026-11-10T06:00:52.896Z",
-      "bronTitel": "Steekpartij in woning Zaandam, politie zoekt man op elektrische fiets (Update: niet meer gezocht)",
-      "bronLengte": 1463,
-      "checklist": {
-        "gevaar": true,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": true,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": 1,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": true
-      },
-      "checklistBron": "ai",
-      "analyse": true,
-      "tagVersie": 2
     }
   ]
 }
