@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-23T03:00:53.075Z",
+  "gegenereerdOp": "2026-11-23T04:00:56.067Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,10 +14,10 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 7,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 560,
+    "stukken": 553,
     "kandidaten": 28,
     "metAnker": 28,
     "zonderAnker": 0,
@@ -73,6 +73,92 @@
       ]
     },
     {
+      "key": "a:aea0d9f918",
+      "soort": "agenda",
+      "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+      "S": 0.16,
+      "Sa": 0.16,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.17,
+      "Kp": 0,
+      "n": 5,
+      "dagen": 5,
+      "bronnen": 1,
+      "ankers": [
+        "bedrijfspand",
+        "sluiting",
+        "last",
+        "stadhuisplein",
+        "afgegev"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-03T12:00:51.615Z",
+          "c": 0.93,
+          "plek": "kop",
+          "titel": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam"
+        },
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-05T04:00:52.742Z",
+          "c": 0.91,
+          "plek": "kop",
+          "titel": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam"
+        },
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-19T11:00:49.447Z",
+          "c": 0.7,
+          "plek": "intro",
+          "titel": "2026-11-19 TEST Donderdag 19 november 2026 TEST - TEST"
+        },
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-10-30T08:00:10.425Z",
+          "c": 0.69,
+          "plek": "intro",
+          "titel": "Invorderen dwangsom niet houden aan bestuursdwang verbouwen zonder vergunning Schoolpad 4 Zaandijk"
+        },
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-10-31T08:45:12.910Z",
+          "c": 0.69,
+          "plek": "intro",
+          "titel": "Verkeersbesluit plaatsen laadpaal voor elektrische auto's locatie Kaaikhof te Assendelft"
+        }
+      ]
+    },
+    {
+      "key": "a:adb796eec6",
+      "soort": "agenda",
+      "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+      "S": 0.05,
+      "Sa": 0.05,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.16,
+      "Kp": 0,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "hichtumstrat",
+        "nienk",
+        "sluiting"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-10T10:00:56.746Z",
+          "c": 0.91,
+          "plek": "kop",
+          "titel": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan"
+        }
+      ]
+    },
+    {
       "key": "a:ced2c284f8",
       "soort": "agenda",
       "kop": "Zaanstad Beraad Raadzaal",
@@ -96,34 +182,6 @@
           "c": 0.89,
           "plek": "kop",
           "titel": "Raadsvergadering: Begroting"
-        }
-      ]
-    },
-    {
-      "key": "a:adb796eec6",
-      "soort": "agenda",
-      "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
-      "S": 0.05,
-      "Sa": 0.05,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.3,
-      "Kp": 0.15,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "hichtumstrat",
-        "nienk",
-        "sluiting"
-      ],
-      "bewijs": [
-        {
-          "bron": "ibabs-collegeberichten",
-          "datum": "2026-11-05T23:00:00.000Z",
-          "c": 0.86,
-          "plek": "kop",
-          "titel": "Kennisgeving burgemeester Hamming: Verlenging sluiting woning Zuiddijk 172 en cameratoezicht"
         }
       ]
     },
@@ -592,27 +650,6 @@
       "bronnen": 0,
       "ankers": [
         "upfest"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:aea0d9f918",
-      "soort": "agenda",
-      "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.15,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "bedrijfspand",
-        "sluiting",
-        "last",
-        "afgegev"
       ],
       "bewijs": []
     },
@@ -3381,6 +3418,14 @@
         "n": 1,
         "bronnen": 1
       },
+      "a:aea0d9f918": {
+        "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+        "S": 0.16,
+        "route": "aanhoudend",
+        "K": 0.17,
+        "n": 5,
+        "bronnen": 1
+      },
       "a:ced2c284f8": {
         "kop": "Zaanstad Beraad Raadzaal",
         "S": 0.05,
@@ -3554,14 +3599,6 @@
         "S": 0,
         "route": "geen",
         "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:aea0d9f918": {
-        "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
-        "S": 0,
-        "route": "geen",
-        "K": 0.15,
         "n": 0,
         "bronnen": 0
       },
