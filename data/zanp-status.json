@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-22T23:00:56.000Z",
+  "gegenereerdOp": "2026-11-23T00:00:48.727Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-22T23:00:56.000Z",
+      "laatsteScrape": "2026-11-23T00:00:48.727Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,7 +55,7 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-22T23:00:56.000Z",
+      "laatsteScrape": "2026-11-23T00:00:48.727Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-22T23:00:56.000Z",
+      "laatsteScrape": "2026-11-23T00:00:48.727Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 50,
+      "opeenvolgendLeeg": 51,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-22T23:00:56.000Z",
+      "laatsteScrape": "2026-11-23T00:00:48.727Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 212,
+      "opeenvolgendLeeg": 213,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-21T02:00:53.368Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-22T23:00:56.000Z",
+      "laatsteScrape": "2026-11-23T00:00:48.727Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 257,
+      "opeenvolgendLeeg": 258,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-22T19:00:48.169Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-22T23:00:56.000Z",
+      "laatsteScrape": "2026-11-23T00:00:48.727Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 26,
+      "opeenvolgendLeeg": 27,
       "opeenvolgendFout": 0
     }
   },
@@ -404,7 +404,7 @@
       "bijgewerkt": 0,
       "behouden": 228,
       "verdwenen": 0,
-      "verlopen": 23,
+      "verlopen": 0,
       "uitBerichten": 13,
       "uitCamera": 3,
       "zichtbaar": 72,
@@ -445,7 +445,7 @@
         "uitgesteld": 0
       },
       "vergeten": 0,
-      "tekstenOpgeruimd": 1,
+      "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 560,
       "kandidaten": 29,
