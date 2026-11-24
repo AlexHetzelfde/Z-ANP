@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T05:00:46.878Z",
+  "gegenereerdOp": "2026-11-24T05:53:10.175Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -156,8 +156,8 @@
       "key": "a:adb796eec6",
       "soort": "agenda",
       "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
-      "S": 0.2,
-      "Sa": 0.2,
+      "S": 0.19,
+      "Sa": 0.19,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.17,
