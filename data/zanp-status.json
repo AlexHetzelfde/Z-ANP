@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T16:00:51.572Z",
+  "gegenereerdOp": "2026-11-24T17:00:55.367Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-24T16:00:51.572Z",
+      "laatsteScrape": "2026-11-24T17:00:55.367Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,12 +55,12 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-24T16:00:51.572Z",
-      "gevonden": 3,
-      "opeenvolgendLeeg": 0,
-      "opeenvolgendFout": 0,
+      "laatsteScrape": "2026-11-24T17:00:55.367Z",
+      "gevonden": 0,
+      "opeenvolgendLeeg": 1,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-18T10:00:48.630Z",
+        "tijd": "2026-11-24T17:00:55.367Z",
         "bericht": "time-out na 45.0s bij nh-cultuur",
         "duurSec": 45
       }
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-24T16:00:51.572Z",
+      "laatsteScrape": "2026-11-24T17:00:55.367Z",
       "gevonden": 2,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-24T16:00:51.572Z",
+      "laatsteScrape": "2026-11-24T17:00:55.367Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 253,
+      "opeenvolgendLeeg": 254,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-23T21:00:59.066Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-24T16:00:51.572Z",
+      "laatsteScrape": "2026-11-24T17:00:55.367Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 298,
+      "opeenvolgendLeeg": 299,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-24T14:00:50.858Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-24T16:00:51.572Z",
+      "laatsteScrape": "2026-11-24T17:00:55.367Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 67,
+      "opeenvolgendLeeg": 68,
       "opeenvolgendFout": 0
     }
   },
@@ -384,18 +384,18 @@
     },
     "2026-11-24": {
       "verzoeken": 0,
-      "berichten": 39,
+      "berichten": 45,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 39,
+      "fout": 45,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 18
+      "runs": 19
     }
   },
   "laatsteRun": {
@@ -412,9 +412,9 @@
       "inAfwachting": 0
     },
     "berichten": {
-      "nieuw": 1,
+      "nieuw": 0,
       "update": 0,
-      "opnieuw": 5,
+      "opnieuw": 6,
       "ongewijzigd": 0,
       "seed": 0
     },
@@ -438,8 +438,8 @@
       "ai": true,
       "formule": "v4-22806000",
       "tekst": {
-        "werklijst": 1,
-        "lokaal": 1,
+        "werklijst": 0,
+        "lokaal": 0,
         "opgehaald": 0,
         "mislukt": 0,
         "uitgesteld": 0
@@ -472,7 +472,7 @@
       "alRood": 1
     },
     "dossiers": {
-      "stubsNieuw": 1,
+      "stubsNieuw": 0,
       "stubsVerlopen": 0,
       "stubsTotaal": 374,
       "verhalen": 351,

@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T16:00:51.572Z",
+  "gegenereerdOp": "2026-11-24T17:00:55.367Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-24T16:00:51.572Z",
+      "gecontroleerdOp": "2026-11-24T17:00:55.367Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -463,7 +463,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-24T16:00:51.572Z",
+      "gecontroleerdOp": "2026-11-24T17:00:55.367Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -501,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-24T16:00:51.572Z",
+      "gecontroleerdOp": "2026-11-24T17:00:55.367Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -539,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-24T16:00:51.572Z",
+      "gecontroleerdOp": "2026-11-24T17:00:55.367Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -577,7 +577,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T16:00:51.572Z",
-      "gecontroleerdOp": "2026-11-24T16:00:51.572Z",
+      "gecontroleerdOp": "2026-11-24T17:00:55.367Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 3305,
       "checklist": {
@@ -592,7 +592,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "12c67447e2-v1",
@@ -728,7 +729,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-23T16:00:49.285Z",
-      "gecontroleerdOp": "2026-11-24T16:00:51.572Z",
+      "gecontroleerdOp": "2026-11-24T17:00:55.367Z",
       "bronTitel": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
       "bronLengte": 9212,
       "checklist": {
