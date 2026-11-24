@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T13:00:51.352Z",
+  "gegenereerdOp": "2026-11-24T14:00:50.858Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 3,
-      "lokaal": 3,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 559,
-    "kandidaten": 36,
-    "metAnker": 36,
+    "stukken": 560,
+    "kandidaten": 37,
+    "metAnker": 37,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -762,6 +762,28 @@
       "ankers": [
         "pardebloemweg",
         "moske"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_vraagt_aandacht_veiligheid_weginspecteurs_na_aanrijding_dienstwagen",
+      "soort": "nieuws",
+      "kop": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.73,
+      "Kp": 0.54,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "weginspecteur",
+        "dienstwag",
+        "anrijding",
+        "veiligheid",
+        "wesley"
       ],
       "bewijs": []
     },

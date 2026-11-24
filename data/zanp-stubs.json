@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-24T13:00:51.352Z",
+  "bijgewerkt": "2026-11-24T14:00:50.858Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4093,6 +4093,17 @@
       "t": "2026-11-24T09:36:39.000Z",
       "c": null,
       "r": "VER"
+    },
+    "9ed21ecdbd": {
+      "g": "9ed21ecdbd",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_vraagt_aandacht_veiligheid_weginspecteurs_na_aanrijding_dienstwagen",
+      "k": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-24T13:52:37.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }
