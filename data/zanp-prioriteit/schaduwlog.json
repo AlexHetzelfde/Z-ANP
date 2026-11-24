@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T06:00:48.369Z",
+  "gegenereerdOp": "2026-11-24T07:01:00.248Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -89,8 +89,8 @@
       "key": "a:a7d8a22d6c",
       "soort": "agenda",
       "kop": "WC-Symposium",
-      "S": 0.26,
-      "Sa": 0.26,
+      "S": 0.25,
+      "Sa": 0.25,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.64,
