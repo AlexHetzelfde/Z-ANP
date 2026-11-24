@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T14:00:50.858Z",
+  "gegenereerdOp": "2026-11-24T15:00:54.846Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-24T14:00:50.858Z",
+      "gecontroleerdOp": "2026-11-24T15:00:54.846Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -440,7 +440,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "b3f6ac7d68-v1",
@@ -462,7 +463,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-24T14:00:50.858Z",
+      "gecontroleerdOp": "2026-11-24T15:00:54.846Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -500,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-24T14:00:50.858Z",
+      "gecontroleerdOp": "2026-11-24T15:00:54.846Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -538,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-24T14:00:50.858Z",
+      "gecontroleerdOp": "2026-11-24T15:00:54.846Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -690,7 +691,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-23T16:00:49.285Z",
-      "gecontroleerdOp": "2026-11-24T14:00:50.858Z",
+      "gecontroleerdOp": "2026-11-24T15:00:54.846Z",
       "bronTitel": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
       "bronLengte": 9212,
       "checklist": {
@@ -9118,44 +9119,6 @@
       "checklistBron": "ai",
       "tagVersie": 2,
       "analyse": true
-    },
-    {
-      "id": "026e4c1152-v1",
-      "groepId": "026e4c1152",
-      "versie": 1,
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/1_9_miljoen_subsidie_Rijk_voor_doorfietsroutes_Hilversum_Utrecht_en_Heerhugowaard_Zuid_Scharwoude",
-      "kop": "Provincie Noord-Holland ontvangt 1,9 miljoen euro Rijkssubsidie voor twee doorfietsroutes",
-      "tekst": "De provincie Noord-Holland ontvangt in totaal 1,9 miljoen euro aan subsidie van het Rijk voor de aanleg van de doorfietsroutes F27 tussen Utrecht en Hilversum en de F194 tussen Heerhugowaard en Zuid-Scharwoude. Een deel van het bedrag is bestemd voor de betrokken gemeenten. De werkzaamheden aan de F27 zijn naar planning afgerond in 2029.",
-      "rubriek": "PRV",
-      "tagBron": "ai",
-      "herkomst": "officieel",
-      "prio": 3,
-      "tijd": "2026-11-10T14:55:22.000Z",
-      "heeftTijd": true,
-      "woorden": 487,
-      "afgekapt": false,
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": true,
-      "controle": "cijfers-ok",
-      "eerstGezienOp": "2026-11-11T14:01:46.937Z",
-      "gecontroleerdOp": "2026-11-11T21:14:16.919Z",
-      "bronTitel": "€ 1,9 miljoen subsidie Rijk voor doorfietsroutes Hilversum - Utrecht en Heerhugowaard - Zuid-Scharwoude",
-      "bronLengte": 3170,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": 1900000,
-        "banen": null,
-        "inRegio": false
-      },
-      "checklistBron": "ai",
-      "tagVersie": 2
     }
   ]
 }
