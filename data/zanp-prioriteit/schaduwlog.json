@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T15:00:54.846Z",
+  "gegenereerdOp": "2026-11-24T16:00:51.572Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 560,
-    "kandidaten": 37,
-    "metAnker": 37,
+    "stukken": 561,
+    "kandidaten": 38,
+    "metAnker": 38,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -35,6 +35,57 @@
     "rood": 1
   },
   "top": [
+    {
+      "key": "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/3c86e354-508d-47ac-889a-93a6cf5cda23",
+      "soort": "nieuws",
+      "kop": "Implementatie nieuw metronetwerk en maatregelen",
+      "S": 0.41,
+      "Sa": 0.41,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.79,
+      "Kp": 0.5,
+      "n": 3,
+      "dagen": 3,
+      "bronnen": 1,
+      "ankers": [
+        "implementati",
+        "metronetwerk",
+        "toezegging",
+        "beantwording",
+        "moeskop",
+        "regiorad",
+        "matregel",
+        "terugkom",
+        "verdelsleutel",
+        "cofinanciering",
+        "matregelenpakket",
+        "betreffend"
+      ],
+      "bewijs": [
+        {
+          "bron": "vervoerregio-overzichten",
+          "datum": "2026-11-09T23:00:00.000Z",
+          "c": 0.97,
+          "plek": "kop",
+          "titel": "Nieuw metronetwerk Amsterdam"
+        },
+        {
+          "bron": "vervoerregio-overzichten",
+          "datum": "2026-11-12T23:00:00.000Z",
+          "c": 0.95,
+          "plek": "kop",
+          "titel": "Proefweekend nieuw metronetwerk en onveiligheid Van der Madeweg"
+        },
+        {
+          "bron": "vervoerregio-overzichten",
+          "datum": "2026-11-22T23:00:00.000Z",
+          "c": 0.68,
+          "plek": "intro",
+          "titel": "Aanvullende vragen nieuwe ov-abonnementenstructuur"
+        }
+      ]
+    },
     {
       "key": "a:aea0d9f918",
       "soort": "agenda",
@@ -3630,6 +3681,14 @@
       }
     },
     "2026-11-24": {
+      "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/3c86e354-508d-47ac-889a-93a6cf5cda23": {
+        "kop": "Implementatie nieuw metronetwerk en maatregelen",
+        "S": 0.41,
+        "route": "aanhoudend",
+        "K": 0.79,
+        "n": 3,
+        "bronnen": 1
+      },
       "a:aea0d9f918": {
         "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
         "S": 0.27,
@@ -3819,14 +3878,6 @@
         "S": 0,
         "route": "geen",
         "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:860bf35798": {
-        "kop": "Tegen verkeersbesluit 10407261 plaatsen laadpaal locatie Saendelverlaan Assendelft",
-        "S": 0,
-        "route": "geen",
-        "K": 0.3,
         "n": 0,
         "bronnen": 0
       }

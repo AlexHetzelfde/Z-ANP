@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-24T15:00:54.846Z",
+  "bijgewerkt": "2026-11-24T16:00:51.572Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4104,6 +4104,17 @@
       "t": "2026-11-24T13:52:37.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "7263a9cdaa": {
+      "g": "7263a9cdaa",
+      "u": "https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/3c86e354-508d-47ac-889a-93a6cf5cda23",
+      "k": "Implementatie nieuw metronetwerk en maatregelen",
+      "bt": "",
+      "b": "vervoerregio-overzichten",
+      "n": "Vervoerregio: Overzichten (iBabs)",
+      "t": "2026-11-23T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
