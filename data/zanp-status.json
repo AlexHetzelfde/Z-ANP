@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T17:00:55.367Z",
+  "gegenereerdOp": "2026-11-24T17:28:10.379Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-24T17:00:55.367Z",
+      "laatsteScrape": "2026-11-24T17:28:10.379Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,10 +55,10 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-24T17:00:55.367Z",
-      "gevonden": 0,
-      "opeenvolgendLeeg": 1,
-      "opeenvolgendFout": 1,
+      "laatsteScrape": "2026-11-24T17:28:10.379Z",
+      "gevonden": 3,
+      "opeenvolgendLeeg": 0,
+      "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-24T17:00:55.367Z",
         "bericht": "time-out na 45.0s bij nh-cultuur",
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-24T17:00:55.367Z",
+      "laatsteScrape": "2026-11-24T17:28:10.379Z",
       "gevonden": 2,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-24T17:00:55.367Z",
+      "laatsteScrape": "2026-11-24T17:28:10.379Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 254,
+      "opeenvolgendLeeg": 255,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-23T21:00:59.066Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-24T17:00:55.367Z",
+      "laatsteScrape": "2026-11-24T17:28:10.379Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 299,
+      "opeenvolgendLeeg": 300,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-24T14:00:50.858Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-24T17:00:55.367Z",
+      "laatsteScrape": "2026-11-24T17:28:10.379Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 68,
+      "opeenvolgendLeeg": 69,
       "opeenvolgendFout": 0
     }
   },
@@ -384,18 +384,18 @@
     },
     "2026-11-24": {
       "verzoeken": 0,
-      "berichten": 45,
+      "berichten": 51,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 45,
+      "fout": 51,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 19
+      "runs": 20
     }
   },
   "laatsteRun": {
