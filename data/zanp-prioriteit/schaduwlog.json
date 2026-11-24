@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T22:00:47.615Z",
+  "gegenereerdOp": "2026-11-24T23:01:18.791Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
+      "werklijst": 2,
       "lokaal": 0,
-      "opgehaald": 0,
+      "opgehaald": 2,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
-    "tekstenOpgeruimd": 0,
+    "vergeten": 8,
+    "tekstenOpgeruimd": 1,
     "tekstDekkingPct": 100,
-    "stukken": 560,
-    "kandidaten": 37,
-    "metAnker": 37,
+    "stukken": 554,
+    "kandidaten": 39,
+    "metAnker": 39,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -130,7 +130,7 @@
         {
           "bron": "zaanstad-hoorzittingen",
           "datum": "2026-11-05T04:00:52.742Z",
-          "c": 0.91,
+          "c": 0.9,
           "plek": "kop",
           "titel": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam"
         }
@@ -283,6 +283,60 @@
       ]
     },
     {
+      "key": "a:860bf35798",
+      "soort": "agenda",
+      "kop": "Tegen verkeersbesluit 10407261 plaatsen laadpaal locatie Saendelverlaan Assendelft",
+      "S": 0.11,
+      "Sa": 0.11,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.31,
+      "Kp": 0.15,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "saendelverlan",
+        "ladpal"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-18T15:00:53.808Z",
+          "c": 1,
+          "plek": "kop",
+          "titel": "Afwijzing verzoek tot handhaving verwijderen laadpaal Leverkruidweg t.h.v. Fluitekruidweg 1."
+        }
+      ]
+    },
+    {
+      "key": "a:e38b5e1899",
+      "soort": "agenda",
+      "kop": "Last onder dwangsom m.b.t. schuttingen locatie Fluitekruidweg 1 Zaandam",
+      "S": 0.11,
+      "Sa": 0.11,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.16,
+      "Kp": 0,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "fluitekruidweg",
+        "schutting"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-18T15:00:53.808Z",
+          "c": 1,
+          "plek": "kop",
+          "titel": "Afwijzing verzoek tot handhaving verwijderen laadpaal Leverkruidweg t.h.v. Fluitekruidweg 1."
+        }
+      ]
+    },
+    {
       "key": "a:e694b9a1f5",
       "soort": "agenda",
       "kop": "Sluiting woning i.v.m. overtreding Opiumwet Parkrijklaan 101 te Assendelft",
@@ -428,6 +482,33 @@
           "c": 0.65,
           "plek": "intro",
           "titel": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie"
+        }
+      ]
+    },
+    {
+      "key": "a:17ea10e19c",
+      "soort": "agenda",
+      "kop": "Invordering dwangsom m.b.t. locatie Kopermolenstraat 44 te Zaandam",
+      "S": 0.03,
+      "Sa": 0.03,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.15,
+      "Kp": 0,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "kopermolenstrat",
+        "invordering"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-hoorzittingen",
+          "datum": "2026-11-05T04:00:52.742Z",
+          "c": 1,
+          "plek": "kop",
+          "titel": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam"
         }
       ]
     },
@@ -760,44 +841,6 @@
       "bewijs": []
     },
     {
-      "key": "a:860bf35798",
-      "soort": "agenda",
-      "kop": "Tegen verkeersbesluit 10407261 plaatsen laadpaal locatie Saendelverlaan Assendelft",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.3,
-      "Kp": 0.15,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "saendelverlan",
-        "ladpal"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "a:e38b5e1899",
-      "soort": "agenda",
-      "kop": "Last onder dwangsom m.b.t. schuttingen locatie Fluitekruidweg 1 Zaandam",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.15,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "fluitekruidweg",
-        "schutting"
-      ],
-      "bewijs": []
-    },
-    {
       "key": "a:07b798f88b",
       "soort": "agenda",
       "kop": "Omgevingsvergunning bouwen van een moskee locatie Paardebloemweg 21 te Zaandam",
@@ -813,6 +856,28 @@
       "ankers": [
         "pardebloemweg",
         "moske"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "a:13de5744fa",
+      "soort": "agenda",
+      "kop": "Afwijzing verzoek tot handhaving verwijderen laadpaal Leverkruidweg t.h.v. Fluitekruidweg 1.",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.15,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "afwijzing",
+        "leverkruidweg",
+        "verwijder",
+        "fluitekruidweg",
+        "ladpal"
       ],
       "bewijs": []
     },
@@ -1030,208 +1095,6 @@
     "aiPerVerzoek": 6
   },
   "dagen": {
-    "2026-11-11": {
-      "n:https://zoek.officielebekendmakingen.nl/gmb-2026-523105.html": {
-        "kop": "Melding graven bodem - Nabij Gedempte Gracht 9 Zaandam , 4 meter richting zuidwesten",
-        "S": 0.55,
-        "route": "aanhoudend",
-        "K": 0.66,
-        "n": 4,
-        "bronnen": 2
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/401754a8-35b9-4379-8e55-667b9bfe6a05": {
-        "kop": "Kennisgeving wethouder Onclin: Subsidieregeling decentrale politieke partijen Zaanstad",
-        "S": 0.52,
-        "route": "aanhoudend",
-        "K": 0.55,
-        "n": 4,
-        "bronnen": 2
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/16cbc9ca-ebdf-44bd-af0e-f3db7fe89f77": {
-        "kop": "Motie verworpen: Beetje tijd om vrij te stellen",
-        "S": 0.47,
-        "route": "aanhoudend",
-        "K": 0.63,
-        "n": 3,
-        "bronnen": 2
-      },
-      "n:https://www.deorkaan.nl/kruidvat-ziet-geen-datalek-bij-zichtbare-pincodes-maar-vragen-blijven/": {
-        "kop": "Kruidvat ziet geen datalek bij zichtbare pincodes, maar vragen blijven",
-        "S": 0.39,
-        "route": "aanhoudend",
-        "K": 0.63,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/d44474d6-6007-49ff-a9af-b054265fec57": {
-        "kop": "Motie aangenomen: A8-A9 Te groot voor de provincie, te belangrijk om te laten liggen",
-        "S": 0.31,
-        "route": "aanhoudend",
-        "K": 0.34,
-        "n": 3,
-        "bronnen": 2
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/2e2284e7-51cc-4a00-827e-d873824f6194": {
-        "kop": "Motie aangenomen: Wie niets geeft, kan niet terugverwachten",
-        "S": 0.29,
-        "route": "aanhoudend",
-        "K": 0.17,
-        "n": 3,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/stroomuitval-bij-zaans-medisch-centrum-zmc-brandweer-ter-plaatse/": {
-        "kop": "Stroomuitval bij Zaans Medisch Centrum (ZMC), brandweer ter plaatse – UPDATE",
-        "S": 0.27,
-        "route": "aanhoudend",
-        "K": 0.63,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/fabb398a-91c0-4ba1-9a5e-2633da400bd3": {
-        "kop": "Motie aangenomen: Niet omrijden, maar vrijstellen",
-        "S": 0.24,
-        "route": "aanhoudend",
-        "K": 0.17,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/pincodes-klanten-in-zaandam-beeld-kruidvat-onderzoekt-veiligheidslek-in-gehele-keten/": {
-        "kop": "Pincodes klanten in Zaandam beeld: Kruidvat onderzoekt veiligheidslek in gehele keten",
-        "S": 0.21,
-        "route": "aanhoudend",
-        "K": 0.47,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Besluiten_Provinciale_Staten_van_Noord_Holland_9_november_2026": {
-        "kop": "Besluiten Provinciale Staten van Noord-Holland 9 november 2026",
-        "S": 0.21,
-        "route": "aanhoudend",
-        "K": 0.92,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://ted.europa.eu/nl/notice/-/detail/777319-2026": {
-        "kop": "Aanbesteding afgerond zonder gunning: specialistische Jeugdhulp Segment B 2027 Zaanstreek-Waterland",
-        "S": 0.2,
-        "route": "aanhoudend",
-        "K": 0.31,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/een-rekening-van-vrouwe-justitia-bezwaar-phishing/": {
-        "kop": "Een rekening van Vrouwe Justitia? Bezwaar! (phishing)",
-        "S": 0.18,
-        "route": "aanhoudend",
-        "K": 0.62,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/themapad-in-assendelft-krijgt-stopverlichting-huh/": {
-        "kop": "Themapad in Assendelft krijgt ‘stopverlichting’ (huh?)",
-        "S": 0.18,
-        "route": "aanhoudend",
-        "K": 0.7,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/rechtbank-geen-celstraf-voor-doodrijden-hardloopster-op-leeghwaterweg/": {
-        "kop": "Rechtbank: geen celstraf voor doodrijden hardloopster op Leeghwaterweg",
-        "S": 0.18,
-        "route": "aanhoudend",
-        "K": 0.57,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/het-zaanse-voetbalweekend-%e2%9a%bd%ef%b8%8f-zege-vrouwen-zaandijk-derbyzeges-kfc-en-rood-wit-%f0%9f%8e%99/": {
-        "kop": "Het Zaanse voetbalweekend ⚽️ zege vrouwen Zaandijk, Derbyzeges KFC en Rood Wit 🎙",
-        "S": 0.18,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/d3e15c8e-7b51-4998-8026-3c24bae30b4c": {
-        "kop": "Motie verworpen: Voorkom stapeling van financiële lasten bij kwetsbare inwoners",
-        "S": 0.17,
-        "route": "aanhoudend",
-        "K": 0.74,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/9620c5e4-255c-451d-8e83-11e80b84cd05": {
-        "kop": "Nieuwsbrief november 2026",
-        "S": 0.14,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/fietstunnel-skoon-bijna-open-verlengde-stellingweg-weekend-dicht/": {
-        "kop": "Fietstunnel Skoon bijna open, Verlengde Stellingweg weekend dicht",
-        "S": 0.14,
-        "route": "aanhoudend",
-        "K": 0.51,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/eerste-zege-vrouwen-zaandijk-en-zcfc-verliest-van-tien-westzaners-%e2%9a%bd%ef%b8%8f/": {
-        "kop": "Eerste zege vrouwen Zaandijk en ZCFC verliest van tien Westzaners ⚽️",
-        "S": 0.13,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/300_000_subsidie_voor_Noord_Hollandse_energiecooperaties_vanaf_2027": {
-        "kop": "€ 300.000 subsidie voor Noord-Hollandse energiecoöperaties vanaf 2027",
-        "S": 0.11,
-        "route": "aanhoudend",
-        "K": 0.14,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/87aafb17-09d2-4fd5-bd65-fa1238f0a091": {
-        "kop": "Motie verworpen: Eerst kaders, dan extra camera’s",
-        "S": 0.09,
-        "route": "aanhoudend",
-        "K": 0.49,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:e205032688": {
-        "kop": "Geweigerde omgevingsvergunning voor aanleggen van een in- of uitrit locatie Raaigras 88 Assendelft",
-        "S": 0.08,
-        "route": "aanhoudend",
-        "K": 0.16,
-        "n": 2,
-        "bronnen": 1
-      },
-      "n:https://zaanstad.bestuurlijkeinformatie.nl/Reports/Item/f5a6eeda-d2d2-4433-b622-65022bbc6d0c": {
-        "kop": "Motie aangenomen: Nachttrein",
-        "S": 0.07,
-        "route": "aanhoudend",
-        "K": 0.21,
-        "n": 1,
-        "bronnen": 1
-      },
-      "a:1ebd6e1ddf": {
-        "kop": "Verkeersbesluit plaatsen laadpaal voor electrische auto's Matsmanzoom te Koog a/d Zaan",
-        "S": 0.07,
-        "route": "aanhoudend",
-        "K": 0.16,
-        "n": 1,
-        "bronnen": 1
-      },
-      "n:https://www.deorkaan.nl/sport-zaalkorfbal-van-start-kolf-kampioenen-bekend/": {
-        "kop": "Sport: zaalkorfbal van start, kolf-kampioenen bekend",
-        "S": 0.07,
-        "route": "aanhoudend",
-        "K": 0,
-        "n": 1,
-        "bronnen": 1
-      }
-    },
     "2026-11-12": {
       "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/4c2b4845-ac3f-41e9-aa74-4c4961b9b3a7": {
         "kop": "Kennisgeving burgemeester Hamming: Persbericht politie aanhouding verdachten explosies en beschieting in Zaanstreek",
@@ -3851,6 +3714,208 @@
       },
       "a:3542317e51": {
         "kop": "De Fabriek: Amélie - 25th Anniversary -",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      }
+    },
+    "2026-11-25": {
+      "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/3c86e354-508d-47ac-889a-93a6cf5cda23": {
+        "kop": "Implementatie nieuw metronetwerk en maatregelen",
+        "S": 0.41,
+        "route": "aanhoudend",
+        "K": 0.78,
+        "n": 3,
+        "bronnen": 1
+      },
+      "a:aea0d9f918": {
+        "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
+        "S": 0.25,
+        "route": "aanhoudend",
+        "K": 0.18,
+        "n": 4,
+        "bronnen": 1
+      },
+      "a:a7d8a22d6c": {
+        "kop": "WC-Symposium",
+        "S": 0.24,
+        "route": "aanhoudend",
+        "K": 0.62,
+        "n": 1,
+        "bronnen": 1
+      },
+      "n:https://zaandijkleeft.nl/lichtjesfeest-rooswijk/": {
+        "kop": "Lichtjesfeest Rooswijk",
+        "S": 0.19,
+        "route": "aanhoudend",
+        "K": 0.3,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:adb796eec6": {
+        "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
+        "S": 0.18,
+        "route": "aanhoudend",
+        "K": 0.17,
+        "n": 2,
+        "bronnen": 1
+      },
+      "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/77d8b591-f9c6-4a97-b8e1-8139c57042a4": {
+        "kop": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
+        "S": 0.18,
+        "route": "aanhoudend",
+        "K": 0.66,
+        "n": 2,
+        "bronnen": 2
+      },
+      "a:860bf35798": {
+        "kop": "Tegen verkeersbesluit 10407261 plaatsen laadpaal locatie Saendelverlaan Assendelft",
+        "S": 0.11,
+        "route": "aanhoudend",
+        "K": 0.31,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:e38b5e1899": {
+        "kop": "Last onder dwangsom m.b.t. schuttingen locatie Fluitekruidweg 1 Zaandam",
+        "S": 0.11,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:e694b9a1f5": {
+        "kop": "Sluiting woning i.v.m. overtreding Opiumwet Parkrijklaan 101 te Assendelft",
+        "S": 0.07,
+        "route": "aanhoudend",
+        "K": 0.16,
+        "n": 2,
+        "bronnen": 1
+      },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/ff388300-2126-4022-a835-c9f30f18907c": {
+        "kop": "Kennisgeving Wethouder Van der Laan: Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording",
+        "S": 0.06,
+        "route": "aanhoudend",
+        "K": 0.28,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ced2c284f8": {
+        "kop": "Zaanstad Beraad Raadzaal",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0.15,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:ce4ae67b87": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:4b9ea65ea4": {
+        "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:17ea10e19c": {
+        "kop": "Invordering dwangsom m.b.t. locatie Kopermolenstraat 44 te Zaandam",
+        "S": 0.03,
+        "route": "aanhoudend",
+        "K": 0.15,
+        "n": 1,
+        "bronnen": 1
+      },
+      "a:49fdd3264e": {
+        "kop": "Openhuis ISK",
+        "S": 0,
+        "route": "geen",
+        "K": 0.17,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:59c7d5db97": {
+        "kop": "Bijeenkomst 'Samenleven met ratten' Dierenbescherming",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:876bc64aab": {
+        "kop": "Inspiratiesessie Zaans Preventiemodel (ZPM)",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:f14947adc5": {
+        "kop": "Opening Virtueel TIJDmuseum",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:e09bb78351": {
+        "kop": "Orange The World: Op pad met ROSA!",
+        "S": 0,
+        "route": "geen",
+        "K": 0.17,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0074fed529": {
+        "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:a3ff11919d": {
+        "kop": "Symposium: Een stabielere samenleving begint thuis",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:fc98137cc9": {
+        "kop": "Technische briefing Variantenstudie N203",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:0a443011d0": {
+        "kop": "Raadsvergadering",
+        "S": 0,
+        "route": "geen",
+        "K": 0.15,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:d1fcd2e8f5": {
+        "kop": "Paul Haenen",
+        "S": 0,
+        "route": "geen",
+        "K": 0,
+        "n": 0,
+        "bronnen": 0
+      },
+      "a:04f0173d08": {
+        "kop": "Boban Benjamin Braspenning",
         "S": 0,
         "route": "geen",
         "K": 0,
