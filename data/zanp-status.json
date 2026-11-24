@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T07:01:00.248Z",
+  "gegenereerdOp": "2026-11-24T08:00:50.911Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-24T07:01:00.248Z",
+      "laatsteScrape": "2026-11-24T08:00:50.911Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-24T07:01:00.248Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-24T08:00:50.911Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-24T07:01:00.248Z",
+      "laatsteScrape": "2026-11-24T08:00:50.911Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-24T07:01:00.248Z",
+      "laatsteScrape": "2026-11-24T08:00:50.911Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 244,
+      "opeenvolgendLeeg": 245,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-23T21:00:59.066Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-24T07:01:00.248Z",
+      "laatsteScrape": "2026-11-24T08:00:50.911Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 289,
+      "opeenvolgendLeeg": 290,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-23T19:01:03.107Z",
@@ -170,15 +170,15 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-24T07:01:00.248Z",
+      "laatsteScrape": "2026-11-24T08:00:50.911Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 58,
+      "opeenvolgendLeeg": 59,
       "opeenvolgendFout": 0
     }
   },
   "bronnenZonderRubriek": [],
   "gemini": {
-    "dag": "2026-11-23",
+    "dag": "2026-11-24",
     "gebruikt": 0,
     "wachtTot": null,
     "dagcap": 80,
@@ -384,18 +384,18 @@
     },
     "2026-11-24": {
       "verzoeken": 0,
-      "berichten": 9,
+      "berichten": 10,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 9,
+      "fout": 10,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 9
+      "runs": 10
     }
   },
   "laatsteRun": {
