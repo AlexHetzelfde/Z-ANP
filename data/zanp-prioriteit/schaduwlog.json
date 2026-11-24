@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-24T12:00:48.887Z",
+  "gegenereerdOp": "2026-11-24T13:00:51.352Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 3,
+      "lokaal": 3,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 556,
-    "kandidaten": 33,
-    "metAnker": 33,
+    "stukken": 559,
+    "kandidaten": 36,
+    "metAnker": 36,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -93,7 +93,7 @@
       "Sa": 0.25,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.64,
+      "K": 0.63,
       "Kp": 0.38,
       "n": 1,
       "dagen": 1,
@@ -196,7 +196,7 @@
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.67,
-      "Kp": 0.4,
+      "Kp": 0.39,
       "n": 2,
       "dagen": 2,
       "bronnen": 2,
@@ -762,6 +762,69 @@
       "ankers": [
         "pardebloemweg",
         "moske"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Werkzaamheden_aan_viaduct_N244_bij_Middenbeemster_starten_in_augustus",
+      "soort": "nieuws",
+      "kop": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.73,
+      "Kp": 0.54,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "middenbemster",
+        "viaduct",
+        "n244"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kantoren_Noord_Holland_energiezuiniger",
+      "soort": "nieuws",
+      "kop": "Kantoren Noord-Holland energiezuiniger",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.3,
+      "Kp": 0.3,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "kantor",
+        "energiezuiniger",
+        "monitor",
+        "werklocatie"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Beperkingen_voor_scheepvaart_en_verkeersstops_voor_wegverkeer_tijdens_bouw_Stolperbrug",
+      "soort": "nieuws",
+      "kop": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.53,
+      "Kp": 0.34,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "stolperbrug",
+        "verkersstop",
+        "schepvart",
+        "wegverker",
+        "stolperbasculebrug"
       ],
       "bewijs": []
     },
