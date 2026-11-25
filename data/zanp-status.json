@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T19:00:49.947Z",
+  "gegenereerdOp": "2026-11-25T20:00:55.211Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-25T19:00:49.947Z",
+      "laatsteScrape": "2026-11-25T20:00:55.211Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-25T19:00:49.947Z",
-      "gevonden": 15,
+      "laatsteScrape": "2026-11-25T20:00:55.211Z",
+      "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-25T19:00:49.947Z",
+      "laatsteScrape": "2026-11-25T20:00:55.211Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-25T19:00:49.947Z",
+      "laatsteScrape": "2026-11-25T20:00:55.211Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 281,
+      "opeenvolgendLeeg": 282,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-25T13:00:50.312Z",
@@ -159,20 +159,20 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-25T19:00:49.947Z",
+      "laatsteScrape": "2026-11-25T20:00:55.211Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 326,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 327,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-25T12:00:49.684Z",
-        "bericht": "RSS-feed ophalen mislukt: fetch failed — oorzaak: AggregateError [ETIMEDOUT]",
+        "tijd": "2026-11-25T20:00:55.211Z",
+        "bericht": "RSS-feed ophalen mislukt: HTTP 403",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-25T19:00:49.947Z",
+      "laatsteScrape": "2026-11-25T20:00:55.211Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 95,
+      "opeenvolgendLeeg": 96,
       "opeenvolgendFout": 0
     }
   },
@@ -384,18 +384,18 @@
     },
     "2026-11-25": {
       "verzoeken": 0,
-      "berichten": 149,
+      "berichten": 160,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 149,
+      "fout": 160,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 21
+      "runs": 22
     }
   },
   "laatsteRun": {
