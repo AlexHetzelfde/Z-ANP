@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-25T06:00:44.884Z",
+  "bijgewerkt": "2026-11-25T07:00:49.994Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4126,6 +4126,39 @@
       "t": "2026-11-24T18:59:34.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "58cb28b308": {
+      "g": "58cb28b308",
+      "u": "https://odnzkg.nl/nieuws/update-samenwerking-noord-hollandse-omgevingsdiensten/",
+      "k": "Update samenwerking Noord-Hollandse omgevingsdiensten",
+      "bt": "",
+      "b": "omgevingsdienstnoordzeekanaal",
+      "n": "Omgevingsdienst Noordzeekanaalgebied",
+      "t": "2026-11-24T14:37:28.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "b95ff9c672": {
+      "g": "b95ff9c672",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3618e7b-a471-457c-bf28-97e387fb3800",
+      "k": "Kennisgeving wethouder Sahin: Vertrek programmadirecteuren Pact Zaandam Oost",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-23T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "70b3608a77": {
+      "g": "70b3608a77",
+      "u": "https://www.vervoerregio.nl/artikel/20261124-vervoerregio-vraagt-om-meer-bevoegdheden-voor-bekost",
+      "k": "Vervoerregio vraagt om meer bevoegdheden voor bekostiging infrastructuur",
+      "bt": "",
+      "b": "vervoerregio-persberichten",
+      "n": "Vervoerregio — Persberichten Zaanstad",
+      "t": "2026-11-23T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }

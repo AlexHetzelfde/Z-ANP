@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T06:00:44.884Z",
+  "gegenereerdOp": "2026-11-25T07:00:49.994Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 1,
-      "lokaal": 1,
+      "werklijst": 4,
+      "lokaal": 3,
       "opgehaald": 0,
-      "mislukt": 0,
+      "mislukt": 1,
       "uitgesteld": 0
     },
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 555,
-    "kandidaten": 40,
-    "metAnker": 40,
+    "stukken": 559,
+    "kandidaten": 44,
+    "metAnker": 44,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -130,7 +130,7 @@
         {
           "bron": "zaanstad-hoorzittingen",
           "datum": "2026-11-05T04:00:52.742Z",
-          "c": 0.91,
+          "c": 0.9,
           "plek": "kop",
           "titel": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam"
         }
@@ -140,8 +140,8 @@
       "key": "a:a7d8a22d6c",
       "soort": "agenda",
       "kop": "WC-Symposium",
-      "S": 0.24,
-      "Sa": 0.24,
+      "S": 0.23,
+      "Sa": 0.23,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.61,
@@ -598,6 +598,25 @@
       "bewijs": []
     },
     {
+      "key": "a:d6092ab3e6",
+      "soort": "agenda",
+      "kop": "Wintermarkt Zonnehoek",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "zonnehoek",
+        "wintermarkt"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "a:e09bb78351",
       "soort": "agenda",
       "kop": "Orange The World: Op pad met ROSA!",
@@ -904,6 +923,30 @@
       "bewijs": []
     },
     {
+      "key": "n:https://odnzkg.nl/nieuws/update-samenwerking-noord-hollandse-omgevingsdiensten/",
+      "soort": "nieuws",
+      "kop": "Update samenwerking Noord-Hollandse omgevingsdiensten",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "hollands",
+        "odijmond",
+        "odnzkg",
+        "ijmond",
+        "updat",
+        "samenwerking",
+        "algeme"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_vraagt_aandacht_veiligheid_weginspecteurs_na_aanrijding_dienstwagen",
       "soort": "nieuws",
       "kop": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
@@ -989,85 +1032,51 @@
       "bewijs": []
     },
     {
-      "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-546414.html",
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3618e7b-a471-457c-bf28-97e387fb3800",
       "soort": "nieuws",
-      "kop": "Melding toepassen grond en baggerspecie - Nabij Clusiusstraat 165 Zaandam , 46 meter richting zuidwesten",
+      "kop": "Kennisgeving wethouder Sahin: Vertrek programmadirecteuren Pact Zaandam Oost",
       "S": 0,
       "Sa": 0,
       "Sp": 0,
       "route": "geen",
-      "K": 0.15,
-      "Kp": 0.15,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "clusiusstrat",
-        "veken"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Nachtelijke_werkzaamheden_N205_voor_proef_met_busvervoer",
-      "soort": "nieuws",
-      "kop": "Nachtelijke werkzaamheden N205 voor proef met busvervoer",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.41,
-      "Kp": 0.23,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "proef",
-        "busvervoer",
-        "nachtelijk",
-        "n205",
-        "werkzamhed",
-        "rijstrok"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-543973.html",
-      "soort": "nieuws",
-      "kop": "Melding opslaan grond en baggerspecie - Nabij Boeilijn 7 Westzaan , 229 meter richting noordwesten",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.15,
-      "Kp": 0.15,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "boeilijn",
-        "opslan",
-        "loder",
-        "croklan"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.vervoerregio.nl/artikel/20261123-10-extra-elektrische-bussen-en-laadpunten-voor-gvb",
-      "soort": "nieuws",
-      "kop": "10 extra elektrische bussen en laadpunten voor GVB",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.19,
+      "K": 0.13,
       "Kp": 0,
       "n": 0,
       "dagen": 0,
       "bronnen": 0,
       "ankers": [
-        "ladpunt",
-        "elektrisch",
-        "schaf"
+        "sahin",
+        "vertrek",
+        "programmadirecteur",
+        "pact",
+        "pactpartner"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.vervoerregio.nl/artikel/20261124-vervoerregio-vraagt-om-meer-bevoegdheden-voor-bekost",
+      "soort": "nieuws",
+      "kop": "Vervoerregio vraagt om meer bevoegdheden voor bekostiging infrastructuur",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "bevoegdhed",
+        "bekostiging",
+        "wenen",
+        "infrastructur",
+        "vragt",
+        "heffing",
+        "bekostig",
+        "werkgeversheffing",
+        "gebiedsontwikkelar",
+        "profiter"
       ],
       "bewijs": []
     }
