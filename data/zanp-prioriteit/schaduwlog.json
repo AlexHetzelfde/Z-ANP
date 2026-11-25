@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T13:00:50.312Z",
+  "gegenereerdOp": "2026-11-25T14:00:50.807Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 1,
-      "lokaal": 1,
+      "werklijst": 2,
+      "lokaal": 2,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 560,
-    "kandidaten": 45,
-    "metAnker": 45,
+    "stukken": 562,
+    "kandidaten": 47,
+    "metAnker": 47,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -207,8 +207,8 @@
       "key": "a:adb796eec6",
       "soort": "agenda",
       "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
-      "S": 0.18,
-      "Sa": 0.18,
+      "S": 0.17,
+      "Sa": 0.17,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.17,
@@ -310,6 +310,39 @@
           "c": 0.92,
           "plek": "kop",
           "titel": "Terugkoppeling bestuurlijk overleg Meerjarenprogramma, Infrastructuur, Ruimte en Transport"
+        }
+      ]
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Gedeputeerde_Staten_stellen_N203_langs_spoor_in_Krommenie_voor",
+      "soort": "nieuws",
+      "kop": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
+      "S": 0.11,
+      "Sa": 0.11,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.71,
+      "Kp": 0.38,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "gedeputerd",
+        "n203",
+        "vermindert",
+        "verplatsing",
+        "stationsgebied",
+        "functionerend",
+        "stat",
+        "provincial"
+      ],
+      "bewijs": [
+        {
+          "bron": "nh-actueel",
+          "datum": "2026-11-11T17:08:26.000Z",
+          "c": 0.89,
+          "plek": "kop",
+          "titel": "Besluiten Provinciale Staten van Noord-Holland 9 november 2026"
         }
       ]
     },
@@ -932,6 +965,28 @@
       "bewijs": []
     },
     {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/De_Sandvennen_versterkt_Heemskerk_tegen_wateroverlast",
+      "soort": "nieuws",
+      "kop": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.34,
+      "Kp": 0.34,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "sandven",
+        "hemskerk",
+        "versterkt",
+        "wateroverlast",
+        "hemskerks"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Busreizigers_in_NoordWest_Noord_Holland_reizen_vanaf_juli_2028_met_Arriva",
       "soort": "nieuws",
       "kop": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
@@ -1036,47 +1091,6 @@
         "middenbemster",
         "viaduct",
         "n244"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kantoren_Noord_Holland_energiezuiniger",
-      "soort": "nieuws",
-      "kop": "Kantoren Noord-Holland energiezuiniger",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.3,
-      "Kp": 0.3,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "kantor",
-        "energiezuiniger",
-        "monitor",
-        "werklocatie"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_verbetert_samen_met_gebruikers_hub_Middenmeer_Zuid",
-      "soort": "nieuws",
-      "kop": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.29,
-      "Kp": 0.1,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "middenmer",
-        "verbetert",
-        "gebruiker"
       ],
       "bewijs": []
     }
@@ -3825,6 +3839,14 @@
         "n": 1,
         "bronnen": 1
       },
+      "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Gedeputeerde_Staten_stellen_N203_langs_spoor_in_Krommenie_voor": {
+        "kop": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
+        "S": 0.11,
+        "route": "aanhoudend",
+        "K": 0.71,
+        "n": 1,
+        "bronnen": 1
+      },
       "a:e694b9a1f5": {
         "kop": "Sluiting woning i.v.m. overtreding Opiumwet Parkrijklaan 101 te Assendelft",
         "S": 0.07,
@@ -3942,14 +3964,6 @@
         "S": 0,
         "route": "geen",
         "K": 0.15,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:d1fcd2e8f5": {
-        "kop": "Paul Haenen",
-        "S": 0,
-        "route": "geen",
-        "K": 0,
         "n": 0,
         "bronnen": 0
       }

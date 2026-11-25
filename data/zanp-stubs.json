@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-25T13:00:50.312Z",
+  "bijgewerkt": "2026-11-25T14:00:50.807Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4181,6 +4181,28 @@
       "t": "2026-11-25T13:18:35.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "6971a72fc2": {
+      "g": "6971a72fc2",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/De_Sandvennen_versterkt_Heemskerk_tegen_wateroverlast",
+      "k": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-25T14:21:23.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "cac89c3fbc": {
+      "g": "cac89c3fbc",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Gedeputeerde_Staten_stellen_N203_langs_spoor_in_Krommenie_voor",
+      "k": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-24T13:42:30.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
