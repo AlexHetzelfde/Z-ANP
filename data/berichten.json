@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T17:00:52.915Z",
+  "gegenereerdOp": "2026-11-25T18:00:49.361Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
       "bronLengte": 2071,
       "checklist": {
@@ -501,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T13:00:50.312Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
       "bronLengte": 3972,
       "checklist": {
@@ -539,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Provinciehuis kleurt oranje voor Orange the World",
       "bronLengte": 3036,
       "checklist": {
@@ -577,7 +577,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T06:00:44.884Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
       "bronLengte": 3109,
       "checklist": {
@@ -653,7 +653,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -691,7 +691,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T14:00:50.807Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
       "bronLengte": 2148,
       "checklist": {
@@ -729,7 +729,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -767,7 +767,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -805,7 +805,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T11:00:48.952Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
       "bronLengte": 2815,
       "checklist": {
@@ -843,7 +843,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -957,7 +957,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T16:00:51.572Z",
-      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
+      "gecontroleerdOp": "2026-11-25T18:00:49.361Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 3305,
       "checklist": {
@@ -7087,44 +7087,6 @@
           }
         ]
       },
-      "tagVersie": 2
-    },
-    {
-      "id": "bdc90b8b2d-v1",
-      "groepId": "bdc90b8b2d",
-      "versie": 1,
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Besluiten_Provinciale_Staten_van_Noord_Holland_9_november_2026",
-      "kop": "Provinciale Staten stemmen in met begroting 2027 en infrastructuurplan",
-      "tekst": "Provinciale Staten van Noord-Holland hebben ingestemd met de begroting voor 2027 en het meerjarenprogramma voor de infrastructuur. Tijdens de behandeling werden diverse moties aangenomen, waaronder voor extra steun aan groene vrijwilligers en betere veiligheid in het openbaar vervoer. Ook spraken de Staten over onderwerpen als klimaatbeleid, woningbouw en netcongestie.",
-      "rubriek": "PRV",
-      "tagBron": "ai",
-      "herkomst": "officieel",
-      "prio": 3,
-      "tijd": "2026-11-11T17:08:26.000Z",
-      "heeftTijd": true,
-      "woorden": 863,
-      "afgekapt": true,
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": true,
-      "controle": "cijfers-ok",
-      "eerstGezienOp": "2026-11-11T21:14:16.919Z",
-      "gecontroleerdOp": "2026-11-12T18:48:17.455Z",
-      "bronTitel": "Besluiten Provinciale Staten van Noord-Holland 9 november 2026",
-      "bronLengte": 5997,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": true,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": true
-      },
-      "checklistBron": "ai",
       "tagVersie": 2
     }
   ]
