@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T12:33:54.459Z",
+  "gegenereerdOp": "2026-11-25T13:00:50.312Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,43 @@
   ],
   "berichten": [
     {
+      "id": "07a0c14ff8-v1",
+      "groepId": "07a0c14ff8",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Busreizigers_in_NoordWest_Noord_Holland_reizen_vanaf_juli_2028_met_Arriva",
+      "kop": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "bron",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-25T13:18:35.000Z",
+      "heeftTijd": true,
+      "woorden": 616,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": false,
+      "controle": "ai-fout",
+      "eerstGezienOp": "2026-11-25T13:00:50.312Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
+      "bronTitel": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
+      "bronLengte": 3972,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "patroon"
+    },
+    {
       "id": "4708615d40-v1",
       "groepId": "4708615d40",
       "versie": 1,
@@ -425,7 +462,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T06:00:44.884Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
       "bronLengte": 3109,
       "checklist": {
@@ -501,7 +538,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -539,7 +576,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -577,7 +614,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -615,7 +652,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T11:00:48.952Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
       "bronLengte": 2815,
       "checklist": {
@@ -653,7 +690,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -767,7 +804,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T16:00:51.572Z",
-      "gecontroleerdOp": "2026-11-25T12:33:54.459Z",
+      "gecontroleerdOp": "2026-11-25T13:00:50.312Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 3305,
       "checklist": {

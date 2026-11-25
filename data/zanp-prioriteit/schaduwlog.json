@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T12:33:54.459Z",
+  "gegenereerdOp": "2026-11-25T13:00:50.312Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 559,
-    "kandidaten": 44,
-    "metAnker": 44,
+    "stukken": 560,
+    "kandidaten": 45,
+    "metAnker": 45,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -932,6 +932,26 @@
       "bewijs": []
     },
     {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Busreizigers_in_NoordWest_Noord_Holland_reizen_vanaf_juli_2028_met_Arriva",
+      "soort": "nieuws",
+      "kop": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.54,
+      "Kp": 0.35,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "arriva",
+        "nordwest",
+        "busreiziger"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Peter_Derk_Wekx_en_Pieter_Kraaijeveld_nieuwe_directeuren_bij_provincie_Noord_Holland",
       "soort": "nieuws",
       "kop": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
@@ -1057,28 +1077,6 @@
         "middenmer",
         "verbetert",
         "gebruiker"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Beperkingen_voor_scheepvaart_en_verkeersstops_voor_wegverkeer_tijdens_bouw_Stolperbrug",
-      "soort": "nieuws",
-      "kop": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.53,
-      "Kp": 0.34,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "stolperbrug",
-        "verkersstop",
-        "schepvart",
-        "wegverker",
-        "stolperbasculebrug"
       ],
       "bewijs": []
     }
