@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-25T10:00:50.080Z",
+  "bijgewerkt": "2026-11-25T11:00:48.952Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4157,6 +4157,17 @@
       "b": "vervoerregio-persberichten",
       "n": "Vervoerregio — Persberichten Zaanstad",
       "t": "2026-11-23T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
+    },
+    "2093fcca7f": {
+      "g": "2093fcca7f",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_verbetert_samen_met_gebruikers_hub_Middenmeer_Zuid",
+      "k": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-24T10:11:13.000Z",
       "c": null,
       "r": "VER"
     }
