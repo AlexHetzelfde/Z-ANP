@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T03:00:46.648Z",
+  "gegenereerdOp": "2026-11-25T04:00:45.348Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-25T03:00:46.648Z",
+      "laatsteScrape": "2026-11-25T04:00:45.348Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,7 +55,7 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-25T03:00:46.648Z",
+      "laatsteScrape": "2026-11-25T04:00:45.348Z",
       "gevonden": 3,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -142,26 +142,26 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-25T03:00:46.648Z",
+      "laatsteScrape": "2026-11-25T04:00:45.348Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-25T03:00:46.648Z",
+      "laatsteScrape": "2026-11-25T04:00:45.348Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 265,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 266,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-23T21:00:59.066Z",
+        "tijd": "2026-11-25T04:00:45.348Z",
         "bericht": "Lijst ophalen mislukt: This operation was aborted",
         "duurSec": null
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-25T03:00:46.648Z",
+      "laatsteScrape": "2026-11-25T04:00:45.348Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 310,
+      "opeenvolgendLeeg": 311,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-24T23:01:18.791Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-25T03:00:46.648Z",
+      "laatsteScrape": "2026-11-25T04:00:45.348Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 79,
+      "opeenvolgendLeeg": 80,
       "opeenvolgendFout": 0
     }
   },
@@ -384,18 +384,18 @@
     },
     "2026-11-25": {
       "verzoeken": 0,
-      "berichten": 26,
+      "berichten": 30,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 26,
+      "fout": 30,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 5
+      "runs": 6
     }
   },
   "laatsteRun": {
@@ -414,8 +414,8 @@
     "berichten": {
       "nieuw": 0,
       "update": 0,
-      "opnieuw": 5,
-      "ongewijzigd": 0,
+      "opnieuw": 4,
+      "ongewijzigd": 1,
       "seed": 0
     },
     "cluster": {
@@ -488,12 +488,12 @@
     },
     "kwaliteit": {
       "verzoeken": 0,
-      "berichten": 5,
+      "berichten": 4,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 5,
+      "fout": 4,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
