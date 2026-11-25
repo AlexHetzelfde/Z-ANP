@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T14:00:50.807Z",
+  "gegenereerdOp": "2026-11-25T15:00:51.919Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -14,12 +14,12 @@
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 0,
+    "vergeten": 1,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 562,
-    "kandidaten": 47,
-    "metAnker": 47,
+    "kandidaten": 48,
+    "metAnker": 48,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -256,8 +256,8 @@
         "anvullend",
         "haneveld",
         "vragensteller",
-        "beantwording",
         "albert",
+        "beantwording",
         "klein",
         "regiorad",
         "schriftelijk",
@@ -269,7 +269,7 @@
         {
           "bron": "vervoerregio-overzichten",
           "datum": "2026-11-12T23:00:00.000Z",
-          "c": 0.69,
+          "c": 0.68,
           "plek": "intro",
           "titel": "Proefweekend nieuw metronetwerk en onveiligheid Van der Madeweg"
         },
@@ -1007,6 +1007,29 @@
       "bewijs": []
     },
     {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provinciehuis_kleurt_oranje_voor_Orange_the_World",
+      "soort": "nieuws",
+      "kop": "Provinciehuis kleurt oranje voor Orange the World",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.46,
+      "Kp": 0.34,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "orang",
+        "world",
+        "provinciehuis",
+        "kleurt",
+        "meldpunt",
+        "oranj"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Peter_Derk_Wekx_en_Pieter_Kraaijeveld_nieuwe_directeuren_bij_provincie_Noord_Holland",
       "soort": "nieuws",
       "kop": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
@@ -1069,28 +1092,8 @@
         "weginspecteur",
         "dienstwag",
         "anrijding",
-        "veiligheid",
-        "wesley"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Werkzaamheden_aan_viaduct_N244_bij_Middenbeemster_starten_in_augustus",
-      "soort": "nieuws",
-      "kop": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.73,
-      "Kp": 0.54,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "middenbemster",
-        "viaduct",
-        "n244"
+        "wesley",
+        "veiligheid"
       ],
       "bewijs": []
     }

@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-25T14:00:50.807Z",
+  "bijgewerkt": "2026-11-25T15:00:51.919Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4189,7 +4189,7 @@
       "bt": "",
       "b": "nh-actueel",
       "n": "Provincie Noord-Holland — Actueel",
-      "t": "2026-11-25T14:21:23.000Z",
+      "t": "2026-11-25T15:00:51.919Z",
       "c": null,
       "r": "PRV"
     },
@@ -4203,6 +4203,17 @@
       "t": "2026-11-24T13:42:30.000Z",
       "c": null,
       "r": "VER"
+    },
+    "5099755b05": {
+      "g": "5099755b05",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provinciehuis_kleurt_oranje_voor_Orange_the_World",
+      "k": "Provinciehuis kleurt oranje voor Orange the World",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-25T09:55:23.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }

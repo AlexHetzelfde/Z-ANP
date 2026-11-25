@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T14:00:50.807Z",
+  "gegenereerdOp": "2026-11-25T15:00:51.919Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -406,6 +406,43 @@
   ],
   "berichten": [
     {
+      "id": "6971a72fc2-v2",
+      "groepId": "6971a72fc2",
+      "versie": 2,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/De_Sandvennen_versterkt_Heemskerk_tegen_wateroverlast",
+      "kop": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "bron",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-25T15:00:51.919Z",
+      "heeftTijd": true,
+      "woorden": 292,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": false,
+      "controle": "ai-fout",
+      "eerstGezienOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "bronTitel": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
+      "bronLengte": 2071,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "patroon"
+    },
+    {
       "id": "6971a72fc2-v1",
       "groepId": "6971a72fc2",
       "versie": 1,
@@ -440,7 +477,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "07a0c14ff8-v1",
@@ -462,7 +500,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T13:00:50.312Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
       "bronLengte": 3972,
       "checklist": {
@@ -479,6 +517,43 @@
       },
       "checklistBron": "patroon",
       "tagVersie": 2
+    },
+    {
+      "id": "5099755b05-v1",
+      "groepId": "5099755b05",
+      "versie": 1,
+      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provinciehuis_kleurt_oranje_voor_Orange_the_World",
+      "kop": "Provinciehuis kleurt oranje voor Orange the World",
+      "tekst": null,
+      "rubriek": "PRV",
+      "tagBron": "trefwoord",
+      "herkomst": "officieel",
+      "prio": 3,
+      "tijd": "2026-11-25T09:55:23.000Z",
+      "heeftTijd": true,
+      "woorden": 472,
+      "afgekapt": false,
+      "bronId": "nh-actueel",
+      "bronNaam": "Provincie Noord-Holland — Actueel",
+      "ai": false,
+      "controle": "ai-fout",
+      "eerstGezienOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "bronTitel": "Provinciehuis kleurt oranje voor Orange the World",
+      "bronLengte": 3036,
+      "checklist": {
+        "gevaar": false,
+        "evacuatieOfNlAlert": false,
+        "gewondenOfDoden": false,
+        "bestuurlijkeCrisis": false,
+        "besluitMetGrootGevolg": false,
+        "tijdkritisch": false,
+        "betrokkenen": null,
+        "geldbedragEuro": null,
+        "banen": null,
+        "inRegio": false
+      },
+      "checklistBron": "patroon"
     },
     {
       "id": "4708615d40-v1",
@@ -500,7 +575,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T06:00:44.884Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
       "bronLengte": 3109,
       "checklist": {
@@ -576,7 +651,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -614,7 +689,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T14:00:50.807Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
       "bronLengte": 2148,
       "checklist": {
@@ -629,7 +704,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "b3f6ac7d68-v1",
@@ -651,7 +727,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -689,7 +765,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -727,7 +803,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T11:00:48.952Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
       "bronLengte": 2815,
       "checklist": {
@@ -765,7 +841,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -879,7 +955,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T16:00:51.572Z",
-      "gecontroleerdOp": "2026-11-25T14:00:50.807Z",
+      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 3305,
       "checklist": {
