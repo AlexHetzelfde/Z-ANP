@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T07:00:49.994Z",
+  "gegenereerdOp": "2026-11-25T08:00:45.776Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T06:00:44.884Z",
-      "gecontroleerdOp": "2026-11-25T07:00:49.994Z",
+      "gecontroleerdOp": "2026-11-25T08:00:45.776Z",
       "bronTitel": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
       "bronLengte": 3109,
       "checklist": {
@@ -478,7 +478,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "9ed21ecdbd-v1",
@@ -500,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-25T07:00:49.994Z",
+      "gecontroleerdOp": "2026-11-25T08:00:45.776Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -538,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T07:00:49.994Z",
+      "gecontroleerdOp": "2026-11-25T08:00:45.776Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -576,7 +577,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T07:00:49.994Z",
+      "gecontroleerdOp": "2026-11-25T08:00:45.776Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -614,7 +615,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T07:00:49.994Z",
+      "gecontroleerdOp": "2026-11-25T08:00:45.776Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -667,7 +668,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "70b3608a77-v1",
@@ -704,7 +706,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "7263a9cdaa-v1",
@@ -726,7 +729,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T16:00:51.572Z",
-      "gecontroleerdOp": "2026-11-25T07:00:49.994Z",
+      "gecontroleerdOp": "2026-11-25T08:00:45.776Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 3305,
       "checklist": {
