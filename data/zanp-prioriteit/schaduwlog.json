@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T15:00:51.919Z",
+  "gegenereerdOp": "2026-11-25T17:00:52.915Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 2,
-      "lokaal": 2,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
     },
-    "vergeten": 1,
+    "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
     "stukken": 562,
-    "kandidaten": 48,
-    "metAnker": 48,
+    "kandidaten": 43,
+    "metAnker": 43,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -44,7 +44,7 @@
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.76,
-      "Kp": 0.49,
+      "Kp": 0.48,
       "n": 3,
       "dagen": 3,
       "bronnen": 1,
@@ -174,36 +174,6 @@
       ]
     },
     {
-      "key": "n:https://zaandijkleeft.nl/lichtjesfeest-rooswijk/",
-      "soort": "nieuws",
-      "kop": "Lichtjesfeest Rooswijk",
-      "S": 0.18,
-      "Sa": 0.18,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.29,
-      "Kp": 0.12,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "lichtjesfest",
-        "roswijk",
-        "angela",
-        "pouwel",
-        "roswijkplein"
-      ],
-      "bewijs": [
-        {
-          "bron": "zaandijk-leeft",
-          "datum": "2026-11-21T12:39:03.000Z",
-          "c": 0.7,
-          "plek": "intro",
-          "titel": "Zaandijk is een kindvriendelijk dorp"
-        }
-      ]
-    },
-    {
       "key": "a:adb796eec6",
       "soort": "agenda",
       "kop": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam",
@@ -235,50 +205,6 @@
           "c": 0.88,
           "plek": "kop",
           "titel": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan"
-        }
-      ]
-    },
-    {
-      "key": "n:https://vervoerregio.bestuurlijkeinformatie.nl/Reports/Item/77d8b591-f9c6-4a97-b8e1-8139c57042a4",
-      "soort": "nieuws",
-      "kop": "Aanvullende vragen nieuwe ov-abonnementenstructuur",
-      "S": 0.17,
-      "Sa": 0.17,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.64,
-      "Kp": 0.38,
-      "n": 2,
-      "dagen": 2,
-      "bronnen": 2,
-      "ankers": [
-        "abonnementenstructur",
-        "anvullend",
-        "haneveld",
-        "vragensteller",
-        "albert",
-        "beantwording",
-        "klein",
-        "regiorad",
-        "schriftelijk",
-        "vervolgvrag",
-        "abonnementsstructur",
-        "kostenneutral"
-      ],
-      "bewijs": [
-        {
-          "bron": "vervoerregio-overzichten",
-          "datum": "2026-11-12T23:00:00.000Z",
-          "c": 0.68,
-          "plek": "intro",
-          "titel": "Proefweekend nieuw metronetwerk en onveiligheid Van der Madeweg"
-        },
-        {
-          "bron": "DeOrkaan",
-          "datum": "2026-11-03T23:00:00.000Z",
-          "c": 0.62,
-          "plek": "intro",
-          "titel": "Wel miljoenen voor bushaltes, geen cijfers over uitvallende EBS-bussen"
         }
       ]
     },
@@ -317,8 +243,8 @@
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Gedeputeerde_Staten_stellen_N203_langs_spoor_in_Krommenie_voor",
       "soort": "nieuws",
       "kop": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
-      "S": 0.11,
-      "Sa": 0.11,
+      "S": 0.1,
+      "Sa": 0.1,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.71,
@@ -432,35 +358,6 @@
           "c": 0.88,
           "plek": "kop",
           "titel": "Sluiting woning Nienke van Hichtumstraat 4 te Zaandam"
-        }
-      ]
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/ff388300-2126-4022-a835-c9f30f18907c",
-      "soort": "nieuws",
-      "kop": "Kennisgeving Wethouder Van der Laan: Concept Omgevingsvisie Noord-Holland en Nota van Beantwoording",
-      "S": 0.06,
-      "Sa": 0.06,
-      "Sp": 0,
-      "route": "aanhoudend",
-      "K": 0.27,
-      "Kp": 0.04,
-      "n": 1,
-      "dagen": 1,
-      "bronnen": 1,
-      "ankers": [
-        "concept",
-        "omgevingsvisi",
-        "beantwording",
-        "nota"
-      ],
-      "bewijs": [
-        {
-          "bron": "nh-actueel",
-          "datum": "2026-11-06T10:28:53.000Z",
-          "c": 1,
-          "plek": "kop",
-          "titel": "Gedeputeerde Staten stellen concept-Omgevingsvisie Noord-Holland vast"
         }
       ]
     },
@@ -1094,6 +991,67 @@
         "anrijding",
         "wesley",
         "veiligheid"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Werkzaamheden_aan_viaduct_N244_bij_Middenbeemster_starten_in_augustus",
+      "soort": "nieuws",
+      "kop": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.73,
+      "Kp": 0.54,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "middenbemster",
+        "viaduct",
+        "n244"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kantoren_Noord_Holland_energiezuiniger",
+      "soort": "nieuws",
+      "kop": "Kantoren Noord-Holland energiezuiniger",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.3,
+      "Kp": 0.3,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "kantor",
+        "energiezuiniger",
+        "monitor",
+        "werklocatie"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_verbetert_samen_met_gebruikers_hub_Middenmeer_Zuid",
+      "soort": "nieuws",
+      "kop": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.29,
+      "Kp": 0.1,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "middenmer",
+        "verbetert",
+        "gebruiker"
       ],
       "bewijs": []
     }

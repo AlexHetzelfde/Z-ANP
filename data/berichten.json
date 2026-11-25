@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T15:00:51.919Z",
+  "gegenereerdOp": "2026-11-25T17:00:52.915Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
       "bronLengte": 2071,
       "checklist": {
@@ -440,7 +440,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "6971a72fc2-v1",
@@ -500,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T13:00:50.312Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
       "bronLengte": 3972,
       "checklist": {
@@ -538,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Provinciehuis kleurt oranje voor Orange the World",
       "bronLengte": 3036,
       "checklist": {
@@ -553,7 +554,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "4708615d40-v1",
@@ -575,7 +577,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T06:00:44.884Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
       "bronLengte": 3109,
       "checklist": {
@@ -651,7 +653,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T14:00:50.858Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
       "bronLengte": 4556,
       "checklist": {
@@ -689,7 +691,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T14:00:50.807Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Gedeputeerde Staten stellen N203 langs spoor in Krommenie voor",
       "bronLengte": 2148,
       "checklist": {
@@ -727,7 +729,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
       "bronLengte": 2832,
       "checklist": {
@@ -765,7 +767,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Kantoren Noord-Holland energiezuiniger",
       "bronLengte": 4073,
       "checklist": {
@@ -803,7 +805,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T11:00:48.952Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
       "bronLengte": 2815,
       "checklist": {
@@ -841,7 +843,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T13:00:51.352Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
       "bronLengte": 2810,
       "checklist": {
@@ -955,7 +957,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-24T16:00:51.572Z",
-      "gecontroleerdOp": "2026-11-25T15:00:51.919Z",
+      "gecontroleerdOp": "2026-11-25T17:00:52.915Z",
       "bronTitel": "Implementatie nieuw metronetwerk en maatregelen",
       "bronLengte": 3305,
       "checklist": {
@@ -7121,44 +7123,6 @@
         "geldbedragEuro": null,
         "banen": null,
         "inRegio": true
-      },
-      "checklistBron": "ai",
-      "tagVersie": 2
-    },
-    {
-      "id": "122c8e9bd7-v1",
-      "groepId": "122c8e9bd7",
-      "versie": 1,
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/300_000_subsidie_voor_Noord_Hollandse_energiecooperaties_vanaf_2027",
-      "kop": "Provincie stelt 300.000 euro beschikbaar voor lokale energiecoöperaties",
-      "tekst": "De provincie Noord-Holland stelt een subsidie van 300.000 euro beschikbaar voor energiecoöperaties, verenigingen en stichtingen. Organisaties kunnen van 1 januari tot en met 1 oktober 2027 een aanvraag indienen tot maximaal 20.000 euro per project. Het geld is bedoeld om inwoners te helpen bij energiebesparing en het opwekken van duurzame energie.",
-      "rubriek": "PRV",
-      "tagBron": "ai",
-      "herkomst": "officieel",
-      "prio": 3,
-      "tijd": "2026-11-11T16:02:20.000Z",
-      "heeftTijd": true,
-      "woorden": 308,
-      "afgekapt": false,
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": true,
-      "controle": "cijfers-ok",
-      "eerstGezienOp": "2026-11-11T21:14:16.919Z",
-      "gecontroleerdOp": "2026-11-12T18:48:17.455Z",
-      "bronTitel": "€ 300.000 subsidie voor Noord-Hollandse energiecoöperaties vanaf 2027",
-      "bronLengte": 2137,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": 100,
-        "geldbedragEuro": 300000,
-        "banen": null,
-        "inRegio": false
       },
       "checklistBron": "ai",
       "tagVersie": 2
