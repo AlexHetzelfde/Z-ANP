@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T18:00:49.361Z",
+  "gegenereerdOp": "2026-11-25T19:00:49.947Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-25T18:00:49.361Z",
+      "laatsteScrape": "2026-11-25T19:00:49.947Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,8 +55,8 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-25T18:00:49.361Z",
-      "gevonden": 3,
+      "laatsteScrape": "2026-11-25T19:00:49.947Z",
+      "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
       "laatsteFout": {
@@ -142,15 +142,15 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-25T18:00:49.361Z",
+      "laatsteScrape": "2026-11-25T19:00:49.947Z",
       "gevonden": 1,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-25T18:00:49.361Z",
+      "laatsteScrape": "2026-11-25T19:00:49.947Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 280,
+      "opeenvolgendLeeg": 281,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-25T13:00:50.312Z",
@@ -159,9 +159,9 @@
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-25T18:00:49.361Z",
+      "laatsteScrape": "2026-11-25T19:00:49.947Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 325,
+      "opeenvolgendLeeg": 326,
       "opeenvolgendFout": 0,
       "laatsteFout": {
         "tijd": "2026-11-25T12:00:49.684Z",
@@ -170,9 +170,9 @@
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-25T18:00:49.361Z",
+      "laatsteScrape": "2026-11-25T19:00:49.947Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 94,
+      "opeenvolgendLeeg": 95,
       "opeenvolgendFout": 0
     }
   },
@@ -384,18 +384,18 @@
     },
     "2026-11-25": {
       "verzoeken": 0,
-      "berichten": 138,
+      "berichten": 149,
       "ok": 0,
       "analyseOk": 0,
       "cijfersAfgekeurd": 0,
       "onvoldoende": 0,
-      "fout": 138,
+      "fout": 149,
       "overgeslagen": 0,
       "tagAi": 0,
       "tagTrefwoord": 0,
       "tagBron": 0,
       "tagGeen": 0,
-      "runs": 20
+      "runs": 21
     }
   },
   "laatsteRun": {
