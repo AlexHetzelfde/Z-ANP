@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-25T05:00:44.611Z",
+  "gegenereerdOp": "2026-11-25T06:00:44.884Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 554,
-    "kandidaten": 39,
-    "metAnker": 39,
+    "stukken": 555,
+    "kandidaten": 40,
+    "metAnker": 40,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -130,7 +130,7 @@
         {
           "bron": "zaanstad-hoorzittingen",
           "datum": "2026-11-05T04:00:52.742Z",
-          "c": 0.9,
+          "c": 0.91,
           "plek": "kop",
           "titel": "Besluit tot invordering last onder dwangsom illegale woningsplitsing De Weer 23 Zaandam"
         }
@@ -379,7 +379,7 @@
       "Sa": 0.06,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.28,
+      "K": 0.27,
       "Kp": 0.04,
       "n": 1,
       "dagen": 1,
@@ -878,6 +878,28 @@
         "verwijder",
         "fluitekruidweg",
         "ladpal"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Peter_Derk_Wekx_en_Pieter_Kraaijeveld_nieuwe_directeuren_bij_provincie_Noord_Holland",
+      "soort": "nieuws",
+      "kop": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.13,
+      "Kp": 0,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "kraijeveld",
+        "pieter",
+        "peter",
+        "wekx",
+        "naturontwikkeling"
       ],
       "bewijs": []
     },

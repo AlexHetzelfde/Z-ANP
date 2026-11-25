@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-25T05:00:44.611Z",
+  "bijgewerkt": "2026-11-25T06:00:44.884Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4115,6 +4115,17 @@
       "t": "2026-11-23T23:00:00.000Z",
       "c": null,
       "r": "VER"
+    },
+    "4708615d40": {
+      "g": "4708615d40",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Peter_Derk_Wekx_en_Pieter_Kraaijeveld_nieuwe_directeuren_bij_provincie_Noord_Holland",
+      "k": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-24T18:59:34.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }
