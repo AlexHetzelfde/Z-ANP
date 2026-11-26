@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-26T08:00:46.928Z",
+  "gegenereerdOp": "2026-11-26T09:00:49.294Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": null,
       "eerstGezienOp": "2026-11-26T08:00:46.928Z",
-      "gecontroleerdOp": "2026-11-26T08:00:46.928Z",
+      "gecontroleerdOp": "2026-11-26T09:00:49.294Z",
       "bronTitel": "Schoorldammerbrug bij Warmenhuizen meerdere dagen afgesloten wegens onderhoud",
       "bronLengte": 2280,
       "checklist": {
@@ -440,7 +440,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "6971a72fc2-v2",
@@ -462,7 +463,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-26T08:00:46.928Z",
+      "gecontroleerdOp": "2026-11-26T09:00:49.294Z",
       "bronTitel": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
       "bronLengte": 2071,
       "checklist": {
@@ -538,7 +539,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T13:00:50.312Z",
-      "gecontroleerdOp": "2026-11-26T08:00:46.928Z",
+      "gecontroleerdOp": "2026-11-26T09:00:49.294Z",
       "bronTitel": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
       "bronLengte": 3972,
       "checklist": {
@@ -614,7 +615,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-26T08:00:46.928Z",
+      "gecontroleerdOp": "2026-11-26T09:00:49.294Z",
       "bronTitel": "Provinciehuis kleurt oranje voor Orange the World",
       "bronLengte": 3036,
       "checklist": {
@@ -6084,44 +6085,6 @@
       },
       "checklistBron": "ai",
       "analyse": true,
-      "tagVersie": 2
-    },
-    {
-      "id": "57352072e8-v1",
-      "groepId": "57352072e8",
-      "versie": 1,
-      "url": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_betrekt_belanghebbenden_bij_aanpak_stikstof_en_natuurherstel",
-      "kop": "Provincie Noord-Holland stelt participatieplan vast voor stikstof en natuurherstel",
-      "tekst": null,
-      "rubriek": "PRV",
-      "tagBron": "ai",
-      "herkomst": "officieel",
-      "prio": 3,
-      "tijd": "2026-11-12T08:04:04.000Z",
-      "heeftTijd": true,
-      "woorden": 449,
-      "afgekapt": false,
-      "bronId": "nh-actueel",
-      "bronNaam": "Provincie Noord-Holland — Actueel",
-      "ai": true,
-      "controle": "cijfers-ok",
-      "eerstGezienOp": "2026-11-12T10:52:59.944Z",
-      "gecontroleerdOp": "2026-11-13T06:30:43.224Z",
-      "bronTitel": "Provincie betrekt belanghebbenden bij aanpak stikstof en natuurherstel",
-      "bronLengte": 3191,
-      "checklist": {
-        "gevaar": false,
-        "evacuatieOfNlAlert": false,
-        "gewondenOfDoden": false,
-        "bestuurlijkeCrisis": false,
-        "besluitMetGrootGevolg": false,
-        "tijdkritisch": false,
-        "betrokkenen": null,
-        "geldbedragEuro": null,
-        "banen": null,
-        "inRegio": false
-      },
-      "checklistBron": "ai",
       "tagVersie": 2
     }
   ]
