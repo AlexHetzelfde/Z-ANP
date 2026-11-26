@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-26T02:00:50.842Z",
+  "gegenereerdOp": "2026-11-26T03:00:57.416Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,18 +8,18 @@
     "ai": true,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
-      "opgehaald": 0,
+      "werklijst": 7,
+      "lokaal": 6,
+      "opgehaald": 1,
       "mislukt": 0,
       "uitgesteld": 0
     },
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 562,
-    "kandidaten": 38,
-    "metAnker": 38,
+    "stukken": 569,
+    "kandidaten": 45,
+    "metAnker": 45,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -182,7 +182,7 @@
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.43,
-      "Kp": 0.25,
+      "Kp": 0.24,
       "n": 1,
       "dagen": 1,
       "bronnen": 1,
@@ -268,8 +268,8 @@
       "key": "a:e38b5e1899",
       "soort": "agenda",
       "kop": "Last onder dwangsom m.b.t. schuttingen locatie Fluitekruidweg 1 Zaandam",
-      "S": 0.1,
-      "Sa": 0.1,
+      "S": 0.09,
+      "Sa": 0.09,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.16,
@@ -349,6 +349,35 @@
           "datum": "2026-11-05T04:00:52.742Z",
           "c": 0.89,
           "plek": "kop",
+          "titel": "Raadsvergadering: Begroting"
+        }
+      ]
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/33bd783b-04ee-4650-8b3f-77c007454246",
+      "soort": "nieuws",
+      "kop": "Besluitenlijst B&W 17-11-2026",
+      "S": 0.04,
+      "Sa": 0.04,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.49,
+      "Kp": 0.15,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "besluitenlijst",
+        "subsidieregeling",
+        "besluitnota",
+        "anbiedingsbrief"
+      ],
+      "bewijs": [
+        {
+          "bron": "zaanstad-kalender",
+          "datum": "2026-11-05T04:00:52.742Z",
+          "c": 0.72,
+          "plek": "intro",
           "titel": "Raadsvergadering: Begroting"
         }
       ]
@@ -494,7 +523,9 @@
         "participati",
         "opvanglocatie",
         "emotie",
-        "workshop"
+        "workshop",
+        "relevant",
+        "academi"
       ],
       "bewijs": []
     },
@@ -566,7 +597,7 @@
         "opening",
         "vaststel",
         "verslag",
-        "besluitenlijst"
+        "netuitbreiding"
       ],
       "bewijs": []
     },
@@ -784,6 +815,31 @@
       "bewijs": []
     },
     {
+      "key": "n:https://odnzkg.nl/nieuws/omgevingsdienst-trekt-last-onder-dwangsom-tata-steel-voor-onvoldoende-medewerking-in/",
+      "soort": "nieuws",
+      "kop": "Omgevingsdienst trekt last onder dwangsom Tata Steel voor onvoldoende medewerking in",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.15,
+      "Kp": 0.15,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "medewerking",
+        "trekt",
+        "onvoldoend",
+        "tata",
+        "metbureaus",
+        "werkvergunning",
+        "bemoeilijkt",
+        "legde"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provinciehuis_kleurt_oranje_voor_Orange_the_World",
       "soort": "nieuws",
       "kop": "Provinciehuis kleurt oranje voor Orange the World",
@@ -803,6 +859,109 @@
         "kleurt",
         "meldpunt",
         "oranj"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/4c234012-3d9f-440a-87d9-e90e9b8c2741",
+      "soort": "nieuws",
+      "kop": "Start Omgevingsprogramma Volkshuisvesting Zaanstad",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.38,
+      "Kp": 0.22,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "omgevingsprogramma",
+        "volkshuisvesting",
+        "start",
+        "wonvisi"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7e90c069-f09b-4d84-a45e-22047f85fd5d",
+      "soort": "nieuws",
+      "kop": "Input voor de gemeenteraadsvergaderingen over de Zaanse Schans",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.33,
+      "Kp": 0.23,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "input",
+        "gementeradsvergadering",
+        "schan",
+        "bewonersvereniging",
+        "radstuk"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/2abfc102-7635-4996-8184-b0daa54b68db",
+      "soort": "nieuws",
+      "kop": "Spoedverzoek: publicatie brief klankbordgroep Parkeren Gouwpark – VVD-motie 26 november",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.49,
+      "Kp": 0.15,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "gouwpark",
+        "parker",
+        "spoedverzoek",
+        "klankbordgroep",
+        "publicati"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/a639c4a4-62ad-4be1-b4de-b527055da407",
+      "soort": "nieuws",
+      "kop": "Verzoek om beroep in te stellen tegen het Luchthavenverkeerbesluit Schiphol (LVB)",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.6,
+      "Kp": 0.45,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "luchthavenverkerbesluit",
+        "schiphol"
+      ],
+      "bewijs": []
+    },
+    {
+      "key": "n:https://www.vervoerregio.nl/artikel/20261124-een-aanvulling-op-het-ov",
+      "soort": "nieuws",
+      "kop": "Een aanvulling op het ov Vervoerregio ondersteunt vijf gemeentes met vrijwilligersvervoer",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.29,
+      "Kp": 0.1,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "vrijwilligersvervoer",
+        "gemente"
       ],
       "bewijs": []
     },
@@ -847,8 +1006,7 @@
         "odnzkg",
         "ijmond",
         "updat",
-        "samenwerking",
-        "algeme"
+        "samenwerking"
       ],
       "bewijs": []
     },
@@ -891,110 +1049,6 @@
         "middenbemster",
         "viaduct",
         "n244"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Kantoren_Noord_Holland_energiezuiniger",
-      "soort": "nieuws",
-      "kop": "Kantoren Noord-Holland energiezuiniger",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.3,
-      "Kp": 0.3,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "kantor",
-        "energiezuiniger",
-        "monitor",
-        "werklocatie"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Provincie_verbetert_samen_met_gebruikers_hub_Middenmeer_Zuid",
-      "soort": "nieuws",
-      "kop": "Provincie verbetert samen met gebruikers hub Middenmeer-Zuid",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.29,
-      "Kp": 0.1,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "middenmer",
-        "verbetert",
-        "gebruiker"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Beperkingen_voor_scheepvaart_en_verkeersstops_voor_wegverkeer_tijdens_bouw_Stolperbrug",
-      "soort": "nieuws",
-      "kop": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.53,
-      "Kp": 0.34,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "stolperbrug",
-        "verkersstop",
-        "schepvart",
-        "wegverker",
-        "stolperbasculebrug"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/f3618e7b-a471-457c-bf28-97e387fb3800",
-      "soort": "nieuws",
-      "kop": "Kennisgeving wethouder Sahin: Vertrek programmadirecteuren Pact Zaandam Oost",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.13,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "sahin",
-        "vertrek",
-        "programmadirecteur",
-        "pact",
-        "pactpartner"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://zoek.officielebekendmakingen.nl/gmb-2026-546414.html",
-      "soort": "nieuws",
-      "kop": "Melding toepassen grond en baggerspecie - Nabij Clusiusstraat 165 Zaandam , 46 meter richting zuidwesten",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.15,
-      "Kp": 0.15,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "clusiusstrat",
-        "veken"
       ],
       "bewijs": []
     }
@@ -3743,6 +3797,14 @@
         "n": 1,
         "bronnen": 1
       },
+      "n:https://zaanstad.bestuurlijkeinformatie.nl/Document/View/33bd783b-04ee-4650-8b3f-77c007454246": {
+        "kop": "Besluitenlijst B&W 17-11-2026",
+        "S": 0.04,
+        "route": "aanhoudend",
+        "K": 0.49,
+        "n": 1,
+        "bronnen": 1
+      },
       "a:ce4ae67b87": {
         "kop": "Maling Academie Najaar 2026 - Schrijf u in!!",
         "S": 0.03,
@@ -3860,14 +3922,6 @@
         "S": 0,
         "route": "geen",
         "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:07b798f88b": {
-        "kop": "Omgevingsvergunning bouwen van een moskee locatie Paardebloemweg 21 te Zaandam",
-        "S": 0,
-        "route": "geen",
-        "K": 0.48,
         "n": 0,
         "bronnen": 0
       }

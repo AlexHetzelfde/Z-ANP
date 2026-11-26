@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-26T02:00:50.842Z",
+  "bijgewerkt": "2026-11-26T03:00:57.416Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4214,6 +4214,83 @@
       "t": "2026-11-25T09:55:23.000Z",
       "c": null,
       "r": "PRV"
+    },
+    "71b44eeaff": {
+      "g": "71b44eeaff",
+      "u": "https://odnzkg.nl/nieuws/omgevingsdienst-trekt-last-onder-dwangsom-tata-steel-voor-onvoldoende-medewerking-in/",
+      "k": "Omgevingsdienst trekt last onder dwangsom Tata Steel voor onvoldoende medewerking in",
+      "bt": "",
+      "b": "omgevingsdienstnoordzeekanaal",
+      "n": "Omgevingsdienst Noordzeekanaalgebied",
+      "t": "2026-11-25T11:30:00.000Z",
+      "c": null,
+      "r": "PRV"
+    },
+    "f0002442d3": {
+      "g": "f0002442d3",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/4c234012-3d9f-440a-87d9-e90e9b8c2741",
+      "k": "Start Omgevingsprogramma Volkshuisvesting Zaanstad",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "WON"
+    },
+    "e34d68f835": {
+      "g": "e34d68f835",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/33bd783b-04ee-4650-8b3f-77c007454246",
+      "k": "Besluitenlijst B&W 17-11-2026",
+      "bt": "",
+      "b": "ibabs-collegeberichten",
+      "n": "Zaanstad — Collegeberichten (iBabs)",
+      "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "1fffd00f47": {
+      "g": "1fffd00f47",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/7e90c069-f09b-4d84-a45e-22047f85fd5d",
+      "k": "Input voor de gemeenteraadsvergaderingen over de Zaanse Schans",
+      "bt": "",
+      "b": "ibabs-ingekomen-stukken",
+      "n": "Zaanstad — Ingekomen stukken (iBabs)",
+      "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "1a1ab794e1": {
+      "g": "1a1ab794e1",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/2abfc102-7635-4996-8184-b0daa54b68db",
+      "k": "Spoedverzoek: publicatie brief klankbordgroep Parkeren Gouwpark – VVD-motie 26 november",
+      "bt": "",
+      "b": "ibabs-ingekomen-stukken",
+      "n": "Zaanstad — Ingekomen stukken (iBabs)",
+      "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "37ec8128be": {
+      "g": "37ec8128be",
+      "u": "https://zaanstad.bestuurlijkeinformatie.nl/Document/View/a639c4a4-62ad-4be1-b4de-b527055da407",
+      "k": "Verzoek om beroep in te stellen tegen het Luchthavenverkeerbesluit Schiphol (LVB)",
+      "bt": "",
+      "b": "ibabs-ingekomen-stukken",
+      "n": "Zaanstad — Ingekomen stukken (iBabs)",
+      "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "GEM"
+    },
+    "400817957d": {
+      "g": "400817957d",
+      "u": "https://www.vervoerregio.nl/artikel/20261124-een-aanvulling-op-het-ov",
+      "k": "Een aanvulling op het ov Vervoerregio ondersteunt vijf gemeentes met vrijwilligersvervoer",
+      "bt": "",
+      "b": "vervoerregio-persberichten",
+      "n": "Vervoerregio — Persberichten Zaanstad",
+      "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
     }
   }
 }
