@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-26T03:00:57.416Z",
+  "gegenereerdOp": "2026-11-26T04:00:56.397Z",
   "promptVersie": "2026-11-11-batch-kop-tag-checklist-agendapunten",
   "alertModus": "log",
   "prioSchaal": "1 = urgent, 2 = belangrijk, 3 = regulier, 4 = routine. De AI geeft nooit prio 1.",
@@ -425,7 +425,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-26T03:00:57.416Z",
+      "gecontroleerdOp": "2026-11-26T04:00:56.397Z",
       "bronTitel": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
       "bronLengte": 2071,
       "checklist": {
@@ -501,7 +501,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T13:00:50.312Z",
-      "gecontroleerdOp": "2026-11-26T03:00:57.416Z",
+      "gecontroleerdOp": "2026-11-26T04:00:56.397Z",
       "bronTitel": "Busreizigers in NoordWest Noord-Holland reizen vanaf juli 2028 met Arriva",
       "bronLengte": 3972,
       "checklist": {
@@ -554,7 +554,8 @@
         "banen": null,
         "inRegio": false
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "5099755b05-v1",
@@ -576,7 +577,7 @@
       "ai": false,
       "controle": "ai-fout",
       "eerstGezienOp": "2026-11-25T15:00:51.919Z",
-      "gecontroleerdOp": "2026-11-26T03:00:57.416Z",
+      "gecontroleerdOp": "2026-11-26T04:00:56.397Z",
       "bronTitel": "Provinciehuis kleurt oranje voor Orange the World",
       "bronLengte": 3036,
       "checklist": {
@@ -629,7 +630,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "e34d68f835-v1",
@@ -666,7 +668,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "1fffd00f47-v1",
@@ -703,7 +706,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "1a1ab794e1-v1",
@@ -740,7 +744,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "37ec8128be-v1",
@@ -777,7 +782,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "400817957d-v1",
@@ -814,7 +820,8 @@
         "banen": null,
         "inRegio": true
       },
-      "checklistBron": "patroon"
+      "checklistBron": "patroon",
+      "tagVersie": 2
     },
     {
       "id": "4708615d40-v1",
