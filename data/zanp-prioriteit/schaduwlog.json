@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-26T11:00:54.481Z",
+  "gegenereerdOp": "2026-11-26T12:00:50.696Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": false,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 2,
-      "lokaal": 2,
+      "werklijst": 0,
+      "lokaal": 0,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -90,8 +90,8 @@
       "key": "a:e09bb78351",
       "soort": "agenda",
       "kop": "Orange The World: Op pad met ROSA!",
-      "S": 0.25,
-      "Sa": 0.25,
+      "S": 0.24,
+      "Sa": 0.24,
       "Sp": 0,
       "route": "aanhoudend",
       "K": 0.5,
@@ -122,7 +122,7 @@
       "Sa": 0.23,
       "Sp": 0,
       "route": "aanhoudend",
-      "K": 0.18,
+      "K": 0.17,
       "Kp": 0,
       "n": 4,
       "dagen": 4,
