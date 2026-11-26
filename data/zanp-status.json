@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-26T12:00:50.696Z",
+  "gegenereerdOp": "2026-11-26T13:00:59.026Z",
   "alertModus": "log",
   "bronnen": {
     "zaansche-molen": {
@@ -44,7 +44,7 @@
       }
     },
     "nh-actueel": {
-      "laatsteScrape": "2026-11-26T12:00:50.696Z",
+      "laatsteScrape": "2026-11-26T13:00:59.026Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -55,7 +55,7 @@
       }
     },
     "nh-cultuur": {
-      "laatsteScrape": "2026-11-26T12:00:50.696Z",
+      "laatsteScrape": "2026-11-26T13:00:59.026Z",
       "gevonden": 15,
       "opeenvolgendLeeg": 0,
       "opeenvolgendFout": 0,
@@ -142,37 +142,37 @@
       "opeenvolgendFout": 0
     },
     "vervoerregio-overzichten": {
-      "laatsteScrape": "2026-11-26T12:00:50.696Z",
+      "laatsteScrape": "2026-11-26T13:00:59.026Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 13,
+      "opeenvolgendLeeg": 14,
       "opeenvolgendFout": 0
     },
     "zaanstad-moties": {
-      "laatsteScrape": "2026-11-26T12:00:50.696Z",
+      "laatsteScrape": "2026-11-26T13:00:59.026Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 298,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 299,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-25T13:00:50.312Z",
+        "tijd": "2026-11-26T13:00:59.026Z",
         "bericht": "Lijst ophalen mislukt: This operation was aborted",
         "duurSec": null
       }
     },
     "zaanstad-camera": {
-      "laatsteScrape": "2026-11-26T12:00:50.696Z",
+      "laatsteScrape": "2026-11-26T13:00:59.026Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 343,
-      "opeenvolgendFout": 0,
+      "opeenvolgendLeeg": 344,
+      "opeenvolgendFout": 1,
       "laatsteFout": {
-        "tijd": "2026-11-26T10:00:58.443Z",
+        "tijd": "2026-11-26T13:00:59.026Z",
         "bericht": "RSS-feed ophalen mislukt: HTTP 403",
         "duurSec": null
       }
     },
     "zaanstad-ted": {
-      "laatsteScrape": "2026-11-26T12:00:50.696Z",
+      "laatsteScrape": "2026-11-26T13:00:59.026Z",
       "gevonden": 0,
-      "opeenvolgendLeeg": 112,
+      "opeenvolgendLeeg": 113,
       "opeenvolgendFout": 0
     }
   },
@@ -448,8 +448,8 @@
       "tekstenOpgeruimd": 0,
       "tekstDekkingPct": 100,
       "stukken": 572,
-      "kandidaten": 47,
-      "metAnker": 47,
+      "kandidaten": 44,
+      "metAnker": 44,
       "zonderAnker": 0,
       "afgelast": 0,
       "dubbel": 0,
