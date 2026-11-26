@@ -1,11 +1,11 @@
 {
-  "gegenereerdOp": "2026-11-26T06:00:51.705Z",
+  "gegenereerdOp": "2026-11-26T07:00:48.908Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
   "stats": {
     "modus": "schaduw",
-    "ai": true,
+    "ai": false,
     "formule": "v4-22806000",
     "tekst": {
       "werklijst": 0,
