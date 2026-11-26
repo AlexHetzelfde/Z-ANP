@@ -1,173 +1,7 @@
 {
-  "gegenereerdOp": "2026-11-26T04:53:39.606Z",
+  "gegenereerdOp": "2026-11-26T05:00:53.283Z",
   "uitleg": "Per run per onderdeel: tellers (optellend), waarden (meting van die run), voorbeelden en regels. De laatste 24 runs hebben voorbeelden en regels; 'dagen' telt de tellers per dag op.",
   "runs": [
-    {
-      "tijd": "2026-11-23T11:00:51.259Z",
-      "duurMs": 6558,
-      "onderdelen": {
-        "spelling": {
-          "tellers": {},
-          "waarden": {}
-        },
-        "bronnen": {
-          "tellers": {
-            "gescrapet": 6,
-            "fout": 0,
-            "leegZonderFout": 4
-          },
-          "waarden": {
-            "leegZonderFoutLijst": [
-              "vervoerregio-overzichten",
-              "zaanstad-moties",
-              "zaanstad-camera",
-              "zaanstad-ted"
-            ]
-          }
-        },
-        "tekst": {
-          "tellers": {
-            "oudeBestandenOvergezet": 0,
-            "dagbestandenVerwijderd": 0,
-            "bytesVerwijderd": 0
-          },
-          "waarden": {
-            "oudsteDagbestand": "2026-11-09",
-            "dekkingPct": 100,
-            "berichtenZonderTekst": 0,
-            "dekkingPerBron": {
-              "nh-actueel": {
-                "berichten": 26,
-                "metTekst": 26,
-                "pct": 100,
-                "gemTekens": 2759
-              },
-              "zaandijk-leeft": {
-                "berichten": 2,
-                "metTekst": 2,
-                "pct": 100,
-                "gemTekens": 2446
-              },
-              "vervoerregio-persberichten": {
-                "berichten": 3,
-                "metTekst": 3,
-                "pct": 100,
-                "gemTekens": 197
-              },
-              "ibabs-collegeberichten": {
-                "berichten": 19,
-                "metTekst": 19,
-                "pct": 100,
-                "gemTekens": 6211
-              },
-              "ibabs-ingekomen-stukken": {
-                "berichten": 22,
-                "metTekst": 22,
-                "pct": 100,
-                "gemTekens": 4800
-              },
-              "vervoerregio-overzichten": {
-                "berichten": 4,
-                "metTekst": 4,
-                "pct": 100,
-                "gemTekens": 5560
-              },
-              "zaanstad-ted": {
-                "berichten": 3,
-                "metTekst": 3,
-                "pct": 100,
-                "gemTekens": 56
-              },
-              "bekendmakingen": {
-                "berichten": 21,
-                "metTekst": 21,
-                "pct": 100,
-                "gemTekens": 724
-              },
-              "zaansche-molen": {
-                "berichten": 2,
-                "metTekst": 2,
-                "pct": 100,
-                "gemTekens": 1255
-              },
-              "DeOrkaan": {
-                "berichten": 62,
-                "metTekst": 62,
-                "pct": 100,
-                "gemTekens": 2752
-              },
-              "zaanstad-moties": {
-                "berichten": 43,
-                "metTekst": 43,
-                "pct": 100,
-                "gemTekens": 1054
-              },
-              "wetenregelgeving": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 2965
-              },
-              "rechtspraak-noord-holland": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 6002
-              },
-              "omgevingsdienstnoordzeekanaal": {
-                "berichten": 1,
-                "metTekst": 1,
-                "pct": 100,
-                "gemTekens": 2533
-              }
-            }
-          }
-        },
-        "jubileum": {
-          "tellers": {
-            "nieuwsRood": 0,
-            "agendaRood": 0,
-            "uitgesloten": 0,
-            "alRoodDoorPrioriteit": 1
-          },
-          "waarden": {}
-        },
-        "dossiers": {
-          "tellers": {
-            "stubsNieuw": 0,
-            "stubsVerlopen": 0,
-            "aiControles": 1,
-            "aiJa": 0,
-            "aiNee": 0,
-            "aiFout": 1,
-            "nieuweDossiers": 0,
-            "itemsToegevoegd": 0,
-            "dossiersVerlopen": 0
-          },
-          "waarden": {
-            "kandidatenDezeRun": [
-              "woning (5)"
-            ],
-            "stubsTotaal": 365,
-            "verhalen": 342,
-            "kandidaten": 1,
-            "dossiersActief": 0,
-            "modus": "log",
-            "dossiers": []
-          }
-        },
-        "run": {
-          "tellers": {},
-          "waarden": {
-            "berichten": 215,
-            "agendaItems": 242,
-            "aiVerzoeken": 0,
-            "geminiDagGebruikt": "0/80",
-            "duurSeconden": 7
-          }
-        }
-      }
-    },
     {
       "tijd": "2026-11-23T12:00:52.305Z",
       "duurMs": 16201,
@@ -8001,11 +7835,7 @@
       "onderdelen": {
         "spelling": {
           "tellers": {},
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": [
-            "Nederlands woordenboek geladen."
-          ]
+          "waarden": {}
         },
         "bronnen": {
           "tellers": {
@@ -8022,100 +7852,13 @@
               "zaanstad-camera",
               "zaanstad-ted"
             ]
-          },
-          "voorbeelden": [
-            {
-              "bron": "zaanse-schans",
-              "bericht": "Generieke lijst-scraper mislukt: HTTP 404 voor https://www.dezaanseschans.nl/contact/actueel/",
-              "duurSec": null,
-              "opeenvolgendFout": 7
-            },
-            {
-              "bron": "nh-cultuur",
-              "bericht": "time-out na 45.0s bij nh-cultuur",
-              "duurSec": 45,
-              "opeenvolgendFout": 1
-            }
-          ],
-          "regels": [
-            "[zaanse-schans] scrapen mislukt (7x achter elkaar): Generieke lijst-scraper mislukt: HTTP 404 voor https://www.dezaanseschans.nl/contact/actueel/",
-            "[nh-cultuur] scrapen mislukt na 45s (1x achter elkaar): time-out na 45.0s bij nh-cultuur"
-          ]
+          }
         },
         "ai": {
           "tellers": {
             "fout-http-401": 10
           },
-          "waarden": {},
-          "voorbeelden": [
-            {
-              "bron": "ibabs-collegeberichten",
-              "kop": "Kennisgeving wethouder Sahin: Vertrek programmadirecteuren Pact Zaandam Oost",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "nh-actueel",
-              "kop": "Peter Derk Wekx en Pieter Kraaijeveld nieuwe directeuren bij provincie Noord-Holland",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "nh-actueel",
-              "kop": "Provincie vraagt aandacht veiligheid weginspecteurs na aanrijding dienstwagen",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "nh-actueel",
-              "kop": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "nh-actueel",
-              "kop": "Kantoren Noord-Holland energiezuiniger",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "nh-actueel",
-              "kop": "Beperkingen voor scheepvaart en verkeersstops voor wegverkeer tijdens bouw Stolperbrug",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "omgevingsdienstnoordzeekanaal",
-              "kop": "Update samenwerking Noord-Hollandse omgevingsdiensten",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            },
-            {
-              "bron": "bekendmakingen",
-              "kop": "Melding toepassen grond en baggerspecie - Nabij Clusiusstraat 165 Zaandam , 46 meter rich…",
-              "modus": "volledig",
-              "categorie": "http-401",
-              "reden": "HTTP 401: API key not valid. Please pass a valid API key.",
-              "status": 401
-            }
-          ],
-          "regels": [
-            "10x http-401: HTTP 401: API key not valid. Please pass a valid API key. (bronnen: ibabs-collegeberichten, nh-actueel, omgevingsdienstnoordzeekanaal, bekendmakingen, vervoerregio-persberichten, vervoerregio-overzichten)"
-          ]
+          "waarden": {}
         },
         "tekst": {
           "tellers": {
@@ -8216,60 +7959,7 @@
                 "gemTekens": 2965
               }
             }
-          },
-          "voorbeelden": [
-            {
-              "bron": "WaarheenAgenda",
-              "methode": "run",
-              "kop": "Wintermarkt Zonnehoek",
-              "tekensVoor": 448,
-              "tekensNa": 448,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "Odion Zonnehoek viert 60 jaar met wintermarkt Odion Zonnehoek organiseert de jaarlijkse wintermarkt en viert tegelijkertijd het 60-jarig bestaan van Odion. In de gymzaal staan verschillende kraampjes met zelfgemaakte pro",
-              "eind": "een tombola met leuke prijzen. Bezoekers kunnen rondkijken, iets leuks kopen en genieten van de feestelijke wintersfeer."
-            },
-            {
-              "bron": "omgevingsdienstnoordzeekanaal",
-              "methode": "run",
-              "kop": "Update samenwerking Noord-Hollandse omgevingsdiensten",
-              "tekensVoor": 1271,
-              "tekensNa": 1273,
-              "alineas": 3,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "Voorverkenning ODNZKG en OD IJmond In december 2025 stemde het Algemeen Bestuur van OD NZKG in met een voorverkenning naar een eventuele fusie met ODIJmond. Een extern bureau voerde deze voorverkenning uit. De uitkomsten",
-              "eind": "de van het eerste kwartaal van 2027. Medio 2027 wordt besloten of er tot een daadwerkelijke verkenning wordt overgegaan."
-            },
-            {
-              "bron": "ibabs-collegeberichten",
-              "methode": "run",
-              "kop": "Kennisgeving wethouder Sahin: Vertrek programmadirecteuren Pact Zaandam Oost",
-              "tekensVoor": 2013,
-              "tekensNa": 2013,
-              "alineas": 7,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": true,
-              "begin": "Kennisgeving\n\nSahin, E.\n\nTer kennisname\n\ngemeente Zaanstad wethouder E. Sahin Stadhuisplein 100 1506 MZ Zaandam Postbus 2000 Kennisgeving 1500 GA Zaandam AAN Gemeenteraad DATUM 24 november 2026 Telefoon 14 075 www.zaanst",
-              "eind": "e van deze ambitie. Wij houden u op de hoogte van de verdere ontwikkelingen. Met vriendelijke groet, E. Sahin, wethouder"
-            },
-            {
-              "bron": "vervoerregio-persberichten",
-              "methode": "lijst",
-              "kop": "Vervoerregio vraagt om meer bevoegdheden voor bekostiging infrastructuur",
-              "tekensVoor": 444,
-              "tekensNa": 444,
-              "alineas": 1,
-              "rommelRegelsWeg": 0,
-              "alineasHerleid": false,
-              "begin": "De Vervoerregio Amsterdam roept het Rijk op om gemeenten, provincies en vervoerregio’s de bevoegdheid te geven gerichte heffingen in te zetten om nieuwe infrastructuur mee te bekostigen. Denk bijvoorbeeld aan een werkgev",
-              "eind": "ontwikkelaars die profiteren van betere bereikbaarheid bijdragen aan het realiseren van nieuwe wegen of ov-verbindingen."
-            }
-          ],
-          "regels": [
-            "Dekking volledige tekst: 150/150 berichten (100%)."
-          ]
+          }
         },
         "jubileum": {
           "tellers": {
@@ -8278,9 +7968,7 @@
             "uitgesloten": 0,
             "alRoodDoorPrioriteit": 1
           },
-          "waarden": {},
-          "voorbeelden": [],
-          "regels": []
+          "waarden": {}
         },
         "dossiers": {
           "tellers": {
@@ -8305,12 +7993,7 @@
             "dossiersActief": 0,
             "modus": "log",
             "dossiers": []
-          },
-          "voorbeelden": [],
-          "regels": [
-            "AI-controle van \"nieuw\" mislukte (volgende run opnieuw): HTTP 401: API key not valid. Please pass a valid API key.",
-            "AI-controle van \"woning\" mislukte (volgende run opnieuw): HTTP 401: API key not valid. Please pass a valid API key."
-          ]
+          }
         },
         "run": {
           "tellers": {},
@@ -8320,9 +8003,7 @@
             "aiVerzoeken": 0,
             "geminiDagGebruikt": "0/80",
             "duurSeconden": 112
-          },
-          "voorbeelden": [],
-          "regels": []
+          }
         }
       }
     },
@@ -14031,6 +13712,175 @@
           "regels": []
         }
       }
+    },
+    {
+      "tijd": "2026-11-26T05:00:53.283Z",
+      "duurMs": 1085,
+      "onderdelen": {
+        "spelling": {
+          "tellers": {},
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": [
+            "Nederlands woordenboek geladen."
+          ]
+        },
+        "bronnen": {
+          "tellers": {
+            "gescrapet": 0,
+            "fout": 0,
+            "leegZonderFout": 0
+          },
+          "waarden": {
+            "leegZonderFoutLijst": []
+          },
+          "voorbeelden": [],
+          "regels": []
+        },
+        "tekst": {
+          "tellers": {
+            "oudeBestandenOvergezet": 0,
+            "dagbestandenVerwijderd": 0,
+            "bytesVerwijderd": 0
+          },
+          "waarden": {
+            "oudsteDagbestand": "2026-11-12",
+            "dekkingPct": 100,
+            "berichtenZonderTekst": 0,
+            "dekkingPerBron": {
+              "nh-actueel": {
+                "berichten": 30,
+                "metTekst": 30,
+                "pct": 100,
+                "gemTekens": 2845
+              },
+              "omgevingsdienstnoordzeekanaal": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 1836
+              },
+              "ibabs-collegeberichten": {
+                "berichten": 13,
+                "metTekst": 13,
+                "pct": 100,
+                "gemTekens": 6179
+              },
+              "ibabs-ingekomen-stukken": {
+                "berichten": 16,
+                "metTekst": 16,
+                "pct": 100,
+                "gemTekens": 5890
+              },
+              "vervoerregio-persberichten": {
+                "berichten": 5,
+                "metTekst": 5,
+                "pct": 100,
+                "gemTekens": 595
+              },
+              "vervoerregio-overzichten": {
+                "berichten": 5,
+                "metTekst": 5,
+                "pct": 100,
+                "gemTekens": 6250
+              },
+              "bekendmakingen": {
+                "berichten": 8,
+                "metTekst": 8,
+                "pct": 100,
+                "gemTekens": 666
+              },
+              "zaandijk-leeft": {
+                "berichten": 3,
+                "metTekst": 3,
+                "pct": 100,
+                "gemTekens": 2260
+              },
+              "zaanstad-ted": {
+                "berichten": 2,
+                "metTekst": 2,
+                "pct": 100,
+                "gemTekens": 54
+              },
+              "zaansche-molen": {
+                "berichten": 1,
+                "metTekst": 1,
+                "pct": 100,
+                "gemTekens": 890
+              },
+              "DeOrkaan": {
+                "berichten": 22,
+                "metTekst": 22,
+                "pct": 100,
+                "gemTekens": 2160
+              },
+              "zaanstad-moties": {
+                "berichten": 21,
+                "metTekst": 21,
+                "pct": 100,
+                "gemTekens": 1070
+              }
+            }
+          },
+          "voorbeelden": [],
+          "regels": [
+            "Dekking volledige tekst: 128/128 berichten (100%)."
+          ]
+        },
+        "jubileum": {
+          "tellers": {
+            "nieuwsRood": 0,
+            "agendaRood": 0,
+            "uitgesloten": 0,
+            "alRoodDoorPrioriteit": 1
+          },
+          "waarden": {},
+          "voorbeelden": [],
+          "regels": []
+        },
+        "dossiers": {
+          "tellers": {
+            "stubsNieuw": 0,
+            "stubsVerlopen": 0,
+            "aiControles": 2,
+            "aiJa": 0,
+            "aiNee": 0,
+            "aiFout": 2,
+            "nieuweDossiers": 0,
+            "itemsToegevoegd": 0,
+            "dossiersVerlopen": 0
+          },
+          "waarden": {
+            "kandidatenDezeRun": [
+              "nieuw (6)",
+              "woning (5)"
+            ],
+            "stubsTotaal": 390,
+            "verhalen": 367,
+            "kandidaten": 2,
+            "dossiersActief": 0,
+            "modus": "log",
+            "dossiers": []
+          },
+          "voorbeelden": [],
+          "regels": [
+            "AI-controle van \"nieuw\" mislukte (volgende run opnieuw): HTTP 401: API key not valid. Please pass a valid API key.",
+            "AI-controle van \"woning\" mislukte (volgende run opnieuw): HTTP 401: API key not valid. Please pass a valid API key."
+          ]
+        },
+        "run": {
+          "tellers": {},
+          "waarden": {
+            "berichten": 131,
+            "agendaItems": 238,
+            "aiVerzoeken": 0,
+            "geminiDagGebruikt": "0/80",
+            "duurSeconden": 1
+          },
+          "voorbeelden": [],
+          "regels": []
+        }
+      }
     }
   ],
   "dagen": {
@@ -14647,7 +14497,7 @@
       }
     },
     "2026-11-26": {
-      "runs": 6,
+      "runs": 7,
       "tellers": {
         "spelling": {},
         "bronnen": {
@@ -14677,15 +14527,15 @@
           "nieuwsRood": 0,
           "agendaRood": 0,
           "uitgesloten": 0,
-          "alRoodDoorPrioriteit": 6
+          "alRoodDoorPrioriteit": 7
         },
         "dossiers": {
           "stubsNieuw": 7,
           "stubsVerlopen": 0,
-          "aiControles": 12,
+          "aiControles": 14,
           "aiJa": 0,
           "aiNee": 0,
-          "aiFout": 12,
+          "aiFout": 14,
           "nieuweDossiers": 0,
           "itemsToegevoegd": 0,
           "dossiersVerlopen": 0
