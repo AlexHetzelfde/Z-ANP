@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-26T07:00:48.908Z",
+  "bijgewerkt": "2026-11-26T08:00:46.928Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4289,6 +4289,17 @@
       "b": "vervoerregio-persberichten",
       "n": "Vervoerregio — Persberichten Zaanstad",
       "t": "2026-11-24T23:00:00.000Z",
+      "c": null,
+      "r": "VER"
+    },
+    "424e244c7c": {
+      "g": "424e244c7c",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Schoorldammerbrug_bij_Warmenhuizen_meerdere_dagen_afgesloten_wegens_onderhoud",
+      "k": "Schoorldammerbrug bij Warmenhuizen meerdere dagen afgesloten wegens onderhoud",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-25T17:22:52.000Z",
       "c": null,
       "r": "VER"
     }

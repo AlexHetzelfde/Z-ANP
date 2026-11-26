@@ -1,5 +1,5 @@
 {
-  "gegenereerdOp": "2026-11-26T07:00:48.908Z",
+  "gegenereerdOp": "2026-11-26T08:00:46.928Z",
   "modus": "schaduw",
   "stempel": "v4-22806000",
   "tau": 0.5,
@@ -8,8 +8,8 @@
     "ai": false,
     "formule": "v4-22806000",
     "tekst": {
-      "werklijst": 0,
-      "lokaal": 0,
+      "werklijst": 1,
+      "lokaal": 1,
       "opgehaald": 0,
       "mislukt": 0,
       "uitgesteld": 0
@@ -17,9 +17,9 @@
     "vergeten": 0,
     "tekstenOpgeruimd": 0,
     "tekstDekkingPct": 100,
-    "stukken": 569,
-    "kandidaten": 45,
-    "metAnker": 45,
+    "stukken": 570,
+    "kandidaten": 46,
+    "metAnker": 46,
     "zonderAnker": 0,
     "afgelast": 0,
     "dubbel": 0,
@@ -83,6 +83,34 @@
           "c": 0.68,
           "plek": "intro",
           "titel": "Aanvullende vragen nieuwe ov-abonnementenstructuur"
+        }
+      ]
+    },
+    {
+      "key": "a:e09bb78351",
+      "soort": "agenda",
+      "kop": "Orange The World: Op pad met ROSA!",
+      "S": 0.25,
+      "Sa": 0.25,
+      "Sp": 0,
+      "route": "aanhoudend",
+      "K": 0.5,
+      "Kp": 0.31,
+      "n": 1,
+      "dagen": 1,
+      "bronnen": 1,
+      "ankers": [
+        "world",
+        "orang",
+        "zangolf"
+      ],
+      "bewijs": [
+        {
+          "bron": "nh-actueel",
+          "datum": "2026-11-25T09:55:23.000Z",
+          "c": 0.85,
+          "plek": "kop",
+          "titel": "Provinciehuis kleurt oranje voor Orange the World"
         }
       ]
     },
@@ -487,26 +515,6 @@
       "bewijs": []
     },
     {
-      "key": "a:e09bb78351",
-      "soort": "agenda",
-      "kop": "Orange The World: Op pad met ROSA!",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.17,
-      "Kp": 0,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "world",
-        "orang",
-        "zangolf"
-      ],
-      "bewijs": []
-    },
-    {
       "key": "a:0074fed529",
       "soort": "agenda",
       "kop": "Workshop: Participatie bij opvanglocaties en Hoe ga je om met emoties bij participatie",
@@ -773,6 +781,26 @@
       "bewijs": []
     },
     {
+      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Schoorldammerbrug_bij_Warmenhuizen_meerdere_dagen_afgesloten_wegens_onderhoud",
+      "soort": "nieuws",
+      "kop": "Schoorldammerbrug bij Warmenhuizen meerdere dagen afgesloten wegens onderhoud",
+      "S": 0,
+      "Sa": 0,
+      "Sp": 0,
+      "route": "geen",
+      "K": 0.49,
+      "Kp": 0.3,
+      "n": 0,
+      "dagen": 0,
+      "bronnen": 0,
+      "ankers": [
+        "schorldammerbrug",
+        "warmenhuiz",
+        "kanalweg"
+      ],
+      "bewijs": []
+    },
+    {
       "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/De_Sandvennen_versterkt_Heemskerk_tegen_wateroverlast",
       "soort": "nieuws",
       "kop": "De Sandvennen versterkt Heemskerk tegen wateroverlast",
@@ -1029,26 +1057,6 @@
         "anrijding",
         "wesley",
         "veiligheid"
-      ],
-      "bewijs": []
-    },
-    {
-      "key": "n:https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Werkzaamheden_aan_viaduct_N244_bij_Middenbeemster_starten_in_augustus",
-      "soort": "nieuws",
-      "kop": "Werkzaamheden aan viaduct N244 bij Middenbeemster starten in augustus",
-      "S": 0,
-      "Sa": 0,
-      "Sp": 0,
-      "route": "geen",
-      "K": 0.73,
-      "Kp": 0.54,
-      "n": 0,
-      "dagen": 0,
-      "bronnen": 0,
-      "ankers": [
-        "middenbemster",
-        "viaduct",
-        "n244"
       ],
       "bewijs": []
     }
@@ -3733,6 +3741,14 @@
         "n": 3,
         "bronnen": 1
       },
+      "a:e09bb78351": {
+        "kop": "Orange The World: Op pad met ROSA!",
+        "S": 0.25,
+        "route": "aanhoudend",
+        "K": 0.5,
+        "n": 1,
+        "bronnen": 1
+      },
       "a:aea0d9f918": {
         "kop": "Last onder bestuursdwang sluiting bedrijfspand Rak 39 te Westzaan",
         "S": 0.23,
@@ -3834,14 +3850,6 @@
         "S": 0,
         "route": "geen",
         "K": 0,
-        "n": 0,
-        "bronnen": 0
-      },
-      "a:e09bb78351": {
-        "kop": "Orange The World: Op pad met ROSA!",
-        "S": 0,
-        "route": "geen",
-        "K": 0.17,
         "n": 0,
         "bronnen": 0
       },
