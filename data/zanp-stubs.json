@@ -1,6 +1,6 @@
 {
   "versie": 1,
-  "bijgewerkt": "2026-11-26T10:00:58.443Z",
+  "bijgewerkt": "2026-11-26T11:00:54.481Z",
   "items": {
     "d0a0aa7b4e": {
       "g": "d0a0aa7b4e",
@@ -4302,6 +4302,28 @@
       "t": "2026-11-25T17:22:52.000Z",
       "c": null,
       "r": "VER"
+    },
+    "582e0d002d": {
+      "g": "582e0d002d",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Groen_licht_voor_bouw_350_woningen_in_Stompetoren_West",
+      "k": "Groen licht voor bouw 350 woningen in Stompetoren-West",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-26T11:14:07.000Z",
+      "c": null,
+      "r": "WON"
+    },
+    "ef06e2daa0": {
+      "g": "ef06e2daa0",
+      "u": "https://www.noord-holland.nl/Actueel/Archief/2026/November_2026/Jongeren_op_de_stoel_Statenleden_Iedereen_moet_zich_veilig_voelen",
+      "k": "Jongeren op de stoel Statenleden: “Iedereen moet zich veilig voelen”",
+      "bt": "",
+      "b": "nh-actueel",
+      "n": "Provincie Noord-Holland — Actueel",
+      "t": "2026-11-26T10:38:33.000Z",
+      "c": null,
+      "r": "PRV"
     }
   }
 }
